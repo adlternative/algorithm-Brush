@@ -1,0 +1,30164 @@
+start in（3,2)
+try 3 2
+0
+try 4 4
+1
+try 4 0
+1
+try 5 3
+1
+try 5 1
+1
+try 2 4
+1
+try 2 0
+1
+try 3 2
+2
+try 3 -2
+2
+try 4 1
+2
+try 4 -1
+2
+try 1 2
+2
+try 2 4
+3
+try 2 0
+3
+try 3 3
+3
+try 4 5
+4
+try 4 1
+4
+try 5 4
+4
+try 5 2
+4
+try 2 5
+4
+try 2 1
+4
+try 3 3
+5
+try 3 -1
+5
+try 4 2
+5
+try 4 0
+5
+try 1 3
+5
+try 2 5
+6
+try 2 1
+6
+try 3 4
+6
+try 3 2
+6
+try 0 5
+6
+try 0 1
+6
+try 1 3
+7
+try 1 -1
+7
+try 2 2
+7
+try 3 4
+8
+try 3 0
+8
+try 4 2
+9
+try 4 -2
+9
+try 5 1
+9
+try 5 -1
+9
+try 2 2
+9
+try 2 -2
+9
+try 1 1
+9
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 3 -1
+13
+try 0 2
+13
+try 1 4
+14
+try 1 0
+14
+try 2 3
+14
+try 2 1
+14
+try -1 4
+14
+try -1 0
+14
+try -2 3
+14
+try -2 1
+14
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 0 4
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 4 3
+14
+try 4 -1
+14
+try 5 2
+14
+try 5 0
+14
+try 2 3
+14
+try 2 -1
+14
+try 1 2
+14
+try 1 0
+14
+try 3 -1
+13
+try 0 2
+13
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 2 3
+12
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 2 -1
+10
+try 3 2
+10
+try 3 0
+10
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 -1
+10
+try -1 2
+10
+try -1 0
+10
+try 1 -1
+9
+try 4 3
+8
+try 4 1
+8
+try 1 4
+8
+try 1 0
+8
+try 2 2
+9
+try 2 -2
+9
+try 3 1
+9
+try 4 3
+10
+try 4 -1
+10
+try 5 2
+10
+try 5 0
+10
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 2 3
+12
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 0 4
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 3
+12
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 2 -1
+10
+try 1 2
+10
+try 1 0
+10
+try 3 -1
+9
+try 0 2
+9
+try 1 4
+10
+try 1 0
+10
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 2 3
+12
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 0 4
+11
+try 0 2
+11
+try 2 1
+10
+try -1 4
+10
+try -1 0
+10
+try -2 3
+10
+try -2 1
+10
+try 0 -2
+9
+try -1 1
+9
+try -1 -1
+9
+try 0 3
+8
+try 1 5
+9
+try 1 1
+9
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 3 -1
+13
+try 0 2
+13
+try 1 4
+14
+try 1 0
+14
+try 2 3
+14
+try 2 1
+14
+try -1 4
+14
+try -1 0
+14
+try -2 3
+14
+try -2 1
+14
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 0 4
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 4 3
+14
+try 4 -1
+14
+try 5 2
+14
+try 5 0
+14
+try 2 3
+14
+try 2 -1
+14
+try 1 2
+14
+try 1 0
+14
+try 3 -1
+13
+try 0 2
+13
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 2 3
+12
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 2 -1
+10
+try 3 2
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 1 -1
+11
+try 0 3
+10
+try 0 -1
+10
+try -1 2
+10
+try -1 0
+10
+try 2 4
+9
+try 2 2
+9
+try -1 5
+9
+try -1 1
+9
+try -2 4
+9
+try -2 2
+9
+try 0 1
+8
+try 2 0
+7
+try -1 3
+7
+try -1 -1
+7
+try -2 2
+7
+try -2 0
+7
+try -1 4
+6
+try -1 2
+6
+try 1 -1
+5
+try 0 2
+5
+try 1 4
+6
+try 1 0
+6
+try 2 2
+7
+try 3 4
+8
+try 3 0
+8
+try 4 2
+9
+try 4 -2
+9
+try 5 1
+9
+try 5 -1
+9
+try 2 2
+9
+try 2 -2
+9
+try 1 1
+9
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 0 4
+11
+try 0 2
+11
+try 2 -1
+10
+try 3 2
+10
+try 3 0
+10
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 -1
+10
+try -1 2
+10
+try -1 0
+10
+try 1 -1
+9
+try 4 3
+8
+try 4 1
+8
+try 1 4
+8
+try 1 0
+8
+try 0 3
+8
+try 1 5
+9
+try 1 1
+9
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 0 4
+11
+try 0 2
+11
+try 2 -1
+10
+try 3 2
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 1 -1
+11
+try 0 3
+10
+try 0 -1
+10
+try -1 2
+10
+try -1 0
+10
+try 2 4
+9
+try 2 2
+9
+try -1 5
+9
+try -1 1
+9
+try -2 4
+9
+try -2 2
+9
+try 0 1
+8
+try 1 3
+9
+try 2 5
+10
+try 2 1
+10
+try 3 4
+10
+try 3 2
+10
+try 0 5
+10
+try 0 1
+10
+try -1 4
+10
+try -1 2
+10
+try 1 -1
+9
+try 2 2
+9
+try 2 0
+9
+try -1 3
+9
+try -1 -1
+9
+try -2 2
+9
+try -2 0
+9
+try 2 -2
+7
+try 3 1
+7
+try 4 3
+8
+try 4 -1
+8
+try 5 2
+8
+try 5 0
+8
+try 2 3
+8
+try 3 5
+9
+try 3 1
+9
+try 4 4
+9
+try 4 2
+9
+try 1 5
+9
+try 1 1
+9
+try 2 3
+10
+try 2 -1
+10
+try 3 2
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 3 4
+12
+try 3 0
+12
+try 4 3
+12
+try 4 1
+12
+try 1 4
+12
+try 1 0
+12
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 1
+12
+try 1 3
+13
+try 2 5
+14
+try 2 1
+14
+try 3 4
+14
+try 3 2
+14
+try 0 5
+14
+try 0 1
+14
+try -1 4
+14
+try -1 2
+14
+try 1 -1
+13
+try 2 2
+13
+try 2 0
+13
+try -1 3
+13
+try -1 -1
+13
+try -2 2
+13
+try -2 0
+13
+try 2 -2
+11
+try 1 1
+11
+try 1 -1
+11
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 4
+11
+try 2 2
+11
+try 3 4
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 4 3
+12
+try 4 1
+12
+try 1 4
+12
+try 1 0
+12
+try 0 3
+12
+try 0 1
+12
+try 1 3
+13
+try 2 5
+14
+try 2 1
+14
+try 3 4
+14
+try 3 2
+14
+try 0 5
+14
+try 0 1
+14
+try -1 4
+14
+try -1 2
+14
+try 1 -1
+13
+try 2 2
+13
+try 2 0
+13
+try -1 3
+13
+try -1 -1
+13
+try -2 2
+13
+try -2 0
+13
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 -1
+10
+try -1 2
+10
+try -1 0
+10
+try 0 4
+9
+try 0 2
+9
+try 2 -1
+8
+try 1 2
+8
+try 1 0
+8
+try 3 -1
+7
+try 0 2
+7
+try 0 -2
+7
+try -1 1
+7
+try -1 -1
+7
+try 2 3
+6
+try 3 5
+7
+try 3 1
+7
+try 4 3
+8
+try 4 -1
+8
+try 5 2
+8
+try 5 0
+8
+try 2 3
+8
+try 2 -1
+8
+try 1 2
+8
+try 1 0
+8
+try 2 2
+9
+try 3 4
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 2 3
+12
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 1 -1
+11
+try 4 3
+10
+try 4 1
+10
+try 1 4
+10
+try 1 0
+10
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 3
+12
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 0 3
+12
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 1
+10
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 2 2
+11
+try 2 0
+11
+try -1 3
+11
+try -1 -1
+11
+try -2 2
+11
+try -2 0
+11
+try 2 -2
+9
+try 3 1
+9
+try 3 -1
+9
+try 0 2
+9
+try 0 -2
+9
+try -1 1
+9
+try -1 -1
+9
+try 4 4
+7
+try 4 2
+7
+try 1 5
+7
+try 1 1
+7
+try 2 3
+8
+try 2 -1
+8
+try 3 2
+8
+try 3 0
+8
+try 4 2
+9
+try 4 -2
+9
+try 5 1
+9
+try 5 -1
+9
+try 2 2
+9
+try 3 4
+10
+try 3 0
+10
+try 4 3
+10
+try 4 1
+10
+try 1 4
+10
+try 1 0
+10
+try 2 2
+11
+try 2 -2
+11
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 3 -1
+11
+try 0 2
+11
+try 0 -2
+11
+try -1 1
+11
+try -1 -1
+11
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 1
+10
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 2 2
+11
+try 2 0
+11
+try -1 3
+11
+try -1 -1
+11
+try -2 2
+11
+try -2 0
+11
+try 2 -2
+9
+try 1 1
+9
+try 1 -1
+9
+try 0 3
+8
+try 1 5
+9
+try 1 1
+9
+try 2 4
+9
+try 2 2
+9
+try 3 4
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 1 -1
+11
+try 4 3
+10
+try 4 1
+10
+try 1 4
+10
+try 1 0
+10
+try 2 2
+11
+try 2 -2
+11
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 3 -1
+11
+try 0 2
+11
+try 0 -2
+11
+try -1 1
+11
+try -1 -1
+11
+try 0 3
+10
+try 0 1
+10
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 2 2
+11
+try 2 0
+11
+try -1 3
+11
+try -1 -1
+11
+try -2 2
+11
+try -2 0
+11
+try -1 5
+9
+try -1 1
+9
+try -2 4
+9
+try -2 2
+9
+try 0 -1
+8
+try -1 2
+8
+try -1 0
+8
+try 0 4
+7
+try 0 2
+7
+try 2 1
+6
+try -1 4
+6
+try -1 0
+6
+try -2 3
+6
+try -2 1
+6
+try 0 0
+5
+try 1 2
+6
+try 1 -2
+6
+try 2 1
+6
+try 2 -1
+6
+try -1 2
+6
+try -1 -2
+6
+try -2 1
+6
+try -2 -1
+6
+try 1 4
+4
+try 1 2
+4
+try 3 1
+3
+try 4 3
+4
+try 4 -1
+4
+try 5 2
+4
+try 5 0
+4
+try 2 3
+4
+try 3 5
+5
+try 3 1
+5
+try 4 4
+5
+try 4 2
+5
+try 1 5
+5
+try 1 1
+5
+try 2 3
+6
+try 2 -1
+6
+try 3 2
+6
+try 3 0
+6
+try 4 2
+7
+try 4 -2
+7
+try 5 1
+7
+try 5 -1
+7
+try 2 2
+7
+try 3 4
+8
+try 3 0
+8
+try 4 3
+8
+try 4 1
+8
+try 1 4
+8
+try 1 0
+8
+try 2 2
+9
+try 2 -2
+9
+try 3 1
+9
+try 3 -1
+9
+try 0 2
+9
+try 1 4
+10
+try 1 0
+10
+try 2 3
+10
+try 2 1
+10
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 -1
+11
+try 4 2
+11
+try 4 0
+11
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try 1 3
+13
+try 1 -1
+13
+try 2 2
+13
+try 2 0
+13
+try -1 3
+13
+try -1 -1
+13
+try -2 2
+13
+try -2 0
+13
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 0 2
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try -1 4
+10
+try -1 0
+10
+try -2 3
+10
+try -2 1
+10
+try 0 -2
+9
+try -1 1
+9
+try -1 -1
+9
+try 0 3
+8
+try 1 5
+9
+try 1 1
+9
+try 2 4
+9
+try 2 2
+9
+try -1 5
+9
+try -1 1
+9
+try -2 4
+9
+try -2 2
+9
+try 0 1
+8
+try 1 3
+9
+try 2 5
+10
+try 2 1
+10
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 -1
+11
+try 4 2
+11
+try 4 0
+11
+try 1 3
+11
+try 1 -1
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 3 -1
+13
+try 0 2
+13
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 2 3
+12
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try 3 4
+10
+try 3 2
+10
+try 0 5
+10
+try 0 1
+10
+try -1 4
+10
+try -1 2
+10
+try 1 -1
+9
+try 2 2
+9
+try 2 0
+9
+try -1 3
+9
+try -1 -1
+9
+try -2 2
+9
+try -2 0
+9
+try 2 -2
+7
+try 1 1
+7
+try 1 -1
+7
+try 0 3
+6
+try 1 5
+7
+try 1 1
+7
+try 2 4
+7
+try 2 2
+7
+try 3 4
+8
+try 3 0
+8
+try 4 2
+9
+try 4 -2
+9
+try 5 1
+9
+try 5 -1
+9
+try 2 2
+9
+try 2 -2
+9
+try 1 1
+9
+try 1 -1
+9
+try 4 3
+8
+try 4 1
+8
+try 1 4
+8
+try 1 0
+8
+try 2 2
+9
+try 2 -2
+9
+try 3 1
+9
+try 3 -1
+9
+try 0 2
+9
+try 1 4
+10
+try 1 0
+10
+try 2 3
+10
+try 2 1
+10
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 -1
+11
+try 4 2
+11
+try 4 0
+11
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try 1 3
+13
+try 1 -1
+13
+try 2 2
+13
+try 2 0
+13
+try -1 3
+13
+try -1 -1
+13
+try -2 2
+13
+try -2 0
+13
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 0 2
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try -1 4
+10
+try -1 0
+10
+try -2 3
+10
+try -2 1
+10
+try 0 -2
+9
+try -1 1
+9
+try -1 -1
+9
+try 0 3
+8
+try 0 1
+8
+try 1 3
+9
+try 2 5
+10
+try 2 1
+10
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 -1
+11
+try 4 2
+11
+try 4 0
+11
+try 1 3
+11
+try 1 -1
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 3 -1
+13
+try 0 2
+13
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 2 3
+12
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try 3 4
+10
+try 3 2
+10
+try 0 5
+10
+try 0 1
+10
+try -1 4
+10
+try -1 2
+10
+try 1 -1
+9
+try 2 2
+9
+try 2 0
+9
+try -1 3
+9
+try -1 -1
+9
+try -2 2
+9
+try -2 0
+9
+try -1 5
+7
+try -1 1
+7
+try -2 4
+7
+try -2 2
+7
+try 0 -1
+6
+try -1 2
+6
+try -1 0
+6
+try 0 4
+5
+try 0 2
+5
+try 1 4
+6
+try 1 0
+6
+try 2 2
+7
+try 3 4
+8
+try 3 0
+8
+try 4 2
+9
+try 4 -2
+9
+try 5 1
+9
+try 5 -1
+9
+try 2 2
+9
+try 2 -2
+9
+try 1 1
+9
+try 2 3
+10
+try 2 -1
+10
+try 3 2
+10
+try 3 0
+10
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 -1
+10
+try -1 2
+10
+try -1 0
+10
+try 1 -1
+9
+try 4 3
+8
+try 4 1
+8
+try 1 4
+8
+try 1 0
+8
+try 0 3
+8
+try 1 5
+9
+try 1 1
+9
+try 2 3
+10
+try 2 -1
+10
+try 3 2
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 1 -1
+11
+try 0 3
+10
+try 0 -1
+10
+try -1 2
+10
+try -1 0
+10
+try 2 4
+9
+try 2 2
+9
+try -1 5
+9
+try -1 1
+9
+try -2 4
+9
+try -2 2
+9
+try 0 1
+8
+try 1 3
+9
+try 2 5
+10
+try 2 1
+10
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 -1
+11
+try 4 2
+11
+try 4 0
+11
+try 1 3
+11
+try 1 -1
+11
+try 0 2
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try 3 4
+10
+try 3 2
+10
+try 0 5
+10
+try 0 1
+10
+try -1 4
+10
+try -1 2
+10
+try 1 -1
+9
+try 2 2
+9
+try 2 0
+9
+try -1 3
+9
+try -1 -1
+9
+try -2 2
+9
+try -2 0
+9
+try 2 -2
+7
+try 3 1
+7
+try 3 -1
+7
+try 0 2
+7
+try 0 -2
+7
+try -1 1
+7
+try -1 -1
+7
+try 2 3
+6
+try 2 1
+6
+try 3 3
+7
+try 4 5
+8
+try 4 1
+8
+try 5 4
+8
+try 5 2
+8
+try 2 5
+8
+try 2 1
+8
+try 1 4
+8
+try 1 2
+8
+try 3 -1
+7
+try 4 2
+7
+try 4 0
+7
+try 1 3
+7
+try 2 5
+8
+try 2 1
+8
+try 3 4
+8
+try 3 2
+8
+try 0 5
+8
+try 0 1
+8
+try 1 3
+9
+try 1 -1
+9
+try 2 2
+9
+try 3 4
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 2 3
+12
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 1 -1
+11
+try 4 3
+10
+try 4 1
+10
+try 1 4
+10
+try 1 0
+10
+try 2 2
+11
+try 2 -2
+11
+try 3 1
+11
+try 3 -1
+11
+try 0 2
+11
+try 0 -2
+11
+try -1 1
+11
+try -1 -1
+11
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 3
+12
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 0 3
+12
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 1
+10
+try 2 0
+9
+try -1 3
+9
+try -1 -1
+9
+try -2 2
+9
+try -2 0
+9
+try -1 4
+8
+try -1 2
+8
+try 1 -1
+7
+try 0 2
+7
+try 0 0
+7
+try 1 2
+8
+try 1 -2
+8
+try 2 1
+8
+try 2 -1
+8
+try -1 2
+8
+try -1 -2
+8
+try -2 1
+8
+try -2 -1
+8
+try -1 4
+6
+try -1 0
+6
+try -2 3
+6
+try -2 1
+6
+try 2 -1
+4
+try 1 2
+4
+try 1 0
+4
+try 2 2
+5
+try 3 4
+6
+try 3 0
+6
+try 4 2
+7
+try 4 -2
+7
+try 5 1
+7
+try 5 -1
+7
+try 2 2
+7
+try 2 -2
+7
+try 1 1
+7
+try 2 3
+8
+try 3 5
+9
+try 3 1
+9
+try 4 4
+9
+try 4 2
+9
+try 1 5
+9
+try 1 1
+9
+try 0 4
+9
+try 0 2
+9
+try 1 4
+10
+try 1 0
+10
+try 2 3
+10
+try 2 1
+10
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 -1
+11
+try 4 2
+11
+try 4 0
+11
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try 1 3
+13
+try 1 -1
+13
+try 2 2
+13
+try 2 0
+13
+try -1 3
+13
+try -1 -1
+13
+try -2 2
+13
+try -2 0
+13
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 0 2
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try -1 4
+10
+try -1 0
+10
+try -2 3
+10
+try -2 1
+10
+try 2 -1
+8
+try 3 2
+8
+try 3 0
+8
+try 0 3
+8
+try 1 5
+9
+try 1 1
+9
+try 2 4
+9
+try 2 2
+9
+try -1 5
+9
+try -1 1
+9
+try -2 4
+9
+try -2 2
+9
+try 0 -1
+8
+try -1 2
+8
+try -1 0
+8
+try 1 -1
+7
+try 4 3
+6
+try 4 1
+6
+try 1 4
+6
+try 1 0
+6
+try 0 3
+6
+try 1 5
+7
+try 1 1
+7
+try 2 3
+8
+try 3 5
+9
+try 3 1
+9
+try 4 4
+9
+try 4 2
+9
+try 1 5
+9
+try 1 1
+9
+try 0 4
+9
+try 0 2
+9
+try 1 4
+10
+try 1 0
+10
+try 2 3
+10
+try 2 1
+10
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 -1
+11
+try 4 2
+11
+try 4 0
+11
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try 1 3
+13
+try 1 -1
+13
+try 2 2
+13
+try 2 0
+13
+try -1 3
+13
+try -1 -1
+13
+try -2 2
+13
+try -2 0
+13
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 0 2
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try -1 4
+10
+try -1 0
+10
+try -2 3
+10
+try -2 1
+10
+try 2 -1
+8
+try 3 2
+8
+try 3 0
+8
+try 4 2
+9
+try 4 -2
+9
+try 5 1
+9
+try 5 -1
+9
+try 2 2
+9
+try 2 -2
+9
+try 1 1
+9
+try 1 -1
+9
+try 0 3
+8
+try 0 -1
+8
+try -1 2
+8
+try -1 0
+8
+try 2 4
+7
+try 2 2
+7
+try -1 5
+7
+try -1 1
+7
+try -2 4
+7
+try -2 2
+7
+try 0 1
+6
+try 1 3
+7
+try 2 5
+8
+try 2 1
+8
+try 3 3
+9
+try 4 5
+10
+try 4 1
+10
+try 5 4
+10
+try 5 2
+10
+try 2 5
+10
+try 2 1
+10
+try 1 4
+10
+try 1 2
+10
+try 3 -1
+9
+try 4 2
+9
+try 4 0
+9
+try 1 3
+9
+try 1 -1
+9
+try 0 2
+9
+try 1 4
+10
+try 1 0
+10
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 2 3
+12
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 0 4
+11
+try 0 2
+11
+try 2 1
+10
+try -1 4
+10
+try -1 0
+10
+try -2 3
+10
+try -2 1
+10
+try 0 0
+9
+try 1 2
+10
+try 1 -2
+10
+try 2 1
+10
+try 2 -1
+10
+try -1 2
+10
+try -1 -2
+10
+try -2 1
+10
+try -2 -1
+10
+try 3 4
+8
+try 3 2
+8
+try 0 5
+8
+try 0 1
+8
+try -1 4
+8
+try -1 2
+8
+try 1 -1
+7
+try 2 2
+7
+try 2 0
+7
+try -1 3
+7
+try -1 -1
+7
+try -2 2
+7
+try -2 0
+7
+try 2 -2
+5
+try 3 1
+5
+try 3 -1
+5
+try 0 2
+5
+try 1 4
+6
+try 1 0
+6
+try 2 3
+6
+try 3 5
+7
+try 3 1
+7
+try 4 4
+7
+try 4 2
+7
+try 1 5
+7
+try 1 1
+7
+try 2 3
+8
+try 2 -1
+8
+try 3 2
+8
+try 3 0
+8
+try 4 2
+9
+try 4 -2
+9
+try 5 1
+9
+try 5 -1
+9
+try 2 2
+9
+try 3 4
+10
+try 3 0
+10
+try 4 3
+10
+try 4 1
+10
+try 1 4
+10
+try 1 0
+10
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 1
+10
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 3
+13
+try 4 5
+14
+try 4 1
+14
+try 5 4
+14
+try 5 2
+14
+try 2 5
+14
+try 2 1
+14
+try 1 4
+14
+try 1 2
+14
+try 3 -1
+13
+try 4 2
+13
+try 4 0
+13
+try 1 3
+13
+try 1 -1
+13
+try 0 2
+13
+try 0 0
+13
+try 1 2
+14
+try 1 -2
+14
+try 2 1
+14
+try 2 -1
+14
+try -1 2
+14
+try -1 -2
+14
+try -2 1
+14
+try -2 -1
+14
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 2 2
+11
+try 2 0
+11
+try -1 3
+11
+try -1 -1
+11
+try -2 2
+11
+try -2 0
+11
+try 2 -2
+9
+try 1 1
+9
+try 1 -1
+9
+try 0 3
+8
+try 1 5
+9
+try 1 1
+9
+try 2 4
+9
+try 2 2
+9
+try 3 4
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 1 -1
+11
+try 4 3
+10
+try 4 1
+10
+try 1 4
+10
+try 1 0
+10
+try 0 3
+10
+try 0 1
+10
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 3
+13
+try 4 5
+14
+try 4 1
+14
+try 5 4
+14
+try 5 2
+14
+try 2 5
+14
+try 2 1
+14
+try 1 4
+14
+try 1 2
+14
+try 3 -1
+13
+try 4 2
+13
+try 4 0
+13
+try 1 3
+13
+try 1 -1
+13
+try 0 2
+13
+try 0 0
+13
+try 1 2
+14
+try 1 -2
+14
+try 2 1
+14
+try 2 -1
+14
+try -1 2
+14
+try -1 -2
+14
+try -2 1
+14
+try -2 -1
+14
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 2 2
+11
+try 2 0
+11
+try -1 3
+11
+try -1 -1
+11
+try -2 2
+11
+try -2 0
+11
+try -1 5
+9
+try -1 1
+9
+try -2 4
+9
+try -2 2
+9
+try 0 -1
+8
+try -1 2
+8
+try -1 0
+8
+try 0 4
+7
+try 0 2
+7
+try 2 1
+6
+try 3 3
+7
+try 4 5
+8
+try 4 1
+8
+try 5 4
+8
+try 5 2
+8
+try 2 5
+8
+try 2 1
+8
+try 1 4
+8
+try 1 2
+8
+try 3 -1
+7
+try 4 2
+7
+try 4 0
+7
+try 1 3
+7
+try 2 5
+8
+try 2 1
+8
+try 3 4
+8
+try 3 2
+8
+try 0 5
+8
+try 0 1
+8
+try 1 3
+9
+try 1 -1
+9
+try 2 2
+9
+try 3 4
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 2 3
+12
+try 3 5
+13
+try 3 1
+13
+try 4 4
+13
+try 4 2
+13
+try 1 5
+13
+try 1 1
+13
+try 0 4
+13
+try 0 2
+13
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 1 -1
+11
+try 4 3
+10
+try 4 1
+10
+try 1 4
+10
+try 1 0
+10
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 3
+12
+try 3 5
+13
+try 3 1
+13
+try 4 4
+13
+try 4 2
+13
+try 1 5
+13
+try 1 1
+13
+try 0 4
+13
+try 0 2
+13
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 0 3
+12
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 1
+10
+try 2 0
+9
+try -1 3
+9
+try -1 -1
+9
+try -2 2
+9
+try -2 0
+9
+try -1 4
+8
+try -1 2
+8
+try 1 -1
+7
+try 0 2
+7
+try 0 0
+7
+try 1 2
+8
+try 1 -2
+8
+try 2 1
+8
+try 2 -1
+8
+try -1 2
+8
+try -1 -2
+8
+try -2 1
+8
+try -2 -1
+8
+try -1 4
+6
+try -1 0
+6
+try -2 3
+6
+try -2 1
+6
+try 0 -2
+5
+try -1 1
+5
+try -1 -1
+5
+try 0 4
+3
+try 0 0
+3
+try 1 2
+4
+try 1 -2
+4
+try 2 1
+4
+try 3 3
+5
+try 4 5
+6
+try 4 1
+6
+try 5 4
+6
+try 5 2
+6
+try 2 5
+6
+try 2 1
+6
+try 1 4
+6
+try 1 2
+6
+try 3 -1
+5
+try 4 2
+5
+try 4 0
+5
+try 1 3
+5
+try 2 5
+6
+try 2 1
+6
+try 3 4
+6
+try 3 2
+6
+try 0 5
+6
+try 0 1
+6
+try 1 3
+7
+try 1 -1
+7
+try 2 2
+7
+try 3 4
+8
+try 3 0
+8
+try 4 2
+9
+try 4 -2
+9
+try 5 1
+9
+try 5 -1
+9
+try 2 2
+9
+try 2 -2
+9
+try 1 1
+9
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 3 -1
+13
+try 0 2
+13
+try 1 4
+14
+try 1 0
+14
+try 2 3
+14
+try 2 1
+14
+try -1 4
+14
+try -1 0
+14
+try -2 3
+14
+try -2 1
+14
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 0 4
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 4 3
+14
+try 4 -1
+14
+try 5 2
+14
+try 5 0
+14
+try 2 3
+14
+try 2 -1
+14
+try 1 2
+14
+try 1 0
+14
+try 3 -1
+13
+try 0 2
+13
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 2 3
+12
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 2 -1
+10
+try 3 2
+10
+try 3 0
+10
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 -1
+10
+try -1 2
+10
+try -1 0
+10
+try 1 -1
+9
+try 4 3
+8
+try 4 1
+8
+try 1 4
+8
+try 1 0
+8
+try 2 2
+9
+try 2 -2
+9
+try 3 1
+9
+try 4 3
+10
+try 4 -1
+10
+try 5 2
+10
+try 5 0
+10
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 2 3
+12
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 0 4
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 3
+12
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 2 -1
+10
+try 1 2
+10
+try 1 0
+10
+try 3 -1
+9
+try 0 2
+9
+try 1 4
+10
+try 1 0
+10
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 2 3
+12
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 0 4
+11
+try 0 2
+11
+try 2 1
+10
+try -1 4
+10
+try -1 0
+10
+try -2 3
+10
+try -2 1
+10
+try 0 -2
+9
+try -1 1
+9
+try -1 -1
+9
+try 0 3
+8
+try 1 5
+9
+try 1 1
+9
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 3 -1
+13
+try 0 2
+13
+try 1 4
+14
+try 1 0
+14
+try 2 3
+14
+try 2 1
+14
+try -1 4
+14
+try -1 0
+14
+try -2 3
+14
+try -2 1
+14
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 0 4
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 4 3
+14
+try 4 -1
+14
+try 5 2
+14
+try 5 0
+14
+try 2 3
+14
+try 2 -1
+14
+try 1 2
+14
+try 1 0
+14
+try 3 -1
+13
+try 0 2
+13
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 2 3
+12
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 2 -1
+10
+try 3 2
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 1 -1
+11
+try 0 3
+10
+try 0 -1
+10
+try -1 2
+10
+try -1 0
+10
+try 2 4
+9
+try 2 2
+9
+try -1 5
+9
+try -1 1
+9
+try -2 4
+9
+try -2 2
+9
+try 0 1
+8
+try 2 0
+7
+try -1 3
+7
+try -1 -1
+7
+try -2 2
+7
+try -2 0
+7
+try -1 4
+6
+try -1 2
+6
+try 1 -1
+5
+try 0 2
+5
+try 1 4
+6
+try 1 0
+6
+try 2 2
+7
+try 3 4
+8
+try 3 0
+8
+try 4 2
+9
+try 4 -2
+9
+try 5 1
+9
+try 5 -1
+9
+try 2 2
+9
+try 2 -2
+9
+try 1 1
+9
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 0 4
+11
+try 0 2
+11
+try 2 -1
+10
+try 3 2
+10
+try 3 0
+10
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 -1
+10
+try -1 2
+10
+try -1 0
+10
+try 1 -1
+9
+try 4 3
+8
+try 4 1
+8
+try 1 4
+8
+try 1 0
+8
+try 0 3
+8
+try 1 5
+9
+try 1 1
+9
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 0 4
+11
+try 0 2
+11
+try 2 -1
+10
+try 3 2
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 1 -1
+11
+try 0 3
+10
+try 0 -1
+10
+try -1 2
+10
+try -1 0
+10
+try 2 4
+9
+try 2 2
+9
+try -1 5
+9
+try -1 1
+9
+try -2 4
+9
+try -2 2
+9
+try 0 1
+8
+try 1 3
+9
+try 2 5
+10
+try 2 1
+10
+try 3 4
+10
+try 3 2
+10
+try 0 5
+10
+try 0 1
+10
+try -1 4
+10
+try -1 2
+10
+try 1 -1
+9
+try 2 2
+9
+try 2 0
+9
+try -1 3
+9
+try -1 -1
+9
+try -2 2
+9
+try -2 0
+9
+try 2 -2
+7
+try 3 1
+7
+try 4 3
+8
+try 4 -1
+8
+try 5 2
+8
+try 5 0
+8
+try 2 3
+8
+try 3 5
+9
+try 3 1
+9
+try 4 4
+9
+try 4 2
+9
+try 1 5
+9
+try 1 1
+9
+try 2 3
+10
+try 2 -1
+10
+try 3 2
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 3 4
+12
+try 3 0
+12
+try 4 3
+12
+try 4 1
+12
+try 1 4
+12
+try 1 0
+12
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 1
+12
+try 1 3
+13
+try 2 5
+14
+try 2 1
+14
+try 3 4
+14
+try 3 2
+14
+try 0 5
+14
+try 0 1
+14
+try -1 4
+14
+try -1 2
+14
+try 1 -1
+13
+try 2 2
+13
+try 2 0
+13
+try -1 3
+13
+try -1 -1
+13
+try -2 2
+13
+try -2 0
+13
+try 2 -2
+11
+try 1 1
+11
+try 1 -1
+11
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 4
+11
+try 2 2
+11
+try 3 4
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 4 3
+12
+try 4 1
+12
+try 1 4
+12
+try 1 0
+12
+try 0 3
+12
+try 0 1
+12
+try 1 3
+13
+try 2 5
+14
+try 2 1
+14
+try 3 4
+14
+try 3 2
+14
+try 0 5
+14
+try 0 1
+14
+try -1 4
+14
+try -1 2
+14
+try 1 -1
+13
+try 2 2
+13
+try 2 0
+13
+try -1 3
+13
+try -1 -1
+13
+try -2 2
+13
+try -2 0
+13
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 -1
+10
+try -1 2
+10
+try -1 0
+10
+try 0 4
+9
+try 0 2
+9
+try 2 -1
+8
+try 1 2
+8
+try 1 0
+8
+try 3 -1
+7
+try 0 2
+7
+try 0 -2
+7
+try -1 1
+7
+try -1 -1
+7
+try 2 3
+6
+try 3 5
+7
+try 3 1
+7
+try 4 3
+8
+try 4 -1
+8
+try 5 2
+8
+try 5 0
+8
+try 2 3
+8
+try 2 -1
+8
+try 1 2
+8
+try 1 0
+8
+try 2 2
+9
+try 3 4
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 2 3
+12
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 1 -1
+11
+try 4 3
+10
+try 4 1
+10
+try 1 4
+10
+try 1 0
+10
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 3
+12
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 0 3
+12
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 1
+10
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 2 2
+11
+try 2 0
+11
+try -1 3
+11
+try -1 -1
+11
+try -2 2
+11
+try -2 0
+11
+try 2 -2
+9
+try 3 1
+9
+try 3 -1
+9
+try 0 2
+9
+try 0 -2
+9
+try -1 1
+9
+try -1 -1
+9
+try 4 4
+7
+try 4 2
+7
+try 1 5
+7
+try 1 1
+7
+try 2 3
+8
+try 2 -1
+8
+try 3 2
+8
+try 3 0
+8
+try 4 2
+9
+try 4 -2
+9
+try 5 1
+9
+try 5 -1
+9
+try 2 2
+9
+try 3 4
+10
+try 3 0
+10
+try 4 3
+10
+try 4 1
+10
+try 1 4
+10
+try 1 0
+10
+try 2 2
+11
+try 2 -2
+11
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 3 -1
+11
+try 0 2
+11
+try 0 -2
+11
+try -1 1
+11
+try -1 -1
+11
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 1
+10
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 2 2
+11
+try 2 0
+11
+try -1 3
+11
+try -1 -1
+11
+try -2 2
+11
+try -2 0
+11
+try 2 -2
+9
+try 1 1
+9
+try 1 -1
+9
+try 0 3
+8
+try 1 5
+9
+try 1 1
+9
+try 2 4
+9
+try 2 2
+9
+try 3 4
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 1 -1
+11
+try 4 3
+10
+try 4 1
+10
+try 1 4
+10
+try 1 0
+10
+try 2 2
+11
+try 2 -2
+11
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 3 -1
+11
+try 0 2
+11
+try 0 -2
+11
+try -1 1
+11
+try -1 -1
+11
+try 0 3
+10
+try 0 1
+10
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 2 2
+11
+try 2 0
+11
+try -1 3
+11
+try -1 -1
+11
+try -2 2
+11
+try -2 0
+11
+try -1 5
+9
+try -1 1
+9
+try -2 4
+9
+try -2 2
+9
+try 0 -1
+8
+try -1 2
+8
+try -1 0
+8
+try 0 4
+7
+try 0 2
+7
+try 2 1
+6
+try -1 4
+6
+try -1 0
+6
+try -2 3
+6
+try -2 1
+6
+try 0 0
+5
+try 2 -1
+4
+try -1 2
+4
+try -1 -2
+4
+try -2 1
+4
+try -2 -1
+4
+try -1 3
+3
+try -1 1
+3
+try 1 -2
+2
+try 0 1
+2
+try 1 3
+3
+try 2 5
+4
+try 2 1
+4
+try 3 3
+5
+try 4 5
+6
+try 4 1
+6
+try 5 4
+6
+try 5 2
+6
+try 2 5
+6
+try 2 1
+6
+try 1 4
+6
+try 1 2
+6
+try 2 4
+7
+try 2 0
+7
+try 3 3
+7
+try 3 1
+7
+try 4 3
+8
+try 4 -1
+8
+try 5 2
+8
+try 5 0
+8
+try 2 3
+8
+try 3 5
+9
+try 3 1
+9
+try 4 4
+9
+try 4 2
+9
+try 1 5
+9
+try 1 1
+9
+try 2 3
+10
+try 2 -1
+10
+try 3 2
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 3 4
+12
+try 3 0
+12
+try 4 3
+12
+try 4 1
+12
+try 1 4
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 3 -1
+13
+try 0 2
+13
+try 1 4
+14
+try 1 0
+14
+try 2 3
+14
+try 2 1
+14
+try -1 4
+14
+try -1 0
+14
+try -2 3
+14
+try -2 1
+14
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 1
+12
+try 2 -2
+11
+try 1 1
+11
+try 1 -1
+11
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 4
+11
+try 2 2
+11
+try 3 4
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 4 3
+12
+try 4 1
+12
+try 1 4
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 3 -1
+13
+try 0 2
+13
+try 1 4
+14
+try 1 0
+14
+try 2 3
+14
+try 2 1
+14
+try -1 4
+14
+try -1 0
+14
+try -2 3
+14
+try -2 1
+14
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 0 3
+12
+try 0 1
+12
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 -1
+10
+try -1 2
+10
+try -1 0
+10
+try 0 4
+9
+try 0 2
+9
+try 1 4
+10
+try 1 0
+10
+try 2 2
+11
+try 3 4
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 2 3
+14
+try 2 -1
+14
+try 3 2
+14
+try 3 0
+14
+try 0 3
+14
+try 1 5
+15
+try 1 1
+15
+try 2 4
+15
+try 2 2
+15
+try -1 5
+15
+try -1 1
+15
+try -2 4
+15
+try -2 2
+15
+try 0 -1
+14
+try -1 2
+14
+try -1 0
+14
+try 1 -1
+13
+try 4 3
+12
+try 4 1
+12
+try 1 4
+12
+try 1 0
+12
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 3
+14
+try 2 -1
+14
+try 3 2
+14
+try 3 0
+14
+try 4 2
+15
+try 4 -2
+15
+try 5 1
+15
+try 5 -1
+15
+try 2 2
+15
+try 2 -2
+15
+try 1 1
+15
+try 1 -1
+15
+try 0 3
+14
+try 0 -1
+14
+try -1 2
+14
+try -1 0
+14
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 1
+12
+try 2 -2
+11
+try 3 1
+11
+try 3 -1
+11
+try 0 2
+11
+try 0 -2
+11
+try -1 1
+11
+try -1 -1
+11
+try 2 3
+10
+try 2 1
+10
+try -1 4
+10
+try -1 0
+10
+try -2 3
+10
+try -2 1
+10
+try 2 -1
+8
+try 1 2
+8
+try 1 0
+8
+try 2 2
+9
+try 3 4
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 2 3
+12
+try 3 5
+13
+try 3 1
+13
+try 4 4
+13
+try 4 2
+13
+try 1 5
+13
+try 1 1
+13
+try 0 4
+13
+try 0 2
+13
+try 1 4
+14
+try 1 0
+14
+try 2 3
+14
+try 2 1
+14
+try -1 4
+14
+try -1 0
+14
+try -2 3
+14
+try -2 1
+14
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 1 -1
+11
+try 4 3
+10
+try 4 1
+10
+try 1 4
+10
+try 1 0
+10
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 3
+12
+try 3 5
+13
+try 3 1
+13
+try 4 4
+13
+try 4 2
+13
+try 1 5
+13
+try 1 1
+13
+try 0 4
+13
+try 0 2
+13
+try 1 4
+14
+try 1 0
+14
+try 2 3
+14
+try 2 1
+14
+try -1 4
+14
+try -1 0
+14
+try -2 3
+14
+try -2 1
+14
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 0 3
+12
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 1
+10
+try 2 -2
+9
+try 3 1
+9
+try 3 -1
+9
+try 0 2
+9
+try 1 4
+10
+try 1 0
+10
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 2 3
+12
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 3 4
+14
+try 3 0
+14
+try 4 3
+14
+try 4 1
+14
+try 1 4
+14
+try 1 0
+14
+try 0 3
+14
+try 1 5
+15
+try 1 1
+15
+try 2 4
+15
+try 2 2
+15
+try -1 5
+15
+try -1 1
+15
+try -2 4
+15
+try -2 2
+15
+try 0 1
+14
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try 3 4
+14
+try 3 0
+14
+try 4 2
+15
+try 4 -2
+15
+try 5 1
+15
+try 5 -1
+15
+try 2 2
+15
+try 2 -2
+15
+try 1 1
+15
+try 1 -1
+15
+try 4 3
+14
+try 4 1
+14
+try 1 4
+14
+try 1 0
+14
+try 0 3
+14
+try 0 1
+14
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 0 4
+11
+try 0 2
+11
+try 2 1
+10
+try -1 4
+10
+try -1 0
+10
+try -2 3
+10
+try -2 1
+10
+try 0 -2
+9
+try -1 1
+9
+try -1 -1
+9
+try 0 4
+7
+try 0 0
+7
+try 1 2
+8
+try 1 -2
+8
+try 2 1
+8
+try 2 -1
+8
+try -1 2
+8
+try -1 -2
+8
+try -2 1
+8
+try -2 -1
+8
+try -1 3
+7
+try -1 1
+7
+try 3 -1
+5
+try 4 2
+5
+try 4 0
+5
+try 1 3
+5
+try 1 -1
+5
+try 0 2
+5
+try 1 4
+6
+try 1 0
+6
+try 2 2
+7
+try 3 4
+8
+try 3 0
+8
+try 4 2
+9
+try 4 -2
+9
+try 5 1
+9
+try 5 -1
+9
+try 2 2
+9
+try 2 -2
+9
+try 1 1
+9
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 2 -1
+12
+try 1 2
+12
+try 2 4
+13
+try 2 0
+13
+try 3 3
+13
+try 4 5
+14
+try 4 1
+14
+try 5 4
+14
+try 5 2
+14
+try 2 5
+14
+try 2 1
+14
+try 1 4
+14
+try 1 2
+14
+try 3 1
+13
+try 0 4
+13
+try 0 0
+13
+try 1 2
+14
+try 1 -2
+14
+try 2 1
+14
+try 2 -1
+14
+try -1 2
+14
+try -1 -2
+14
+try -2 1
+14
+try -2 -1
+14
+try -1 3
+13
+try -1 1
+13
+try 1 0
+12
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 0 4
+11
+try 0 2
+11
+try 2 -1
+10
+try 3 2
+10
+try 3 0
+10
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 -1
+10
+try -1 2
+10
+try -1 0
+10
+try 1 -1
+9
+try 4 3
+8
+try 4 1
+8
+try 1 4
+8
+try 1 0
+8
+try 0 3
+8
+try 1 5
+9
+try 1 1
+9
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 2 -1
+12
+try 1 2
+12
+try 2 4
+13
+try 2 0
+13
+try 3 3
+13
+try 4 5
+14
+try 4 1
+14
+try 5 4
+14
+try 5 2
+14
+try 2 5
+14
+try 2 1
+14
+try 1 4
+14
+try 1 2
+14
+try 3 1
+13
+try 0 4
+13
+try 0 0
+13
+try 1 2
+14
+try 1 -2
+14
+try 2 1
+14
+try 2 -1
+14
+try -1 2
+14
+try -1 -2
+14
+try -2 1
+14
+try -2 -1
+14
+try -1 3
+13
+try -1 1
+13
+try 1 0
+12
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 0 4
+11
+try 0 2
+11
+try 2 -1
+10
+try 3 2
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 1 -1
+11
+try 0 3
+10
+try 0 -1
+10
+try -1 2
+10
+try -1 0
+10
+try 2 4
+9
+try 2 2
+9
+try -1 5
+9
+try -1 1
+9
+try -2 4
+9
+try -2 2
+9
+try 0 1
+8
+try 2 -2
+7
+try 3 1
+7
+try 4 3
+8
+try 4 -1
+8
+try 5 2
+8
+try 5 0
+8
+try 2 3
+8
+try 3 5
+9
+try 3 1
+9
+try 4 4
+9
+try 4 2
+9
+try 1 5
+9
+try 1 1
+9
+try 2 3
+10
+try 2 -1
+10
+try 3 2
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 3 4
+12
+try 3 0
+12
+try 4 3
+12
+try 4 1
+12
+try 1 4
+12
+try 1 0
+12
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 1
+12
+try 2 -2
+11
+try 1 1
+11
+try 1 -1
+11
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 4
+11
+try 2 2
+11
+try 3 4
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 4 3
+12
+try 4 1
+12
+try 1 4
+12
+try 1 0
+12
+try 0 3
+12
+try 0 1
+12
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 -1
+10
+try -1 2
+10
+try -1 0
+10
+try 0 4
+9
+try 0 2
+9
+try 2 -1
+8
+try 1 2
+8
+try 2 4
+9
+try 2 0
+9
+try 3 3
+9
+try 4 5
+10
+try 4 1
+10
+try 5 4
+10
+try 5 2
+10
+try 2 5
+10
+try 2 1
+10
+try 1 4
+10
+try 1 2
+10
+try 3 1
+9
+try 0 4
+9
+try 0 0
+9
+try 1 2
+10
+try 1 -2
+10
+try 2 1
+10
+try 2 -1
+10
+try -1 2
+10
+try -1 -2
+10
+try -2 1
+10
+try -2 -1
+10
+try -1 3
+9
+try -1 1
+9
+try 1 0
+8
+try 3 -1
+7
+try 0 2
+7
+try 0 -2
+7
+try -1 1
+7
+try -1 -1
+7
+try 2 3
+6
+try 3 5
+7
+try 3 1
+7
+try 4 3
+8
+try 4 -1
+8
+try 5 2
+8
+try 5 0
+8
+try 2 3
+8
+try 2 -1
+8
+try 1 2
+8
+try 2 4
+9
+try 2 0
+9
+try 3 3
+9
+try 4 5
+10
+try 4 1
+10
+try 5 4
+10
+try 5 2
+10
+try 2 5
+10
+try 2 1
+10
+try 1 4
+10
+try 1 2
+10
+try 3 1
+9
+try 0 4
+9
+try 0 0
+9
+try 1 2
+10
+try 1 -2
+10
+try 2 1
+10
+try 2 -1
+10
+try -1 2
+10
+try -1 -2
+10
+try -2 1
+10
+try -2 -1
+10
+try -1 3
+9
+try -1 1
+9
+try 1 0
+8
+try 2 2
+9
+try 3 4
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 2 3
+12
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 1 -1
+11
+try 4 3
+10
+try 4 1
+10
+try 1 4
+10
+try 1 0
+10
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 3
+12
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 0 3
+12
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 1
+10
+try 2 -2
+9
+try 3 1
+9
+try 3 -1
+9
+try 0 2
+9
+try 0 -2
+9
+try -1 1
+9
+try -1 -1
+9
+try 4 4
+7
+try 4 2
+7
+try 1 5
+7
+try 1 1
+7
+try 2 3
+8
+try 2 -1
+8
+try 3 2
+8
+try 3 0
+8
+try 4 2
+9
+try 4 -2
+9
+try 5 1
+9
+try 5 -1
+9
+try 2 2
+9
+try 3 4
+10
+try 3 0
+10
+try 4 3
+10
+try 4 1
+10
+try 1 4
+10
+try 1 0
+10
+try 2 2
+11
+try 2 -2
+11
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 2 -1
+12
+try 1 2
+12
+try 2 4
+13
+try 2 0
+13
+try 3 3
+13
+try 4 5
+14
+try 4 1
+14
+try 5 4
+14
+try 5 2
+14
+try 2 5
+14
+try 2 1
+14
+try 1 4
+14
+try 1 2
+14
+try 3 1
+13
+try 0 4
+13
+try 0 0
+13
+try 1 2
+14
+try 1 -2
+14
+try 2 1
+14
+try 2 -1
+14
+try -1 2
+14
+try -1 -2
+14
+try -2 1
+14
+try -2 -1
+14
+try -1 3
+13
+try -1 1
+13
+try 1 0
+12
+try 3 -1
+11
+try 0 2
+11
+try 0 -2
+11
+try -1 1
+11
+try -1 -1
+11
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 1
+10
+try 2 -2
+9
+try 1 1
+9
+try 1 -1
+9
+try 0 3
+8
+try 1 5
+9
+try 1 1
+9
+try 2 4
+9
+try 2 2
+9
+try 3 4
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 1 -1
+11
+try 4 3
+10
+try 4 1
+10
+try 1 4
+10
+try 1 0
+10
+try 2 2
+11
+try 2 -2
+11
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 2 -1
+12
+try 1 2
+12
+try 2 4
+13
+try 2 0
+13
+try 3 3
+13
+try 4 5
+14
+try 4 1
+14
+try 5 4
+14
+try 5 2
+14
+try 2 5
+14
+try 2 1
+14
+try 1 4
+14
+try 1 2
+14
+try 3 1
+13
+try 0 4
+13
+try 0 0
+13
+try 1 2
+14
+try 1 -2
+14
+try 2 1
+14
+try 2 -1
+14
+try -1 2
+14
+try -1 -2
+14
+try -2 1
+14
+try -2 -1
+14
+try -1 3
+13
+try -1 1
+13
+try 1 0
+12
+try 3 -1
+11
+try 0 2
+11
+try 0 -2
+11
+try -1 1
+11
+try -1 -1
+11
+try 0 3
+10
+try 0 1
+10
+try -1 5
+9
+try -1 1
+9
+try -2 4
+9
+try -2 2
+9
+try 0 -1
+8
+try -1 2
+8
+try -1 0
+8
+try 0 4
+7
+try 0 2
+7
+try 2 1
+6
+try -1 4
+6
+try -1 0
+6
+try -2 3
+6
+try -2 1
+6
+try 0 0
+5
+try 1 2
+6
+try 2 4
+7
+try 2 0
+7
+try 3 3
+7
+try 4 5
+8
+try 4 1
+8
+try 5 4
+8
+try 5 2
+8
+try 2 5
+8
+try 2 1
+8
+try 1 4
+8
+try 1 2
+8
+try 3 1
+7
+try 4 3
+8
+try 4 -1
+8
+try 5 2
+8
+try 5 0
+8
+try 2 3
+8
+try 3 5
+9
+try 3 1
+9
+try 4 4
+9
+try 4 2
+9
+try 1 5
+9
+try 1 1
+9
+try 2 3
+10
+try 2 -1
+10
+try 3 2
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 3 4
+12
+try 3 0
+12
+try 4 3
+12
+try 4 1
+12
+try 1 4
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 3 -1
+13
+try 0 2
+13
+try 1 4
+14
+try 1 0
+14
+try 2 3
+14
+try 2 1
+14
+try -1 4
+14
+try -1 0
+14
+try -2 3
+14
+try -2 1
+14
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 1
+12
+try 2 -2
+11
+try 1 1
+11
+try 1 -1
+11
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 4
+11
+try 2 2
+11
+try 3 4
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 4 3
+12
+try 4 1
+12
+try 1 4
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 3 -1
+13
+try 0 2
+13
+try 1 4
+14
+try 1 0
+14
+try 2 3
+14
+try 2 1
+14
+try -1 4
+14
+try -1 0
+14
+try -2 3
+14
+try -2 1
+14
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 0 3
+12
+try 0 1
+12
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 -1
+10
+try -1 2
+10
+try -1 0
+10
+try 0 4
+9
+try 0 2
+9
+try 1 4
+10
+try 1 0
+10
+try 2 2
+11
+try 3 4
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 2 3
+14
+try 2 -1
+14
+try 3 2
+14
+try 3 0
+14
+try 0 3
+14
+try 1 5
+15
+try 1 1
+15
+try 2 4
+15
+try 2 2
+15
+try -1 5
+15
+try -1 1
+15
+try -2 4
+15
+try -2 2
+15
+try 0 -1
+14
+try -1 2
+14
+try -1 0
+14
+try 1 -1
+13
+try 4 3
+12
+try 4 1
+12
+try 1 4
+12
+try 1 0
+12
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 3
+14
+try 2 -1
+14
+try 3 2
+14
+try 3 0
+14
+try 4 2
+15
+try 4 -2
+15
+try 5 1
+15
+try 5 -1
+15
+try 2 2
+15
+try 2 -2
+15
+try 1 1
+15
+try 1 -1
+15
+try 0 3
+14
+try 0 -1
+14
+try -1 2
+14
+try -1 0
+14
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 1
+12
+try 2 -2
+11
+try 3 1
+11
+try 3 -1
+11
+try 0 2
+11
+try 0 -2
+11
+try -1 1
+11
+try -1 -1
+11
+try 2 3
+10
+try 2 1
+10
+try -1 4
+10
+try -1 0
+10
+try -2 3
+10
+try -2 1
+10
+try 2 -1
+8
+try 1 2
+8
+try 1 0
+8
+try 2 2
+9
+try 3 4
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 2 3
+12
+try 3 5
+13
+try 3 1
+13
+try 4 4
+13
+try 4 2
+13
+try 1 5
+13
+try 1 1
+13
+try 0 4
+13
+try 0 2
+13
+try 1 4
+14
+try 1 0
+14
+try 2 3
+14
+try 2 1
+14
+try -1 4
+14
+try -1 0
+14
+try -2 3
+14
+try -2 1
+14
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 1 -1
+11
+try 4 3
+10
+try 4 1
+10
+try 1 4
+10
+try 1 0
+10
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 3
+12
+try 3 5
+13
+try 3 1
+13
+try 4 4
+13
+try 4 2
+13
+try 1 5
+13
+try 1 1
+13
+try 0 4
+13
+try 0 2
+13
+try 1 4
+14
+try 1 0
+14
+try 2 3
+14
+try 2 1
+14
+try -1 4
+14
+try -1 0
+14
+try -2 3
+14
+try -2 1
+14
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 0 3
+12
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 1
+10
+try 2 -2
+9
+try 3 1
+9
+try 3 -1
+9
+try 0 2
+9
+try 1 4
+10
+try 1 0
+10
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 2 3
+12
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 3 4
+14
+try 3 0
+14
+try 4 3
+14
+try 4 1
+14
+try 1 4
+14
+try 1 0
+14
+try 0 3
+14
+try 1 5
+15
+try 1 1
+15
+try 2 4
+15
+try 2 2
+15
+try -1 5
+15
+try -1 1
+15
+try -2 4
+15
+try -2 2
+15
+try 0 1
+14
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try 3 4
+14
+try 3 0
+14
+try 4 2
+15
+try 4 -2
+15
+try 5 1
+15
+try 5 -1
+15
+try 2 2
+15
+try 2 -2
+15
+try 1 1
+15
+try 1 -1
+15
+try 4 3
+14
+try 4 1
+14
+try 1 4
+14
+try 1 0
+14
+try 0 3
+14
+try 0 1
+14
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 0 4
+11
+try 0 2
+11
+try 2 1
+10
+try -1 4
+10
+try -1 0
+10
+try -2 3
+10
+try -2 1
+10
+try 0 -2
+9
+try -1 1
+9
+try -1 -1
+9
+try 0 4
+7
+try 0 0
+7
+try -1 3
+7
+try -1 1
+7
+try 1 -2
+6
+try 2 1
+6
+try 2 -1
+6
+try -1 2
+6
+try -1 -2
+6
+try -2 1
+6
+try -2 -1
+6
+try 3 4
+4
+try 3 2
+4
+try 0 5
+4
+try 0 1
+4
+try -1 4
+4
+try -1 2
+4
+try 1 -1
+3
+try 2 2
+3
+try 3 4
+4
+try 3 0
+4
+try 4 2
+5
+try 4 -2
+5
+try 5 1
+5
+try 5 -1
+5
+try 2 2
+5
+try 2 -2
+5
+try 1 1
+5
+try 2 3
+6
+try 3 5
+7
+try 3 1
+7
+try 4 3
+8
+try 4 -1
+8
+try 5 2
+8
+try 5 0
+8
+try 2 3
+8
+try 2 -1
+8
+try 1 2
+8
+try 2 4
+9
+try 2 0
+9
+try 3 3
+9
+try 4 5
+10
+try 4 1
+10
+try 5 4
+10
+try 5 2
+10
+try 2 5
+10
+try 2 1
+10
+try 3 3
+11
+try 3 -1
+11
+try 4 2
+11
+try 4 0
+11
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 3 -1
+13
+try 0 2
+13
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 2 3
+12
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try 1 4
+10
+try 1 2
+10
+try 3 1
+9
+try 0 4
+9
+try 0 0
+9
+try 1 2
+10
+try 1 -2
+10
+try 2 1
+10
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 -1
+11
+try 4 2
+11
+try 4 0
+11
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 3 -1
+13
+try 0 2
+13
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 2 3
+12
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 0 0
+11
+try 2 -1
+10
+try -1 2
+10
+try -1 -2
+10
+try -2 1
+10
+try -2 -1
+10
+try -1 3
+9
+try -1 1
+9
+try 1 0
+8
+try 2 2
+9
+try 2 -2
+9
+try 3 1
+9
+try 3 -1
+9
+try 0 2
+9
+try 1 4
+10
+try 1 0
+10
+try 2 3
+10
+try 2 1
+10
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 2 4
+13
+try 2 0
+13
+try 3 3
+13
+try 3 1
+13
+try 0 4
+13
+try 0 0
+13
+try 1 2
+14
+try 1 -2
+14
+try 2 1
+14
+try 2 -1
+14
+try -1 2
+14
+try -1 -2
+14
+try -2 1
+14
+try -2 -1
+14
+try -1 3
+13
+try -1 1
+13
+try 3 -1
+11
+try 4 2
+11
+try 4 0
+11
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 0 2
+11
+try 0 0
+11
+try 1 2
+12
+try 2 4
+13
+try 2 0
+13
+try 3 3
+13
+try 4 5
+14
+try 4 1
+14
+try 5 4
+14
+try 5 2
+14
+try 2 5
+14
+try 2 1
+14
+try 1 4
+14
+try 1 2
+14
+try 3 1
+13
+try 0 4
+13
+try 0 0
+13
+try -1 3
+13
+try -1 1
+13
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try -1 4
+10
+try -1 0
+10
+try -2 3
+10
+try -2 1
+10
+try 0 -2
+9
+try -1 1
+9
+try -1 -1
+9
+try 4 4
+7
+try 4 2
+7
+try 1 5
+7
+try 1 1
+7
+try 0 4
+7
+try 0 2
+7
+try 1 4
+8
+try 1 0
+8
+try 2 2
+9
+try 2 -2
+9
+try 3 1
+9
+try 4 3
+10
+try 4 -1
+10
+try 5 2
+10
+try 5 0
+10
+try 2 3
+10
+try 2 -1
+10
+try 1 2
+10
+try 2 4
+11
+try 2 0
+11
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 3 3
+13
+try 3 -1
+13
+try 4 2
+13
+try 4 0
+13
+try 1 3
+13
+try 2 5
+14
+try 2 1
+14
+try 3 4
+14
+try 3 2
+14
+try 0 5
+14
+try 0 1
+14
+try -1 4
+14
+try -1 2
+14
+try 1 -1
+13
+try 0 2
+13
+try 0 0
+13
+try 1 2
+14
+try 1 -2
+14
+try 2 1
+14
+try 2 -1
+14
+try -1 2
+14
+try -1 -2
+14
+try -2 1
+14
+try -2 -1
+14
+try 1 4
+12
+try 1 2
+12
+try 3 1
+11
+try 0 4
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 3 3
+13
+try 4 5
+14
+try 4 1
+14
+try 5 4
+14
+try 5 2
+14
+try 2 5
+14
+try 2 1
+14
+try 1 4
+14
+try 1 2
+14
+try 3 -1
+13
+try 4 2
+13
+try 4 0
+13
+try 1 3
+13
+try 2 5
+14
+try 2 1
+14
+try 3 4
+14
+try 3 2
+14
+try 0 5
+14
+try 0 1
+14
+try -1 4
+14
+try -1 2
+14
+try 1 -1
+13
+try 0 2
+13
+try 0 0
+13
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try -1 3
+11
+try -1 1
+11
+try 1 0
+10
+try 3 -1
+9
+try 0 2
+9
+try 0 -2
+9
+try -1 1
+9
+try -1 -1
+9
+try 2 3
+8
+try 2 1
+8
+try 3 3
+9
+try 4 5
+10
+try 4 1
+10
+try 5 4
+10
+try 5 2
+10
+try 2 5
+10
+try 2 1
+10
+try 1 4
+10
+try 1 2
+10
+try 2 4
+11
+try 2 0
+11
+try 3 3
+11
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 3 -1
+13
+try 0 2
+13
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 0 4
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try -1 3
+11
+try -1 1
+11
+try 3 -1
+9
+try 4 2
+9
+try 4 0
+9
+try 1 3
+9
+try 2 5
+10
+try 2 1
+10
+try 3 4
+10
+try 3 2
+10
+try 0 5
+10
+try 0 1
+10
+try -1 4
+10
+try -1 2
+10
+try 1 -1
+9
+try 0 2
+9
+try 0 0
+9
+try 1 2
+10
+try 2 4
+11
+try 2 0
+11
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 3 -1
+13
+try 0 2
+13
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 0 4
+11
+try 0 0
+11
+try -1 3
+11
+try -1 1
+11
+try 1 -2
+10
+try 2 1
+10
+try 2 -1
+10
+try -1 2
+10
+try -1 -2
+10
+try -2 1
+10
+try -2 -1
+10
+try -1 4
+8
+try -1 0
+8
+try -2 3
+8
+try -2 1
+8
+try 2 -1
+6
+try 3 2
+6
+try 3 0
+6
+try 0 3
+6
+try 1 5
+7
+try 1 1
+7
+try 2 4
+7
+try 2 2
+7
+try -1 5
+7
+try -1 1
+7
+try -2 4
+7
+try -2 2
+7
+try 0 -1
+6
+try -1 2
+6
+try -1 0
+6
+try 1 -1
+5
+try 4 3
+4
+try 4 1
+4
+try 1 4
+4
+try 1 0
+4
+try 2 2
+5
+try 2 -2
+5
+try 3 1
+5
+try 4 3
+6
+try 4 -1
+6
+try 5 2
+6
+try 5 0
+6
+try 2 3
+6
+try 3 5
+7
+try 3 1
+7
+try 4 4
+7
+try 4 2
+7
+try 1 5
+7
+try 1 1
+7
+try 2 3
+8
+try 2 -1
+8
+try 3 2
+8
+try 3 0
+8
+try 4 2
+9
+try 4 -2
+9
+try 5 1
+9
+try 5 -1
+9
+try 2 2
+9
+try 2 -2
+9
+try 1 1
+9
+try 1 -1
+9
+try 0 3
+8
+try 1 5
+9
+try 1 1
+9
+try 2 4
+9
+try 2 2
+9
+try -1 5
+9
+try -1 1
+9
+try -2 4
+9
+try -2 2
+9
+try 0 -1
+8
+try -1 2
+8
+try -1 0
+8
+try 0 4
+7
+try 0 2
+7
+try 1 4
+8
+try 1 0
+8
+try 2 3
+8
+try 2 1
+8
+try 3 3
+9
+try 4 5
+10
+try 4 1
+10
+try 5 4
+10
+try 5 2
+10
+try 2 5
+10
+try 2 1
+10
+try 1 4
+10
+try 1 2
+10
+try 2 4
+11
+try 2 0
+11
+try 3 3
+11
+try 3 1
+11
+try 0 4
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try -1 3
+11
+try -1 1
+11
+try 3 -1
+9
+try 4 2
+9
+try 4 0
+9
+try 1 3
+9
+try 2 5
+10
+try 2 1
+10
+try 3 4
+10
+try 3 2
+10
+try 0 5
+10
+try 0 1
+10
+try -1 4
+10
+try -1 2
+10
+try 1 -1
+9
+try 0 2
+9
+try 0 0
+9
+try 1 2
+10
+try 2 4
+11
+try 2 0
+11
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 1
+11
+try 0 4
+11
+try 0 0
+11
+try -1 3
+11
+try -1 1
+11
+try 1 -2
+10
+try 2 1
+10
+try 2 -1
+10
+try -1 2
+10
+try -1 -2
+10
+try -2 1
+10
+try -2 -1
+10
+try -1 4
+8
+try -1 0
+8
+try -2 3
+8
+try -2 1
+8
+try 2 -1
+6
+try 1 2
+6
+try 2 4
+7
+try 2 0
+7
+try 3 3
+7
+try 4 5
+8
+try 4 1
+8
+try 5 4
+8
+try 5 2
+8
+try 2 5
+8
+try 2 1
+8
+try 3 3
+9
+try 3 -1
+9
+try 4 2
+9
+try 4 0
+9
+try 1 3
+9
+try 2 5
+10
+try 2 1
+10
+try 3 4
+10
+try 3 2
+10
+try 0 5
+10
+try 0 1
+10
+try -1 4
+10
+try -1 2
+10
+try 1 -1
+9
+try 0 2
+9
+try 1 4
+10
+try 1 0
+10
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 2 3
+12
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 0 4
+11
+try 0 2
+11
+try 2 1
+10
+try -1 4
+10
+try -1 0
+10
+try -2 3
+10
+try -2 1
+10
+try 0 0
+9
+try 1 2
+10
+try 1 -2
+10
+try 2 1
+10
+try 2 -1
+10
+try -1 2
+10
+try -1 -2
+10
+try -2 1
+10
+try -2 -1
+10
+try 1 4
+8
+try 1 2
+8
+try 3 1
+7
+try 0 4
+7
+try 0 0
+7
+try 1 2
+8
+try 1 -2
+8
+try 2 1
+8
+try 3 3
+9
+try 4 5
+10
+try 4 1
+10
+try 5 4
+10
+try 5 2
+10
+try 2 5
+10
+try 2 1
+10
+try 1 4
+10
+try 1 2
+10
+try 3 -1
+9
+try 4 2
+9
+try 4 0
+9
+try 1 3
+9
+try 2 5
+10
+try 2 1
+10
+try 3 4
+10
+try 3 2
+10
+try 0 5
+10
+try 0 1
+10
+try -1 4
+10
+try -1 2
+10
+try 1 -1
+9
+try 0 2
+9
+try 1 4
+10
+try 1 0
+10
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 2 3
+12
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 0 4
+11
+try 0 2
+11
+try 2 1
+10
+try -1 4
+10
+try -1 0
+10
+try -2 3
+10
+try -2 1
+10
+try 0 0
+9
+try 2 -1
+8
+try -1 2
+8
+try -1 -2
+8
+try -2 1
+8
+try -2 -1
+8
+try -1 3
+7
+try -1 1
+7
+try 1 0
+6
+try 3 -1
+5
+try 0 2
+5
+try 1 4
+6
+try 1 0
+6
+try 2 3
+6
+try 3 5
+7
+try 3 1
+7
+try 4 3
+8
+try 4 -1
+8
+try 5 2
+8
+try 5 0
+8
+try 2 3
+8
+try 2 -1
+8
+try 1 2
+8
+try 2 4
+9
+try 2 0
+9
+try 3 3
+9
+try 4 5
+10
+try 4 1
+10
+try 5 4
+10
+try 5 2
+10
+try 2 5
+10
+try 2 1
+10
+try 3 3
+11
+try 3 -1
+11
+try 4 2
+11
+try 4 0
+11
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 0 2
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try 1 4
+10
+try 1 2
+10
+try 3 1
+9
+try 0 4
+9
+try 0 0
+9
+try 1 2
+10
+try 1 -2
+10
+try 2 1
+10
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 -1
+11
+try 4 2
+11
+try 4 0
+11
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 0 2
+11
+try 0 0
+11
+try 2 -1
+10
+try -1 2
+10
+try -1 -2
+10
+try -2 1
+10
+try -2 -1
+10
+try -1 3
+9
+try -1 1
+9
+try 1 0
+8
+try 4 4
+7
+try 4 2
+7
+try 1 5
+7
+try 1 1
+7
+try 2 3
+8
+try 2 -1
+8
+try 3 2
+8
+try 3 0
+8
+try 4 2
+9
+try 4 -2
+9
+try 5 1
+9
+try 5 -1
+9
+try 2 2
+9
+try 2 -2
+9
+try 1 1
+9
+try 1 -1
+9
+try 0 3
+8
+try 1 5
+9
+try 1 1
+9
+try 2 4
+9
+try 2 2
+9
+try -1 5
+9
+try -1 1
+9
+try -2 4
+9
+try -2 2
+9
+try 0 -1
+8
+try -1 2
+8
+try -1 0
+8
+try 0 4
+7
+try 0 2
+7
+try 2 1
+6
+try 3 3
+7
+try 4 5
+8
+try 4 1
+8
+try 5 4
+8
+try 5 2
+8
+try 2 5
+8
+try 2 1
+8
+try 1 4
+8
+try 1 2
+8
+try 2 4
+9
+try 2 0
+9
+try 3 3
+9
+try 3 1
+9
+try 4 3
+10
+try 4 -1
+10
+try 5 2
+10
+try 5 0
+10
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 2 3
+12
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 0 4
+11
+try 0 2
+11
+try 2 -1
+10
+try 1 2
+10
+try 1 0
+10
+try 0 4
+9
+try 0 0
+9
+try 1 2
+10
+try 1 -2
+10
+try 2 1
+10
+try 2 -1
+10
+try -1 2
+10
+try -1 -2
+10
+try -2 1
+10
+try -2 -1
+10
+try -1 3
+9
+try -1 1
+9
+try 3 -1
+7
+try 4 2
+7
+try 4 0
+7
+try 1 3
+7
+try 2 5
+8
+try 2 1
+8
+try 3 4
+8
+try 3 2
+8
+try 0 5
+8
+try 0 1
+8
+try -1 4
+8
+try -1 2
+8
+try 1 -1
+7
+try 0 2
+7
+try 0 0
+7
+try 1 2
+8
+try 2 4
+9
+try 2 0
+9
+try 3 3
+9
+try 4 5
+10
+try 4 1
+10
+try 5 4
+10
+try 5 2
+10
+try 2 5
+10
+try 2 1
+10
+try 1 4
+10
+try 1 2
+10
+try 3 1
+9
+try 4 3
+10
+try 4 -1
+10
+try 5 2
+10
+try 5 0
+10
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 2 3
+12
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 0 4
+11
+try 0 2
+11
+try 2 -1
+10
+try 1 2
+10
+try 1 0
+10
+try 0 4
+9
+try 0 0
+9
+try -1 3
+9
+try -1 1
+9
+try 1 -2
+8
+try 2 1
+8
+try 2 -1
+8
+try -1 2
+8
+try -1 -2
+8
+try -2 1
+8
+try -2 -1
+8
+try -1 4
+6
+try -1 0
+6
+try -2 3
+6
+try -2 1
+6
+try 0 -2
+5
+try -1 1
+5
+try -1 -1
+5
+try 0 3
+4
+try 1 5
+5
+try 1 1
+5
+try 2 3
+6
+try 3 5
+7
+try 3 1
+7
+try 4 3
+8
+try 4 -1
+8
+try 5 2
+8
+try 5 0
+8
+try 2 3
+8
+try 2 -1
+8
+try 1 2
+8
+try 2 4
+9
+try 2 0
+9
+try 3 3
+9
+try 4 5
+10
+try 4 1
+10
+try 5 4
+10
+try 5 2
+10
+try 2 5
+10
+try 2 1
+10
+try 3 3
+11
+try 3 -1
+11
+try 4 2
+11
+try 4 0
+11
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 3 -1
+13
+try 0 2
+13
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 2 3
+12
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try 1 4
+10
+try 1 2
+10
+try 3 1
+9
+try 0 4
+9
+try 0 0
+9
+try 1 2
+10
+try 1 -2
+10
+try 2 1
+10
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 -1
+11
+try 4 2
+11
+try 4 0
+11
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 3 -1
+13
+try 0 2
+13
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 2 3
+12
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 0 0
+11
+try 2 -1
+10
+try -1 2
+10
+try -1 -2
+10
+try -2 1
+10
+try -2 -1
+10
+try -1 3
+9
+try -1 1
+9
+try 1 0
+8
+try 2 2
+9
+try 2 -2
+9
+try 3 1
+9
+try 3 -1
+9
+try 0 2
+9
+try 1 4
+10
+try 1 0
+10
+try 2 3
+10
+try 2 1
+10
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 2 4
+13
+try 2 0
+13
+try 3 3
+13
+try 3 1
+13
+try 0 4
+13
+try 0 0
+13
+try 1 2
+14
+try 1 -2
+14
+try 2 1
+14
+try 2 -1
+14
+try -1 2
+14
+try -1 -2
+14
+try -2 1
+14
+try -2 -1
+14
+try -1 3
+13
+try -1 1
+13
+try 3 -1
+11
+try 4 2
+11
+try 4 0
+11
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 0 2
+11
+try 0 0
+11
+try 1 2
+12
+try 2 4
+13
+try 2 0
+13
+try 3 3
+13
+try 4 5
+14
+try 4 1
+14
+try 5 4
+14
+try 5 2
+14
+try 2 5
+14
+try 2 1
+14
+try 1 4
+14
+try 1 2
+14
+try 3 1
+13
+try 0 4
+13
+try 0 0
+13
+try -1 3
+13
+try -1 1
+13
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try -1 4
+10
+try -1 0
+10
+try -2 3
+10
+try -2 1
+10
+try 0 -2
+9
+try -1 1
+9
+try -1 -1
+9
+try 4 4
+7
+try 4 2
+7
+try 1 5
+7
+try 1 1
+7
+try 0 4
+7
+try 0 2
+7
+try 1 4
+8
+try 1 0
+8
+try 2 2
+9
+try 2 -2
+9
+try 3 1
+9
+try 4 3
+10
+try 4 -1
+10
+try 5 2
+10
+try 5 0
+10
+try 2 3
+10
+try 2 -1
+10
+try 1 2
+10
+try 2 4
+11
+try 2 0
+11
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 3 3
+13
+try 3 -1
+13
+try 4 2
+13
+try 4 0
+13
+try 1 3
+13
+try 2 5
+14
+try 2 1
+14
+try 3 4
+14
+try 3 2
+14
+try 0 5
+14
+try 0 1
+14
+try -1 4
+14
+try -1 2
+14
+try 1 -1
+13
+try 0 2
+13
+try 0 0
+13
+try 1 2
+14
+try 1 -2
+14
+try 2 1
+14
+try 2 -1
+14
+try -1 2
+14
+try -1 -2
+14
+try -2 1
+14
+try -2 -1
+14
+try 1 4
+12
+try 1 2
+12
+try 3 1
+11
+try 0 4
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 3 3
+13
+try 4 5
+14
+try 4 1
+14
+try 5 4
+14
+try 5 2
+14
+try 2 5
+14
+try 2 1
+14
+try 1 4
+14
+try 1 2
+14
+try 3 -1
+13
+try 4 2
+13
+try 4 0
+13
+try 1 3
+13
+try 2 5
+14
+try 2 1
+14
+try 3 4
+14
+try 3 2
+14
+try 0 5
+14
+try 0 1
+14
+try -1 4
+14
+try -1 2
+14
+try 1 -1
+13
+try 0 2
+13
+try 0 0
+13
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try -1 3
+11
+try -1 1
+11
+try 1 0
+10
+try 3 -1
+9
+try 0 2
+9
+try 0 -2
+9
+try -1 1
+9
+try -1 -1
+9
+try 2 3
+8
+try 2 1
+8
+try 3 3
+9
+try 4 5
+10
+try 4 1
+10
+try 5 4
+10
+try 5 2
+10
+try 2 5
+10
+try 2 1
+10
+try 1 4
+10
+try 1 2
+10
+try 2 4
+11
+try 2 0
+11
+try 3 3
+11
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 3 -1
+13
+try 0 2
+13
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 0 4
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try -1 3
+11
+try -1 1
+11
+try 3 -1
+9
+try 4 2
+9
+try 4 0
+9
+try 1 3
+9
+try 2 5
+10
+try 2 1
+10
+try 3 4
+10
+try 3 2
+10
+try 0 5
+10
+try 0 1
+10
+try -1 4
+10
+try -1 2
+10
+try 1 -1
+9
+try 0 2
+9
+try 0 0
+9
+try 1 2
+10
+try 2 4
+11
+try 2 0
+11
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 3 -1
+13
+try 0 2
+13
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 0 4
+11
+try 0 0
+11
+try -1 3
+11
+try -1 1
+11
+try 1 -2
+10
+try 2 1
+10
+try 2 -1
+10
+try -1 2
+10
+try -1 -2
+10
+try -2 1
+10
+try -2 -1
+10
+try -1 4
+8
+try -1 0
+8
+try -2 3
+8
+try -2 1
+8
+try 2 -1
+6
+try 3 2
+6
+try 3 0
+6
+try 4 2
+7
+try 4 -2
+7
+try 5 1
+7
+try 5 -1
+7
+try 2 2
+7
+try 2 -2
+7
+try 1 1
+7
+try 1 -1
+7
+try 0 3
+6
+try 0 -1
+6
+try -1 2
+6
+try -1 0
+6
+try 2 4
+5
+try 2 2
+5
+try -1 5
+5
+try -1 1
+5
+try -2 4
+5
+try -2 2
+5
+try 0 1
+4
+try 2 0
+3
+try -1 3
+3
+try -1 -1
+3
+try -2 2
+3
+try -2 0
+3
+try 0 -1
+2
+try 1 3
+1
+try 2 5
+2
+try 2 1
+2
+try 3 3
+3
+try 4 5
+4
+try 4 1
+4
+try 5 4
+4
+try 5 2
+4
+try 2 5
+4
+try 2 1
+4
+try 1 4
+4
+try 1 2
+4
+try 2 4
+5
+try 2 0
+5
+try 3 2
+6
+try 3 -2
+6
+try 4 1
+6
+try 4 -1
+6
+try 1 2
+6
+try 1 -2
+6
+try 0 1
+6
+try 1 3
+7
+try 1 -1
+7
+try 2 2
+7
+try 3 4
+8
+try 3 0
+8
+try 4 2
+9
+try 4 -2
+9
+try 5 1
+9
+try 5 -1
+9
+try 2 2
+9
+try 2 -2
+9
+try 1 1
+9
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 3 -1
+13
+try 0 2
+13
+try 1 4
+14
+try 1 0
+14
+try 2 3
+14
+try 2 1
+14
+try -1 4
+14
+try -1 0
+14
+try -2 3
+14
+try -2 1
+14
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 0 4
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 4 3
+14
+try 4 -1
+14
+try 5 2
+14
+try 5 0
+14
+try 2 3
+14
+try 2 -1
+14
+try 1 2
+14
+try 1 0
+14
+try 3 -1
+13
+try 0 2
+13
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 2 3
+12
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 2 -1
+10
+try 3 2
+10
+try 3 0
+10
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 -1
+10
+try -1 2
+10
+try -1 0
+10
+try 1 -1
+9
+try 4 3
+8
+try 4 1
+8
+try 1 4
+8
+try 1 0
+8
+try 2 2
+9
+try 2 -2
+9
+try 3 1
+9
+try 4 3
+10
+try 4 -1
+10
+try 5 2
+10
+try 5 0
+10
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 2 3
+12
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 0 4
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 3
+12
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 2 -1
+10
+try 1 2
+10
+try 1 0
+10
+try 3 -1
+9
+try 0 2
+9
+try 1 4
+10
+try 1 0
+10
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 2 3
+12
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 0 4
+11
+try 0 2
+11
+try 2 1
+10
+try -1 4
+10
+try -1 0
+10
+try -2 3
+10
+try -2 1
+10
+try 0 -2
+9
+try -1 1
+9
+try -1 -1
+9
+try 0 3
+8
+try 1 5
+9
+try 1 1
+9
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 3 -1
+13
+try 0 2
+13
+try 1 4
+14
+try 1 0
+14
+try 2 3
+14
+try 2 1
+14
+try -1 4
+14
+try -1 0
+14
+try -2 3
+14
+try -2 1
+14
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 0 4
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 4 3
+14
+try 4 -1
+14
+try 5 2
+14
+try 5 0
+14
+try 2 3
+14
+try 2 -1
+14
+try 1 2
+14
+try 1 0
+14
+try 3 -1
+13
+try 0 2
+13
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 2 3
+12
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 2 -1
+10
+try 3 2
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 1 -1
+11
+try 0 3
+10
+try 0 -1
+10
+try -1 2
+10
+try -1 0
+10
+try 2 4
+9
+try 2 2
+9
+try -1 5
+9
+try -1 1
+9
+try -2 4
+9
+try -2 2
+9
+try 0 1
+8
+try 2 0
+7
+try -1 3
+7
+try -1 -1
+7
+try -2 2
+7
+try -2 0
+7
+try 0 -1
+6
+try 3 3
+5
+try 3 1
+5
+try 4 3
+6
+try 4 -1
+6
+try 5 2
+6
+try 5 0
+6
+try 2 3
+6
+try 3 5
+7
+try 3 1
+7
+try 4 4
+7
+try 4 2
+7
+try 1 5
+7
+try 1 1
+7
+try 2 3
+8
+try 2 -1
+8
+try 3 2
+8
+try 3 0
+8
+try 4 2
+9
+try 4 -2
+9
+try 5 1
+9
+try 5 -1
+9
+try 2 2
+9
+try 3 4
+10
+try 3 0
+10
+try 4 3
+10
+try 4 1
+10
+try 1 4
+10
+try 1 0
+10
+try 2 2
+11
+try 2 -2
+11
+try 3 1
+11
+try 3 -1
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 3
+12
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 0 -2
+11
+try -1 1
+11
+try -1 -1
+11
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 1
+10
+try 1 3
+11
+try 1 -1
+11
+try 2 2
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 1 -2
+12
+try 0 1
+12
+try 0 -1
+12
+try -1 3
+11
+try -1 -1
+11
+try -2 2
+11
+try -2 0
+11
+try 2 -2
+9
+try 1 1
+9
+try 1 -1
+9
+try 0 3
+8
+try 1 5
+9
+try 1 1
+9
+try 2 4
+9
+try 2 2
+9
+try 3 4
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 1 -1
+11
+try 4 3
+10
+try 4 1
+10
+try 1 4
+10
+try 1 0
+10
+try 2 2
+11
+try 2 -2
+11
+try 3 1
+11
+try 3 -1
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 3
+12
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 0 -2
+11
+try -1 1
+11
+try -1 -1
+11
+try 0 3
+10
+try 0 1
+10
+try 1 3
+11
+try 1 -1
+11
+try 2 2
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 1 -2
+12
+try 0 1
+12
+try 0 -1
+12
+try -1 3
+11
+try -1 -1
+11
+try -2 2
+11
+try -2 0
+11
+try -1 5
+9
+try -1 1
+9
+try -2 4
+9
+try -2 2
+9
+try 0 -1
+8
+try -1 2
+8
+try -1 0
+8
+try 0 4
+7
+try 0 2
+7
+try 1 4
+8
+try 1 0
+8
+try 2 2
+9
+try 3 4
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 2 3
+12
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 1 -1
+11
+try 4 3
+10
+try 4 1
+10
+try 1 4
+10
+try 1 0
+10
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 3
+12
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 0 3
+12
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 1
+10
+try 1 3
+11
+try 1 -1
+11
+try 2 2
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 1 -2
+12
+try 0 1
+12
+try 0 -1
+12
+try -1 3
+11
+try -1 -1
+11
+try -2 2
+11
+try -2 0
+11
+try 2 -2
+9
+try 3 1
+9
+try 3 -1
+9
+try 0 2
+9
+try 0 -2
+9
+try -1 1
+9
+try -1 -1
+9
+try 2 3
+8
+try 2 1
+8
+try -1 4
+8
+try -1 0
+8
+try -2 3
+8
+try -2 1
+8
+try 2 -1
+6
+try 1 2
+6
+try 1 0
+6
+try 2 2
+7
+try 3 4
+8
+try 3 0
+8
+try 4 2
+9
+try 4 -2
+9
+try 5 1
+9
+try 5 -1
+9
+try 2 2
+9
+try 2 -2
+9
+try 1 1
+9
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 0 4
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 3
+12
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 2 -1
+10
+try 3 2
+10
+try 3 0
+10
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 -1
+10
+try -1 2
+10
+try -1 0
+10
+try 1 -1
+9
+try 4 3
+8
+try 4 1
+8
+try 1 4
+8
+try 1 0
+8
+try 0 3
+8
+try 1 5
+9
+try 1 1
+9
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 0 4
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 3
+12
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 2 -1
+10
+try 3 2
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 1 -1
+11
+try 0 3
+10
+try 0 -1
+10
+try -1 2
+10
+try -1 0
+10
+try 2 4
+9
+try 2 2
+9
+try -1 5
+9
+try -1 1
+9
+try -2 4
+9
+try -2 2
+9
+try 0 1
+8
+try 1 3
+9
+try 1 -1
+9
+try 2 2
+9
+try 2 0
+9
+try 3 2
+10
+try 3 -2
+10
+try 4 1
+10
+try 4 -1
+10
+try 1 2
+10
+try 1 -2
+10
+try 0 1
+10
+try 0 -1
+10
+try -1 3
+9
+try -1 -1
+9
+try -2 2
+9
+try -2 0
+9
+try 2 -2
+7
+try 3 1
+7
+try 3 -1
+7
+try 0 2
+7
+try 1 4
+8
+try 1 0
+8
+try 2 3
+8
+try 3 5
+9
+try 3 1
+9
+try 4 4
+9
+try 4 2
+9
+try 1 5
+9
+try 1 1
+9
+try 2 3
+10
+try 2 -1
+10
+try 3 2
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 3 4
+12
+try 3 0
+12
+try 4 3
+12
+try 4 1
+12
+try 1 4
+12
+try 1 0
+12
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 1
+12
+try 1 3
+13
+try 1 -1
+13
+try 2 2
+13
+try 2 0
+13
+try 3 2
+14
+try 3 -2
+14
+try 4 1
+14
+try 4 -1
+14
+try 1 2
+14
+try 1 -2
+14
+try 0 1
+14
+try 0 -1
+14
+try -1 3
+13
+try -1 -1
+13
+try -2 2
+13
+try -2 0
+13
+try 2 -2
+11
+try 1 1
+11
+try 1 -1
+11
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 4
+11
+try 2 2
+11
+try 3 4
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 4 3
+12
+try 4 1
+12
+try 1 4
+12
+try 1 0
+12
+try 0 3
+12
+try 0 1
+12
+try 1 3
+13
+try 1 -1
+13
+try 2 2
+13
+try 2 0
+13
+try 3 2
+14
+try 3 -2
+14
+try 4 1
+14
+try 4 -1
+14
+try 1 2
+14
+try 1 -2
+14
+try 0 1
+14
+try 0 -1
+14
+try -1 3
+13
+try -1 -1
+13
+try -2 2
+13
+try -2 0
+13
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 -1
+10
+try -1 2
+10
+try -1 0
+10
+try 0 4
+9
+try 0 2
+9
+try 2 1
+8
+try -1 4
+8
+try -1 0
+8
+try -2 3
+8
+try -2 1
+8
+try 0 -2
+7
+try -1 1
+7
+try -1 -1
+7
+try 0 4
+5
+try 0 0
+5
+try 1 2
+6
+try 1 -2
+6
+try 2 1
+6
+try 2 -1
+6
+try -1 2
+6
+try -1 -2
+6
+try -2 1
+6
+try -2 -1
+6
+try -1 3
+5
+try -1 1
+5
+try 3 -1
+3
+try 4 2
+3
+try 4 0
+3
+try 1 3
+3
+try 1 -1
+3
+try 0 2
+3
+try 1 4
+4
+try 1 0
+4
+try 2 2
+5
+try 3 4
+6
+try 3 0
+6
+try 4 2
+7
+try 4 -2
+7
+try 5 1
+7
+try 5 -1
+7
+try 2 2
+7
+try 2 -2
+7
+try 1 1
+7
+try 2 3
+8
+try 3 5
+9
+try 3 1
+9
+try 4 3
+10
+try 4 -1
+10
+try 5 2
+10
+try 5 0
+10
+try 2 3
+10
+try 2 -1
+10
+try 1 2
+10
+try 2 4
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 1 -2
+12
+try 0 1
+12
+try 1 3
+13
+try 1 -1
+13
+try 2 2
+13
+try 2 0
+13
+try -1 3
+13
+try -1 -1
+13
+try -2 2
+13
+try -2 0
+13
+try 0 -1
+12
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 1
+11
+try 0 4
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try -1 3
+11
+try -1 1
+11
+try 1 0
+10
+try 4 4
+9
+try 4 2
+9
+try 1 5
+9
+try 1 1
+9
+try 0 4
+9
+try 0 2
+9
+try 2 -1
+8
+try 3 2
+8
+try 3 0
+8
+try 0 3
+8
+try 1 5
+9
+try 1 1
+9
+try 2 4
+9
+try 2 2
+9
+try -1 5
+9
+try -1 1
+9
+try -2 4
+9
+try -2 2
+9
+try 0 -1
+8
+try -1 2
+8
+try -1 0
+8
+try 1 -1
+7
+try 4 3
+6
+try 4 1
+6
+try 1 4
+6
+try 1 0
+6
+try 0 3
+6
+try 1 5
+7
+try 1 1
+7
+try 2 3
+8
+try 3 5
+9
+try 3 1
+9
+try 4 3
+10
+try 4 -1
+10
+try 5 2
+10
+try 5 0
+10
+try 2 3
+10
+try 2 -1
+10
+try 1 2
+10
+try 2 4
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 1 -2
+12
+try 0 1
+12
+try 1 3
+13
+try 1 -1
+13
+try 2 2
+13
+try 2 0
+13
+try -1 3
+13
+try -1 -1
+13
+try -2 2
+13
+try -2 0
+13
+try 0 -1
+12
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 1
+11
+try 0 4
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try -1 3
+11
+try -1 1
+11
+try 1 0
+10
+try 4 4
+9
+try 4 2
+9
+try 1 5
+9
+try 1 1
+9
+try 0 4
+9
+try 0 2
+9
+try 2 -1
+8
+try 3 2
+8
+try 3 0
+8
+try 4 2
+9
+try 4 -2
+9
+try 5 1
+9
+try 5 -1
+9
+try 2 2
+9
+try 2 -2
+9
+try 1 1
+9
+try 1 -1
+9
+try 0 3
+8
+try 0 -1
+8
+try -1 2
+8
+try -1 0
+8
+try 2 4
+7
+try 2 2
+7
+try -1 5
+7
+try -1 1
+7
+try -2 4
+7
+try -2 2
+7
+try 0 1
+6
+try 1 3
+7
+try 1 -1
+7
+try 2 2
+7
+try 2 0
+7
+try 3 2
+8
+try 3 -2
+8
+try 4 1
+8
+try 4 -1
+8
+try 1 2
+8
+try 2 4
+9
+try 2 0
+9
+try 3 3
+9
+try 4 5
+10
+try 4 1
+10
+try 5 4
+10
+try 5 2
+10
+try 2 5
+10
+try 2 1
+10
+try 1 4
+10
+try 1 2
+10
+try 3 1
+9
+try 4 3
+10
+try 4 -1
+10
+try 5 2
+10
+try 5 0
+10
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 2 3
+12
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 0 4
+11
+try 0 2
+11
+try 2 -1
+10
+try 1 2
+10
+try 1 0
+10
+try 0 4
+9
+try 0 0
+9
+try 1 2
+10
+try 1 -2
+10
+try 2 1
+10
+try 2 -1
+10
+try -1 2
+10
+try -1 -2
+10
+try -2 1
+10
+try -2 -1
+10
+try -1 3
+9
+try -1 1
+9
+try 1 -2
+8
+try 0 1
+8
+try 0 -1
+8
+try -1 3
+7
+try -1 -1
+7
+try -2 2
+7
+try -2 0
+7
+try 2 -2
+5
+try 3 1
+5
+try 4 3
+6
+try 4 -1
+6
+try 5 2
+6
+try 5 0
+6
+try 2 3
+6
+try 3 5
+7
+try 3 1
+7
+try 4 4
+7
+try 4 2
+7
+try 1 5
+7
+try 1 1
+7
+try 2 3
+8
+try 2 -1
+8
+try 3 2
+8
+try 3 0
+8
+try 4 2
+9
+try 4 -2
+9
+try 5 1
+9
+try 5 -1
+9
+try 2 2
+9
+try 3 4
+10
+try 3 0
+10
+try 4 3
+10
+try 4 1
+10
+try 1 4
+10
+try 1 0
+10
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 1
+10
+try 1 3
+11
+try 1 -1
+11
+try 2 2
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 2 4
+13
+try 2 0
+13
+try 3 3
+13
+try 4 5
+14
+try 4 1
+14
+try 5 4
+14
+try 5 2
+14
+try 2 5
+14
+try 2 1
+14
+try 1 4
+14
+try 1 2
+14
+try 3 1
+13
+try 0 4
+13
+try 0 0
+13
+try 1 2
+14
+try 1 -2
+14
+try 2 1
+14
+try 2 -1
+14
+try -1 2
+14
+try -1 -2
+14
+try -2 1
+14
+try -2 -1
+14
+try -1 3
+13
+try -1 1
+13
+try 1 -2
+12
+try 0 1
+12
+try 0 -1
+12
+try -1 3
+11
+try -1 -1
+11
+try -2 2
+11
+try -2 0
+11
+try 2 -2
+9
+try 1 1
+9
+try 1 -1
+9
+try 0 3
+8
+try 1 5
+9
+try 1 1
+9
+try 2 4
+9
+try 2 2
+9
+try 3 4
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 1 -1
+11
+try 4 3
+10
+try 4 1
+10
+try 1 4
+10
+try 1 0
+10
+try 0 3
+10
+try 0 1
+10
+try 1 3
+11
+try 1 -1
+11
+try 2 2
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 2 4
+13
+try 2 0
+13
+try 3 3
+13
+try 4 5
+14
+try 4 1
+14
+try 5 4
+14
+try 5 2
+14
+try 2 5
+14
+try 2 1
+14
+try 1 4
+14
+try 1 2
+14
+try 3 1
+13
+try 0 4
+13
+try 0 0
+13
+try 1 2
+14
+try 1 -2
+14
+try 2 1
+14
+try 2 -1
+14
+try -1 2
+14
+try -1 -2
+14
+try -2 1
+14
+try -2 -1
+14
+try -1 3
+13
+try -1 1
+13
+try 1 -2
+12
+try 0 1
+12
+try 0 -1
+12
+try -1 3
+11
+try -1 -1
+11
+try -2 2
+11
+try -2 0
+11
+try -1 5
+9
+try -1 1
+9
+try -2 4
+9
+try -2 2
+9
+try 0 -1
+8
+try -1 2
+8
+try -1 0
+8
+try 0 4
+7
+try 0 2
+7
+try 2 -1
+6
+try 1 2
+6
+try 2 4
+7
+try 2 0
+7
+try 3 2
+8
+try 3 -2
+8
+try 4 1
+8
+try 4 -1
+8
+try 1 2
+8
+try 1 -2
+8
+try 0 1
+8
+try 1 3
+9
+try 1 -1
+9
+try 2 2
+9
+try 3 4
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 2 3
+12
+try 3 5
+13
+try 3 1
+13
+try 4 4
+13
+try 4 2
+13
+try 1 5
+13
+try 1 1
+13
+try 0 4
+13
+try 0 2
+13
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 1 -1
+11
+try 4 3
+10
+try 4 1
+10
+try 1 4
+10
+try 1 0
+10
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 3
+12
+try 3 5
+13
+try 3 1
+13
+try 4 4
+13
+try 4 2
+13
+try 1 5
+13
+try 1 1
+13
+try 0 4
+13
+try 0 2
+13
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 0 3
+12
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 1
+10
+try 2 0
+9
+try -1 3
+9
+try -1 -1
+9
+try -2 2
+9
+try -2 0
+9
+try 0 -1
+8
+try 3 3
+7
+try 4 5
+8
+try 4 1
+8
+try 5 4
+8
+try 5 2
+8
+try 2 5
+8
+try 2 1
+8
+try 1 4
+8
+try 1 2
+8
+try 3 1
+7
+try 0 4
+7
+try 0 0
+7
+try 1 2
+8
+try 1 -2
+8
+try 2 1
+8
+try 2 -1
+8
+try -1 2
+8
+try -1 -2
+8
+try -2 1
+8
+try -2 -1
+8
+try -1 3
+7
+try -1 1
+7
+try 1 0
+6
+try 3 -1
+5
+try 0 2
+5
+try 0 -2
+5
+try -1 1
+5
+try -1 -1
+5
+try 2 3
+4
+try 3 5
+5
+try 3 1
+5
+try 4 3
+6
+try 4 -1
+6
+try 5 2
+6
+try 5 0
+6
+try 2 3
+6
+try 2 -1
+6
+try 1 2
+6
+try 2 4
+7
+try 2 0
+7
+try 3 2
+8
+try 3 -2
+8
+try 4 1
+8
+try 4 -1
+8
+try 1 2
+8
+try 1 -2
+8
+try 0 1
+8
+try 1 3
+9
+try 1 -1
+9
+try 2 2
+9
+try 3 4
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 2 3
+12
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 1 -1
+11
+try 4 3
+10
+try 4 1
+10
+try 1 4
+10
+try 1 0
+10
+try 2 2
+11
+try 2 -2
+11
+try 3 1
+11
+try 3 -1
+11
+try 0 2
+11
+try 0 -2
+11
+try -1 1
+11
+try -1 -1
+11
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 3
+12
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 0 3
+12
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 1
+10
+try 2 0
+9
+try -1 3
+9
+try -1 -1
+9
+try -2 2
+9
+try -2 0
+9
+try 0 -1
+8
+try 3 3
+7
+try 4 5
+8
+try 4 1
+8
+try 5 4
+8
+try 5 2
+8
+try 2 5
+8
+try 2 1
+8
+try 1 4
+8
+try 1 2
+8
+try 3 1
+7
+try 0 4
+7
+try 0 0
+7
+try 1 2
+8
+try 1 -2
+8
+try 2 1
+8
+try 2 -1
+8
+try -1 2
+8
+try -1 -2
+8
+try -2 1
+8
+try -2 -1
+8
+try -1 3
+7
+try -1 1
+7
+try 1 0
+6
+try 2 2
+7
+try 3 4
+8
+try 3 0
+8
+try 4 2
+9
+try 4 -2
+9
+try 5 1
+9
+try 5 -1
+9
+try 2 2
+9
+try 2 -2
+9
+try 1 1
+9
+try 2 3
+10
+try 2 -1
+10
+try 3 2
+10
+try 3 0
+10
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 -1
+10
+try -1 2
+10
+try -1 0
+10
+try 1 -1
+9
+try 4 3
+8
+try 4 1
+8
+try 1 4
+8
+try 1 0
+8
+try 0 3
+8
+try 1 5
+9
+try 1 1
+9
+try 2 3
+10
+try 2 -1
+10
+try 3 2
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 1 -1
+11
+try 0 3
+10
+try 0 -1
+10
+try -1 2
+10
+try -1 0
+10
+try 2 4
+9
+try 2 2
+9
+try -1 5
+9
+try -1 1
+9
+try -2 4
+9
+try -2 2
+9
+try 0 1
+8
+try 1 3
+9
+try 1 -1
+9
+try 2 2
+9
+try 2 0
+9
+try 3 2
+10
+try 3 -2
+10
+try 4 1
+10
+try 4 -1
+10
+try 1 2
+10
+try 2 4
+11
+try 2 0
+11
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 1
+11
+try 0 4
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try -1 3
+11
+try -1 1
+11
+try 1 -2
+10
+try 0 1
+10
+try 0 -1
+10
+try -1 3
+9
+try -1 -1
+9
+try -2 2
+9
+try -2 0
+9
+try 2 -2
+7
+try 3 1
+7
+try 3 -1
+7
+try 0 2
+7
+try 0 -2
+7
+try -1 1
+7
+try -1 -1
+7
+try 4 4
+5
+try 4 2
+5
+try 1 5
+5
+try 1 1
+5
+try 2 3
+6
+try 2 -1
+6
+try 3 2
+6
+try 3 0
+6
+try 4 2
+7
+try 4 -2
+7
+try 5 1
+7
+try 5 -1
+7
+try 2 2
+7
+try 3 4
+8
+try 3 0
+8
+try 4 3
+8
+try 4 1
+8
+try 1 4
+8
+try 1 0
+8
+try 2 2
+9
+try 2 -2
+9
+try 3 1
+9
+try 4 3
+10
+try 4 -1
+10
+try 5 2
+10
+try 5 0
+10
+try 2 3
+10
+try 2 -1
+10
+try 1 2
+10
+try 2 4
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 1 -2
+12
+try 0 1
+12
+try 1 3
+13
+try 1 -1
+13
+try 2 2
+13
+try 2 0
+13
+try -1 3
+13
+try -1 -1
+13
+try -2 2
+13
+try -2 0
+13
+try 0 -1
+12
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 1
+11
+try 0 4
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try -1 3
+11
+try -1 1
+11
+try 1 0
+10
+try 3 -1
+9
+try 0 2
+9
+try 0 -2
+9
+try -1 1
+9
+try -1 -1
+9
+try 0 3
+8
+try 1 5
+9
+try 1 1
+9
+try 2 4
+9
+try 2 2
+9
+try -1 5
+9
+try -1 1
+9
+try -2 4
+9
+try -2 2
+9
+try 0 1
+8
+try 1 3
+9
+try 1 -1
+9
+try 2 2
+9
+try 2 0
+9
+try 3 2
+10
+try 3 -2
+10
+try 4 1
+10
+try 4 -1
+10
+try 1 2
+10
+try 2 4
+11
+try 2 0
+11
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 3 -1
+13
+try 0 2
+13
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 0 4
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try -1 3
+11
+try -1 1
+11
+try 1 -2
+10
+try 0 1
+10
+try 0 -1
+10
+try -1 3
+9
+try -1 -1
+9
+try -2 2
+9
+try -2 0
+9
+try 2 -2
+7
+try 1 1
+7
+try 1 -1
+7
+try 0 3
+6
+try 1 5
+7
+try 1 1
+7
+try 2 4
+7
+try 2 2
+7
+try 3 4
+8
+try 3 0
+8
+try 4 2
+9
+try 4 -2
+9
+try 5 1
+9
+try 5 -1
+9
+try 2 2
+9
+try 2 -2
+9
+try 1 1
+9
+try 1 -1
+9
+try 4 3
+8
+try 4 1
+8
+try 1 4
+8
+try 1 0
+8
+try 2 2
+9
+try 2 -2
+9
+try 3 1
+9
+try 4 3
+10
+try 4 -1
+10
+try 5 2
+10
+try 5 0
+10
+try 2 3
+10
+try 2 -1
+10
+try 1 2
+10
+try 2 4
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 1 -2
+12
+try 0 1
+12
+try 1 3
+13
+try 1 -1
+13
+try 2 2
+13
+try 2 0
+13
+try -1 3
+13
+try -1 -1
+13
+try -2 2
+13
+try -2 0
+13
+try 0 -1
+12
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 1
+11
+try 0 4
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try -1 3
+11
+try -1 1
+11
+try 1 0
+10
+try 3 -1
+9
+try 0 2
+9
+try 0 -2
+9
+try -1 1
+9
+try -1 -1
+9
+try 0 3
+8
+try 0 1
+8
+try 1 3
+9
+try 1 -1
+9
+try 2 2
+9
+try 2 0
+9
+try 3 2
+10
+try 3 -2
+10
+try 4 1
+10
+try 4 -1
+10
+try 1 2
+10
+try 2 4
+11
+try 2 0
+11
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 3 -1
+13
+try 0 2
+13
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 0 4
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try -1 3
+11
+try -1 1
+11
+try 1 -2
+10
+try 0 1
+10
+try 0 -1
+10
+try -1 3
+9
+try -1 -1
+9
+try -2 2
+9
+try -2 0
+9
+try -1 5
+7
+try -1 1
+7
+try -2 4
+7
+try -2 2
+7
+try 0 -1
+6
+try -1 2
+6
+try -1 0
+6
+try 0 4
+5
+try 0 2
+5
+try 2 1
+4
+try -1 4
+4
+try -1 0
+4
+try -2 3
+4
+try -2 1
+4
+try 0 0
+3
+try 1 2
+4
+try 2 4
+5
+try 2 0
+5
+try 3 2
+6
+try 3 -2
+6
+try 4 1
+6
+try 4 -1
+6
+try 1 2
+6
+try 1 -2
+6
+try 0 1
+6
+try 1 3
+7
+try 1 -1
+7
+try 2 2
+7
+try 3 4
+8
+try 3 0
+8
+try 4 2
+9
+try 4 -2
+9
+try 5 1
+9
+try 5 -1
+9
+try 2 2
+9
+try 2 -2
+9
+try 1 1
+9
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 3 -1
+13
+try 0 2
+13
+try 1 4
+14
+try 1 0
+14
+try 2 3
+14
+try 2 1
+14
+try -1 4
+14
+try -1 0
+14
+try -2 3
+14
+try -2 1
+14
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 0 4
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 4 3
+14
+try 4 -1
+14
+try 5 2
+14
+try 5 0
+14
+try 2 3
+14
+try 2 -1
+14
+try 1 2
+14
+try 1 0
+14
+try 3 -1
+13
+try 0 2
+13
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 2 3
+12
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 2 -1
+10
+try 3 2
+10
+try 3 0
+10
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 -1
+10
+try -1 2
+10
+try -1 0
+10
+try 1 -1
+9
+try 4 3
+8
+try 4 1
+8
+try 1 4
+8
+try 1 0
+8
+try 2 2
+9
+try 2 -2
+9
+try 3 1
+9
+try 4 3
+10
+try 4 -1
+10
+try 5 2
+10
+try 5 0
+10
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 2 3
+12
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 0 4
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 3
+12
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 2 -1
+10
+try 1 2
+10
+try 1 0
+10
+try 3 -1
+9
+try 0 2
+9
+try 1 4
+10
+try 1 0
+10
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 2 3
+12
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 0 4
+11
+try 0 2
+11
+try 2 1
+10
+try -1 4
+10
+try -1 0
+10
+try -2 3
+10
+try -2 1
+10
+try 0 -2
+9
+try -1 1
+9
+try -1 -1
+9
+try 0 3
+8
+try 1 5
+9
+try 1 1
+9
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 3 -1
+13
+try 0 2
+13
+try 1 4
+14
+try 1 0
+14
+try 2 3
+14
+try 2 1
+14
+try -1 4
+14
+try -1 0
+14
+try -2 3
+14
+try -2 1
+14
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 0 4
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 4 3
+14
+try 4 -1
+14
+try 5 2
+14
+try 5 0
+14
+try 2 3
+14
+try 2 -1
+14
+try 1 2
+14
+try 1 0
+14
+try 3 -1
+13
+try 0 2
+13
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 2 3
+12
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 2 -1
+10
+try 3 2
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 1 -1
+11
+try 0 3
+10
+try 0 -1
+10
+try -1 2
+10
+try -1 0
+10
+try 2 4
+9
+try 2 2
+9
+try -1 5
+9
+try -1 1
+9
+try -2 4
+9
+try -2 2
+9
+try 0 1
+8
+try 2 0
+7
+try -1 3
+7
+try -1 -1
+7
+try -2 2
+7
+try -2 0
+7
+try 0 -1
+6
+try 3 3
+5
+try 4 5
+6
+try 4 1
+6
+try 5 4
+6
+try 5 2
+6
+try 2 5
+6
+try 2 1
+6
+try 1 4
+6
+try 1 2
+6
+try 3 1
+5
+try 4 3
+6
+try 4 -1
+6
+try 5 2
+6
+try 5 0
+6
+try 2 3
+6
+try 3 5
+7
+try 3 1
+7
+try 4 4
+7
+try 4 2
+7
+try 1 5
+7
+try 1 1
+7
+try 2 3
+8
+try 2 -1
+8
+try 3 2
+8
+try 3 0
+8
+try 4 2
+9
+try 4 -2
+9
+try 5 1
+9
+try 5 -1
+9
+try 2 2
+9
+try 3 4
+10
+try 3 0
+10
+try 4 3
+10
+try 4 1
+10
+try 1 4
+10
+try 1 0
+10
+try 2 2
+11
+try 2 -2
+11
+try 3 1
+11
+try 3 -1
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 3
+12
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 0 -2
+11
+try -1 1
+11
+try -1 -1
+11
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 1
+10
+try 1 3
+11
+try 1 -1
+11
+try 2 2
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 1 -2
+12
+try 0 1
+12
+try 0 -1
+12
+try -1 3
+11
+try -1 -1
+11
+try -2 2
+11
+try -2 0
+11
+try 2 -2
+9
+try 1 1
+9
+try 1 -1
+9
+try 0 3
+8
+try 1 5
+9
+try 1 1
+9
+try 2 4
+9
+try 2 2
+9
+try 3 4
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 1 -1
+11
+try 4 3
+10
+try 4 1
+10
+try 1 4
+10
+try 1 0
+10
+try 2 2
+11
+try 2 -2
+11
+try 3 1
+11
+try 3 -1
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 3
+12
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 0 -2
+11
+try -1 1
+11
+try -1 -1
+11
+try 0 3
+10
+try 0 1
+10
+try 1 3
+11
+try 1 -1
+11
+try 2 2
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 1 -2
+12
+try 0 1
+12
+try 0 -1
+12
+try -1 3
+11
+try -1 -1
+11
+try -2 2
+11
+try -2 0
+11
+try -1 5
+9
+try -1 1
+9
+try -2 4
+9
+try -2 2
+9
+try 0 -1
+8
+try -1 2
+8
+try -1 0
+8
+try 0 4
+7
+try 0 2
+7
+try 1 4
+8
+try 1 0
+8
+try 2 2
+9
+try 3 4
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 2 3
+12
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 1 -1
+11
+try 4 3
+10
+try 4 1
+10
+try 1 4
+10
+try 1 0
+10
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 3
+12
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 0 3
+12
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 1
+10
+try 1 3
+11
+try 1 -1
+11
+try 2 2
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 1 -2
+12
+try 0 1
+12
+try 0 -1
+12
+try -1 3
+11
+try -1 -1
+11
+try -2 2
+11
+try -2 0
+11
+try 2 -2
+9
+try 3 1
+9
+try 3 -1
+9
+try 0 2
+9
+try 0 -2
+9
+try -1 1
+9
+try -1 -1
+9
+try 2 3
+8
+try 2 1
+8
+try -1 4
+8
+try -1 0
+8
+try -2 3
+8
+try -2 1
+8
+try 2 -1
+6
+try 1 2
+6
+try 1 0
+6
+try 2 2
+7
+try 3 4
+8
+try 3 0
+8
+try 4 2
+9
+try 4 -2
+9
+try 5 1
+9
+try 5 -1
+9
+try 2 2
+9
+try 2 -2
+9
+try 1 1
+9
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 0 4
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 3
+12
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 2 -1
+10
+try 3 2
+10
+try 3 0
+10
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 -1
+10
+try -1 2
+10
+try -1 0
+10
+try 1 -1
+9
+try 4 3
+8
+try 4 1
+8
+try 1 4
+8
+try 1 0
+8
+try 0 3
+8
+try 1 5
+9
+try 1 1
+9
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 0 4
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 3
+12
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 2 -1
+10
+try 3 2
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 1 -1
+11
+try 0 3
+10
+try 0 -1
+10
+try -1 2
+10
+try -1 0
+10
+try 2 4
+9
+try 2 2
+9
+try -1 5
+9
+try -1 1
+9
+try -2 4
+9
+try -2 2
+9
+try 0 1
+8
+try 1 3
+9
+try 1 -1
+9
+try 2 2
+9
+try 2 0
+9
+try 3 2
+10
+try 3 -2
+10
+try 4 1
+10
+try 4 -1
+10
+try 1 2
+10
+try 1 -2
+10
+try 0 1
+10
+try 0 -1
+10
+try -1 3
+9
+try -1 -1
+9
+try -2 2
+9
+try -2 0
+9
+try 2 -2
+7
+try 3 1
+7
+try 3 -1
+7
+try 0 2
+7
+try 1 4
+8
+try 1 0
+8
+try 2 3
+8
+try 3 5
+9
+try 3 1
+9
+try 4 4
+9
+try 4 2
+9
+try 1 5
+9
+try 1 1
+9
+try 2 3
+10
+try 2 -1
+10
+try 3 2
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 3 4
+12
+try 3 0
+12
+try 4 3
+12
+try 4 1
+12
+try 1 4
+12
+try 1 0
+12
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 1
+12
+try 1 3
+13
+try 1 -1
+13
+try 2 2
+13
+try 2 0
+13
+try 3 2
+14
+try 3 -2
+14
+try 4 1
+14
+try 4 -1
+14
+try 1 2
+14
+try 1 -2
+14
+try 0 1
+14
+try 0 -1
+14
+try -1 3
+13
+try -1 -1
+13
+try -2 2
+13
+try -2 0
+13
+try 2 -2
+11
+try 1 1
+11
+try 1 -1
+11
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 4
+11
+try 2 2
+11
+try 3 4
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 4 3
+12
+try 4 1
+12
+try 1 4
+12
+try 1 0
+12
+try 0 3
+12
+try 0 1
+12
+try 1 3
+13
+try 1 -1
+13
+try 2 2
+13
+try 2 0
+13
+try 3 2
+14
+try 3 -2
+14
+try 4 1
+14
+try 4 -1
+14
+try 1 2
+14
+try 1 -2
+14
+try 0 1
+14
+try 0 -1
+14
+try -1 3
+13
+try -1 -1
+13
+try -2 2
+13
+try -2 0
+13
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 -1
+10
+try -1 2
+10
+try -1 0
+10
+try 0 4
+9
+try 0 2
+9
+try 2 1
+8
+try -1 4
+8
+try -1 0
+8
+try -2 3
+8
+try -2 1
+8
+try 0 -2
+7
+try -1 1
+7
+try -1 -1
+7
+try 0 4
+5
+try 0 0
+5
+try -1 3
+5
+try -1 1
+5
+try 1 -2
+4
+try 2 1
+4
+try 2 -1
+4
+try -1 2
+4
+try -1 -2
+4
+try -2 1
+4
+try -2 -1
+4
+try 3 4
+2
+try 3 2
+2
+try 0 5
+2
+try 0 1
+2
+try 1 3
+3
+try 1 -1
+3
+try 2 2
+3
+try 3 4
+4
+try 3 0
+4
+try 4 2
+5
+try 4 -2
+5
+try 5 1
+5
+try 5 -1
+5
+try 2 2
+5
+try 2 -2
+5
+try 1 1
+5
+try 2 3
+6
+try 3 5
+7
+try 3 1
+7
+try 4 3
+8
+try 4 -1
+8
+try 5 2
+8
+try 5 0
+8
+try 2 3
+8
+try 2 -1
+8
+try 1 2
+8
+try 2 4
+9
+try 2 0
+9
+try 3 2
+10
+try 3 -2
+10
+try 4 1
+10
+try 4 -1
+10
+try 1 2
+10
+try 1 -2
+10
+try 0 1
+10
+try 0 -1
+10
+try 3 3
+9
+try 4 5
+10
+try 4 1
+10
+try 5 4
+10
+try 5 2
+10
+try 2 5
+10
+try 2 1
+10
+try 3 3
+11
+try 3 -1
+11
+try 4 2
+11
+try 4 0
+11
+try 1 3
+11
+try 1 -1
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 3 -1
+13
+try 0 2
+13
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 2 3
+12
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try 1 4
+10
+try 1 2
+10
+try 3 1
+9
+try 0 4
+9
+try 0 0
+9
+try 1 2
+10
+try 1 -2
+10
+try 2 1
+10
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 -1
+11
+try 4 2
+11
+try 4 0
+11
+try 1 3
+11
+try 1 -1
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 3 -1
+13
+try 0 2
+13
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 2 3
+12
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 0 0
+11
+try 2 -1
+10
+try -1 2
+10
+try -1 -2
+10
+try -2 1
+10
+try -2 -1
+10
+try -1 3
+9
+try -1 1
+9
+try 1 0
+8
+try 2 2
+9
+try 2 -2
+9
+try 3 1
+9
+try 3 -1
+9
+try 0 2
+9
+try 1 4
+10
+try 1 0
+10
+try 2 3
+10
+try 2 1
+10
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 2 4
+13
+try 2 0
+13
+try 3 2
+14
+try 3 -2
+14
+try 4 1
+14
+try 4 -1
+14
+try 1 2
+14
+try 1 -2
+14
+try 0 1
+14
+try 0 -1
+14
+try 3 3
+13
+try 3 1
+13
+try 0 4
+13
+try 0 0
+13
+try 1 2
+14
+try 1 -2
+14
+try 2 1
+14
+try 2 -1
+14
+try -1 2
+14
+try -1 -2
+14
+try -2 1
+14
+try -2 -1
+14
+try -1 3
+13
+try -1 1
+13
+try 3 -1
+11
+try 4 2
+11
+try 4 0
+11
+try 1 3
+11
+try 1 -1
+11
+try 0 2
+11
+try 0 0
+11
+try 1 2
+12
+try 2 4
+13
+try 2 0
+13
+try 3 2
+14
+try 3 -2
+14
+try 4 1
+14
+try 4 -1
+14
+try 1 2
+14
+try 1 -2
+14
+try 0 1
+14
+try 0 -1
+14
+try 3 3
+13
+try 4 5
+14
+try 4 1
+14
+try 5 4
+14
+try 5 2
+14
+try 2 5
+14
+try 2 1
+14
+try 1 4
+14
+try 1 2
+14
+try 3 1
+13
+try 0 4
+13
+try 0 0
+13
+try -1 3
+13
+try -1 1
+13
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try -1 4
+10
+try -1 0
+10
+try -2 3
+10
+try -2 1
+10
+try 0 -2
+9
+try -1 1
+9
+try -1 -1
+9
+try 4 4
+7
+try 4 2
+7
+try 1 5
+7
+try 1 1
+7
+try 0 4
+7
+try 0 2
+7
+try 1 4
+8
+try 1 0
+8
+try 2 2
+9
+try 2 -2
+9
+try 3 1
+9
+try 4 3
+10
+try 4 -1
+10
+try 5 2
+10
+try 5 0
+10
+try 2 3
+10
+try 2 -1
+10
+try 1 2
+10
+try 2 4
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 1 -2
+12
+try 0 1
+12
+try 0 -1
+12
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 3 3
+13
+try 3 -1
+13
+try 4 2
+13
+try 4 0
+13
+try 1 3
+13
+try 1 -1
+13
+try 0 2
+13
+try 0 0
+13
+try 1 2
+14
+try 1 -2
+14
+try 2 1
+14
+try 2 -1
+14
+try -1 2
+14
+try -1 -2
+14
+try -2 1
+14
+try -2 -1
+14
+try 1 4
+12
+try 1 2
+12
+try 3 1
+11
+try 0 4
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 3 3
+13
+try 4 5
+14
+try 4 1
+14
+try 5 4
+14
+try 5 2
+14
+try 2 5
+14
+try 2 1
+14
+try 1 4
+14
+try 1 2
+14
+try 3 -1
+13
+try 4 2
+13
+try 4 0
+13
+try 1 3
+13
+try 1 -1
+13
+try 0 2
+13
+try 0 0
+13
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try -1 3
+11
+try -1 1
+11
+try 1 0
+10
+try 3 -1
+9
+try 0 2
+9
+try 0 -2
+9
+try -1 1
+9
+try -1 -1
+9
+try 2 3
+8
+try 2 1
+8
+try 3 3
+9
+try 4 5
+10
+try 4 1
+10
+try 5 4
+10
+try 5 2
+10
+try 2 5
+10
+try 2 1
+10
+try 1 4
+10
+try 1 2
+10
+try 2 4
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 1 -2
+12
+try 0 1
+12
+try 0 -1
+12
+try 3 3
+11
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 3 -1
+13
+try 0 2
+13
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 0 4
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try -1 3
+11
+try -1 1
+11
+try 3 -1
+9
+try 4 2
+9
+try 4 0
+9
+try 1 3
+9
+try 1 -1
+9
+try 0 2
+9
+try 0 0
+9
+try 1 2
+10
+try 2 4
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 1 -2
+12
+try 0 1
+12
+try 0 -1
+12
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 3 -1
+13
+try 0 2
+13
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 0 4
+11
+try 0 0
+11
+try -1 3
+11
+try -1 1
+11
+try 1 -2
+10
+try 2 1
+10
+try 2 -1
+10
+try -1 2
+10
+try -1 -2
+10
+try -2 1
+10
+try -2 -1
+10
+try -1 4
+8
+try -1 0
+8
+try -2 3
+8
+try -2 1
+8
+try 2 -1
+6
+try 3 2
+6
+try 3 0
+6
+try 0 3
+6
+try 1 5
+7
+try 1 1
+7
+try 2 4
+7
+try 2 2
+7
+try -1 5
+7
+try -1 1
+7
+try -2 4
+7
+try -2 2
+7
+try 0 -1
+6
+try -1 2
+6
+try -1 0
+6
+try 1 -1
+5
+try 4 3
+4
+try 4 1
+4
+try 1 4
+4
+try 1 0
+4
+try 2 2
+5
+try 2 -2
+5
+try 3 1
+5
+try 4 3
+6
+try 4 -1
+6
+try 5 2
+6
+try 5 0
+6
+try 2 3
+6
+try 3 5
+7
+try 3 1
+7
+try 4 4
+7
+try 4 2
+7
+try 1 5
+7
+try 1 1
+7
+try 2 3
+8
+try 2 -1
+8
+try 3 2
+8
+try 3 0
+8
+try 4 2
+9
+try 4 -2
+9
+try 5 1
+9
+try 5 -1
+9
+try 2 2
+9
+try 2 -2
+9
+try 1 1
+9
+try 1 -1
+9
+try 0 3
+8
+try 1 5
+9
+try 1 1
+9
+try 2 4
+9
+try 2 2
+9
+try -1 5
+9
+try -1 1
+9
+try -2 4
+9
+try -2 2
+9
+try 0 -1
+8
+try -1 2
+8
+try -1 0
+8
+try 0 4
+7
+try 0 2
+7
+try 1 4
+8
+try 1 0
+8
+try 2 3
+8
+try 2 1
+8
+try 3 3
+9
+try 4 5
+10
+try 4 1
+10
+try 5 4
+10
+try 5 2
+10
+try 2 5
+10
+try 2 1
+10
+try 1 4
+10
+try 1 2
+10
+try 2 4
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 1 -2
+12
+try 0 1
+12
+try 0 -1
+12
+try 3 3
+11
+try 3 1
+11
+try 0 4
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try -1 3
+11
+try -1 1
+11
+try 3 -1
+9
+try 4 2
+9
+try 4 0
+9
+try 1 3
+9
+try 1 -1
+9
+try 0 2
+9
+try 0 0
+9
+try 1 2
+10
+try 2 4
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 1 -2
+12
+try 0 1
+12
+try 0 -1
+12
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 1
+11
+try 0 4
+11
+try 0 0
+11
+try -1 3
+11
+try -1 1
+11
+try 1 -2
+10
+try 2 1
+10
+try 2 -1
+10
+try -1 2
+10
+try -1 -2
+10
+try -2 1
+10
+try -2 -1
+10
+try -1 4
+8
+try -1 0
+8
+try -2 3
+8
+try -2 1
+8
+try 2 -1
+6
+try 1 2
+6
+try 2 4
+7
+try 2 0
+7
+try 3 2
+8
+try 3 -2
+8
+try 4 1
+8
+try 4 -1
+8
+try 1 2
+8
+try 1 -2
+8
+try 0 1
+8
+try 0 -1
+8
+try 3 3
+7
+try 4 5
+8
+try 4 1
+8
+try 5 4
+8
+try 5 2
+8
+try 2 5
+8
+try 2 1
+8
+try 3 3
+9
+try 3 -1
+9
+try 4 2
+9
+try 4 0
+9
+try 1 3
+9
+try 1 -1
+9
+try 0 2
+9
+try 1 4
+10
+try 1 0
+10
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 2 3
+12
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 0 4
+11
+try 0 2
+11
+try 2 1
+10
+try -1 4
+10
+try -1 0
+10
+try -2 3
+10
+try -2 1
+10
+try 0 0
+9
+try 1 2
+10
+try 1 -2
+10
+try 2 1
+10
+try 2 -1
+10
+try -1 2
+10
+try -1 -2
+10
+try -2 1
+10
+try -2 -1
+10
+try 1 4
+8
+try 1 2
+8
+try 3 1
+7
+try 0 4
+7
+try 0 0
+7
+try 1 2
+8
+try 1 -2
+8
+try 2 1
+8
+try 3 3
+9
+try 4 5
+10
+try 4 1
+10
+try 5 4
+10
+try 5 2
+10
+try 2 5
+10
+try 2 1
+10
+try 1 4
+10
+try 1 2
+10
+try 3 -1
+9
+try 4 2
+9
+try 4 0
+9
+try 1 3
+9
+try 1 -1
+9
+try 0 2
+9
+try 1 4
+10
+try 1 0
+10
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 2 3
+12
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 0 4
+11
+try 0 2
+11
+try 2 1
+10
+try -1 4
+10
+try -1 0
+10
+try -2 3
+10
+try -2 1
+10
+try 0 0
+9
+try 2 -1
+8
+try -1 2
+8
+try -1 -2
+8
+try -2 1
+8
+try -2 -1
+8
+try -1 3
+7
+try -1 1
+7
+try 1 0
+6
+try 3 -1
+5
+try 0 2
+5
+try 1 4
+6
+try 1 0
+6
+try 2 3
+6
+try 3 5
+7
+try 3 1
+7
+try 4 3
+8
+try 4 -1
+8
+try 5 2
+8
+try 5 0
+8
+try 2 3
+8
+try 2 -1
+8
+try 1 2
+8
+try 2 4
+9
+try 2 0
+9
+try 3 2
+10
+try 3 -2
+10
+try 4 1
+10
+try 4 -1
+10
+try 1 2
+10
+try 1 -2
+10
+try 0 1
+10
+try 0 -1
+10
+try 3 3
+9
+try 4 5
+10
+try 4 1
+10
+try 5 4
+10
+try 5 2
+10
+try 2 5
+10
+try 2 1
+10
+try 3 3
+11
+try 3 -1
+11
+try 4 2
+11
+try 4 0
+11
+try 1 3
+11
+try 1 -1
+11
+try 0 2
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try 1 4
+10
+try 1 2
+10
+try 3 1
+9
+try 0 4
+9
+try 0 0
+9
+try 1 2
+10
+try 1 -2
+10
+try 2 1
+10
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 -1
+11
+try 4 2
+11
+try 4 0
+11
+try 1 3
+11
+try 1 -1
+11
+try 0 2
+11
+try 0 0
+11
+try 2 -1
+10
+try -1 2
+10
+try -1 -2
+10
+try -2 1
+10
+try -2 -1
+10
+try -1 3
+9
+try -1 1
+9
+try 1 0
+8
+try 4 4
+7
+try 4 2
+7
+try 1 5
+7
+try 1 1
+7
+try 2 3
+8
+try 2 -1
+8
+try 3 2
+8
+try 3 0
+8
+try 4 2
+9
+try 4 -2
+9
+try 5 1
+9
+try 5 -1
+9
+try 2 2
+9
+try 2 -2
+9
+try 1 1
+9
+try 1 -1
+9
+try 0 3
+8
+try 1 5
+9
+try 1 1
+9
+try 2 4
+9
+try 2 2
+9
+try -1 5
+9
+try -1 1
+9
+try -2 4
+9
+try -2 2
+9
+try 0 -1
+8
+try -1 2
+8
+try -1 0
+8
+try 0 4
+7
+try 0 2
+7
+try 2 1
+6
+try 3 3
+7
+try 4 5
+8
+try 4 1
+8
+try 5 4
+8
+try 5 2
+8
+try 2 5
+8
+try 2 1
+8
+try 1 4
+8
+try 1 2
+8
+try 2 4
+9
+try 2 0
+9
+try 3 2
+10
+try 3 -2
+10
+try 4 1
+10
+try 4 -1
+10
+try 1 2
+10
+try 1 -2
+10
+try 0 1
+10
+try 0 -1
+10
+try 3 3
+9
+try 3 1
+9
+try 4 3
+10
+try 4 -1
+10
+try 5 2
+10
+try 5 0
+10
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 2 3
+12
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 0 4
+11
+try 0 2
+11
+try 2 -1
+10
+try 1 2
+10
+try 1 0
+10
+try 0 4
+9
+try 0 0
+9
+try 1 2
+10
+try 1 -2
+10
+try 2 1
+10
+try 2 -1
+10
+try -1 2
+10
+try -1 -2
+10
+try -2 1
+10
+try -2 -1
+10
+try -1 3
+9
+try -1 1
+9
+try 3 -1
+7
+try 4 2
+7
+try 4 0
+7
+try 1 3
+7
+try 1 -1
+7
+try 0 2
+7
+try 0 0
+7
+try 1 2
+8
+try 2 4
+9
+try 2 0
+9
+try 3 2
+10
+try 3 -2
+10
+try 4 1
+10
+try 4 -1
+10
+try 1 2
+10
+try 1 -2
+10
+try 0 1
+10
+try 0 -1
+10
+try 3 3
+9
+try 4 5
+10
+try 4 1
+10
+try 5 4
+10
+try 5 2
+10
+try 2 5
+10
+try 2 1
+10
+try 1 4
+10
+try 1 2
+10
+try 3 1
+9
+try 4 3
+10
+try 4 -1
+10
+try 5 2
+10
+try 5 0
+10
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 2 3
+12
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 0 4
+11
+try 0 2
+11
+try 2 -1
+10
+try 1 2
+10
+try 1 0
+10
+try 0 4
+9
+try 0 0
+9
+try -1 3
+9
+try -1 1
+9
+try 1 -2
+8
+try 2 1
+8
+try 2 -1
+8
+try -1 2
+8
+try -1 -2
+8
+try -2 1
+8
+try -2 -1
+8
+try -1 4
+6
+try -1 0
+6
+try -2 3
+6
+try -2 1
+6
+try 0 -2
+5
+try -1 1
+5
+try -1 -1
+5
+try 0 3
+4
+try 1 5
+5
+try 1 1
+5
+try 2 3
+6
+try 3 5
+7
+try 3 1
+7
+try 4 3
+8
+try 4 -1
+8
+try 5 2
+8
+try 5 0
+8
+try 2 3
+8
+try 2 -1
+8
+try 1 2
+8
+try 2 4
+9
+try 2 0
+9
+try 3 2
+10
+try 3 -2
+10
+try 4 1
+10
+try 4 -1
+10
+try 1 2
+10
+try 1 -2
+10
+try 0 1
+10
+try 0 -1
+10
+try 3 3
+9
+try 4 5
+10
+try 4 1
+10
+try 5 4
+10
+try 5 2
+10
+try 2 5
+10
+try 2 1
+10
+try 3 3
+11
+try 3 -1
+11
+try 4 2
+11
+try 4 0
+11
+try 1 3
+11
+try 1 -1
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 3 -1
+13
+try 0 2
+13
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 2 3
+12
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try 1 4
+10
+try 1 2
+10
+try 3 1
+9
+try 0 4
+9
+try 0 0
+9
+try 1 2
+10
+try 1 -2
+10
+try 2 1
+10
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 -1
+11
+try 4 2
+11
+try 4 0
+11
+try 1 3
+11
+try 1 -1
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 3 -1
+13
+try 0 2
+13
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 2 3
+12
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 0 0
+11
+try 2 -1
+10
+try -1 2
+10
+try -1 -2
+10
+try -2 1
+10
+try -2 -1
+10
+try -1 3
+9
+try -1 1
+9
+try 1 0
+8
+try 2 2
+9
+try 2 -2
+9
+try 3 1
+9
+try 3 -1
+9
+try 0 2
+9
+try 1 4
+10
+try 1 0
+10
+try 2 3
+10
+try 2 1
+10
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 2 4
+13
+try 2 0
+13
+try 3 2
+14
+try 3 -2
+14
+try 4 1
+14
+try 4 -1
+14
+try 1 2
+14
+try 1 -2
+14
+try 0 1
+14
+try 0 -1
+14
+try 3 3
+13
+try 3 1
+13
+try 0 4
+13
+try 0 0
+13
+try 1 2
+14
+try 1 -2
+14
+try 2 1
+14
+try 2 -1
+14
+try -1 2
+14
+try -1 -2
+14
+try -2 1
+14
+try -2 -1
+14
+try -1 3
+13
+try -1 1
+13
+try 3 -1
+11
+try 4 2
+11
+try 4 0
+11
+try 1 3
+11
+try 1 -1
+11
+try 0 2
+11
+try 0 0
+11
+try 1 2
+12
+try 2 4
+13
+try 2 0
+13
+try 3 2
+14
+try 3 -2
+14
+try 4 1
+14
+try 4 -1
+14
+try 1 2
+14
+try 1 -2
+14
+try 0 1
+14
+try 0 -1
+14
+try 3 3
+13
+try 4 5
+14
+try 4 1
+14
+try 5 4
+14
+try 5 2
+14
+try 2 5
+14
+try 2 1
+14
+try 1 4
+14
+try 1 2
+14
+try 3 1
+13
+try 0 4
+13
+try 0 0
+13
+try -1 3
+13
+try -1 1
+13
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try -1 4
+10
+try -1 0
+10
+try -2 3
+10
+try -2 1
+10
+try 0 -2
+9
+try -1 1
+9
+try -1 -1
+9
+try 4 4
+7
+try 4 2
+7
+try 1 5
+7
+try 1 1
+7
+try 0 4
+7
+try 0 2
+7
+try 1 4
+8
+try 1 0
+8
+try 2 2
+9
+try 2 -2
+9
+try 3 1
+9
+try 4 3
+10
+try 4 -1
+10
+try 5 2
+10
+try 5 0
+10
+try 2 3
+10
+try 2 -1
+10
+try 1 2
+10
+try 2 4
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 1 -2
+12
+try 0 1
+12
+try 0 -1
+12
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 3 3
+13
+try 3 -1
+13
+try 4 2
+13
+try 4 0
+13
+try 1 3
+13
+try 1 -1
+13
+try 0 2
+13
+try 0 0
+13
+try 1 2
+14
+try 1 -2
+14
+try 2 1
+14
+try 2 -1
+14
+try -1 2
+14
+try -1 -2
+14
+try -2 1
+14
+try -2 -1
+14
+try 1 4
+12
+try 1 2
+12
+try 3 1
+11
+try 0 4
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 3 3
+13
+try 4 5
+14
+try 4 1
+14
+try 5 4
+14
+try 5 2
+14
+try 2 5
+14
+try 2 1
+14
+try 1 4
+14
+try 1 2
+14
+try 3 -1
+13
+try 4 2
+13
+try 4 0
+13
+try 1 3
+13
+try 1 -1
+13
+try 0 2
+13
+try 0 0
+13
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try -1 3
+11
+try -1 1
+11
+try 1 0
+10
+try 3 -1
+9
+try 0 2
+9
+try 0 -2
+9
+try -1 1
+9
+try -1 -1
+9
+try 2 3
+8
+try 2 1
+8
+try 3 3
+9
+try 4 5
+10
+try 4 1
+10
+try 5 4
+10
+try 5 2
+10
+try 2 5
+10
+try 2 1
+10
+try 1 4
+10
+try 1 2
+10
+try 2 4
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 1 -2
+12
+try 0 1
+12
+try 0 -1
+12
+try 3 3
+11
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 3 -1
+13
+try 0 2
+13
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 0 4
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try -1 3
+11
+try -1 1
+11
+try 3 -1
+9
+try 4 2
+9
+try 4 0
+9
+try 1 3
+9
+try 1 -1
+9
+try 0 2
+9
+try 0 0
+9
+try 1 2
+10
+try 2 4
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 1 -2
+12
+try 0 1
+12
+try 0 -1
+12
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 3 -1
+13
+try 0 2
+13
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 0 4
+11
+try 0 0
+11
+try -1 3
+11
+try -1 1
+11
+try 1 -2
+10
+try 2 1
+10
+try 2 -1
+10
+try -1 2
+10
+try -1 -2
+10
+try -2 1
+10
+try -2 -1
+10
+try -1 4
+8
+try -1 0
+8
+try -2 3
+8
+try -2 1
+8
+try 2 -1
+6
+try 3 2
+6
+try 3 0
+6
+try 4 2
+7
+try 4 -2
+7
+try 5 1
+7
+try 5 -1
+7
+try 2 2
+7
+try 2 -2
+7
+try 1 1
+7
+try 1 -1
+7
+try 0 3
+6
+try 0 -1
+6
+try -1 2
+6
+try -1 0
+6
+try 2 4
+5
+try 2 2
+5
+try -1 5
+5
+try -1 1
+5
+try -2 4
+5
+try -2 2
+5
+try 0 1
+4
+try 2 0
+3
+try 3 2
+4
+try 3 -2
+4
+try 4 1
+4
+try 4 -1
+4
+try 1 2
+4
+try 2 4
+5
+try 2 0
+5
+try 3 3
+5
+try 4 5
+6
+try 4 1
+6
+try 5 4
+6
+try 5 2
+6
+try 2 5
+6
+try 2 1
+6
+try 3 3
+7
+try 3 -1
+7
+try 4 2
+7
+try 4 0
+7
+try 1 3
+7
+try 1 -1
+7
+try 0 2
+7
+try 1 4
+8
+try 1 0
+8
+try 2 2
+9
+try 3 4
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 2 3
+12
+try 3 5
+13
+try 3 1
+13
+try 4 3
+14
+try 4 -1
+14
+try 5 2
+14
+try 5 0
+14
+try 2 3
+14
+try 2 -1
+14
+try 1 2
+14
+try 1 0
+14
+try 4 4
+13
+try 4 2
+13
+try 1 5
+13
+try 1 1
+13
+try 0 4
+13
+try 0 2
+13
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 1 -1
+11
+try 4 3
+10
+try 4 1
+10
+try 1 4
+10
+try 1 0
+10
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 3
+12
+try 3 5
+13
+try 3 1
+13
+try 4 3
+14
+try 4 -1
+14
+try 5 2
+14
+try 5 0
+14
+try 2 3
+14
+try 2 -1
+14
+try 1 2
+14
+try 1 0
+14
+try 4 4
+13
+try 4 2
+13
+try 1 5
+13
+try 1 1
+13
+try 0 4
+13
+try 0 2
+13
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 0 3
+12
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 1
+10
+try 2 -2
+9
+try 3 1
+9
+try 4 3
+10
+try 4 -1
+10
+try 5 2
+10
+try 5 0
+10
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 2 3
+12
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 3 4
+14
+try 3 0
+14
+try 4 3
+14
+try 4 1
+14
+try 1 4
+14
+try 1 0
+14
+try 0 3
+14
+try 1 5
+15
+try 1 1
+15
+try 2 4
+15
+try 2 2
+15
+try -1 5
+15
+try -1 1
+15
+try -2 4
+15
+try -2 2
+15
+try 0 1
+14
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try 3 4
+14
+try 3 0
+14
+try 4 2
+15
+try 4 -2
+15
+try 5 1
+15
+try 5 -1
+15
+try 2 2
+15
+try 2 -2
+15
+try 1 1
+15
+try 1 -1
+15
+try 4 3
+14
+try 4 1
+14
+try 1 4
+14
+try 1 0
+14
+try 0 3
+14
+try 0 1
+14
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 0 4
+11
+try 0 2
+11
+try 2 -1
+10
+try 1 2
+10
+try 1 0
+10
+try 3 -1
+9
+try 0 2
+9
+try 0 -2
+9
+try -1 1
+9
+try -1 -1
+9
+try 2 3
+8
+try 3 5
+9
+try 3 1
+9
+try 4 3
+10
+try 4 -1
+10
+try 5 2
+10
+try 5 0
+10
+try 2 3
+10
+try 2 -1
+10
+try 1 2
+10
+try 1 0
+10
+try 2 2
+11
+try 3 4
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 2 3
+14
+try 2 -1
+14
+try 3 2
+14
+try 3 0
+14
+try 0 3
+14
+try 1 5
+15
+try 1 1
+15
+try 2 4
+15
+try 2 2
+15
+try -1 5
+15
+try -1 1
+15
+try -2 4
+15
+try -2 2
+15
+try 0 -1
+14
+try -1 2
+14
+try -1 0
+14
+try 1 -1
+13
+try 4 3
+12
+try 4 1
+12
+try 1 4
+12
+try 1 0
+12
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 3
+14
+try 2 -1
+14
+try 3 2
+14
+try 3 0
+14
+try 4 2
+15
+try 4 -2
+15
+try 5 1
+15
+try 5 -1
+15
+try 2 2
+15
+try 2 -2
+15
+try 1 1
+15
+try 1 -1
+15
+try 0 3
+14
+try 0 -1
+14
+try -1 2
+14
+try -1 0
+14
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 1
+12
+try 2 -2
+11
+try 3 1
+11
+try 3 -1
+11
+try 0 2
+11
+try 0 -2
+11
+try -1 1
+11
+try -1 -1
+11
+try 4 4
+9
+try 4 2
+9
+try 1 5
+9
+try 1 1
+9
+try 2 3
+10
+try 2 -1
+10
+try 3 2
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 3 4
+12
+try 3 0
+12
+try 4 3
+12
+try 4 1
+12
+try 1 4
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 4 3
+14
+try 4 -1
+14
+try 5 2
+14
+try 5 0
+14
+try 2 3
+14
+try 2 -1
+14
+try 1 2
+14
+try 1 0
+14
+try 3 -1
+13
+try 0 2
+13
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 1
+12
+try 2 -2
+11
+try 1 1
+11
+try 1 -1
+11
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 4
+11
+try 2 2
+11
+try 3 4
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 4 3
+12
+try 4 1
+12
+try 1 4
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 4 3
+14
+try 4 -1
+14
+try 5 2
+14
+try 5 0
+14
+try 2 3
+14
+try 2 -1
+14
+try 1 2
+14
+try 1 0
+14
+try 3 -1
+13
+try 0 2
+13
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 0 3
+12
+try 0 1
+12
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 -1
+10
+try -1 2
+10
+try -1 0
+10
+try 0 4
+9
+try 0 2
+9
+try 2 1
+8
+try -1 4
+8
+try -1 0
+8
+try -2 3
+8
+try -2 1
+8
+try 0 0
+7
+try 1 2
+8
+try 1 -2
+8
+try 2 1
+8
+try 2 -1
+8
+try -1 2
+8
+try -1 -2
+8
+try -2 1
+8
+try -2 -1
+8
+try 1 4
+6
+try 1 2
+6
+try 3 1
+5
+try 4 3
+6
+try 4 -1
+6
+try 5 2
+6
+try 5 0
+6
+try 2 3
+6
+try 3 5
+7
+try 3 1
+7
+try 4 4
+7
+try 4 2
+7
+try 1 5
+7
+try 1 1
+7
+try 2 3
+8
+try 2 -1
+8
+try 3 2
+8
+try 3 0
+8
+try 4 2
+9
+try 4 -2
+9
+try 5 1
+9
+try 5 -1
+9
+try 2 2
+9
+try 3 4
+10
+try 3 0
+10
+try 4 3
+10
+try 4 1
+10
+try 1 4
+10
+try 1 0
+10
+try 2 2
+11
+try 2 -2
+11
+try 3 1
+11
+try 3 -1
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 3
+12
+try 2 1
+12
+try 3 3
+13
+try 4 5
+14
+try 4 1
+14
+try 5 4
+14
+try 5 2
+14
+try 2 5
+14
+try 2 1
+14
+try 1 4
+14
+try 1 2
+14
+try 3 -1
+13
+try 4 2
+13
+try 4 0
+13
+try 1 3
+13
+try 1 -1
+13
+try 0 2
+13
+try 0 0
+13
+try 1 2
+14
+try 1 -2
+14
+try 2 1
+14
+try 2 -1
+14
+try -1 2
+14
+try -1 -2
+14
+try -2 1
+14
+try -2 -1
+14
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 0 -2
+11
+try -1 1
+11
+try -1 -1
+11
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 1
+10
+try 2 -2
+9
+try 1 1
+9
+try 1 -1
+9
+try 0 3
+8
+try 1 5
+9
+try 1 1
+9
+try 2 4
+9
+try 2 2
+9
+try 3 4
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 1 -1
+11
+try 4 3
+10
+try 4 1
+10
+try 1 4
+10
+try 1 0
+10
+try 2 2
+11
+try 2 -2
+11
+try 3 1
+11
+try 3 -1
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 3
+12
+try 2 1
+12
+try 3 3
+13
+try 4 5
+14
+try 4 1
+14
+try 5 4
+14
+try 5 2
+14
+try 2 5
+14
+try 2 1
+14
+try 1 4
+14
+try 1 2
+14
+try 3 -1
+13
+try 4 2
+13
+try 4 0
+13
+try 1 3
+13
+try 1 -1
+13
+try 0 2
+13
+try 0 0
+13
+try 1 2
+14
+try 1 -2
+14
+try 2 1
+14
+try 2 -1
+14
+try -1 2
+14
+try -1 -2
+14
+try -2 1
+14
+try -2 -1
+14
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 0 -2
+11
+try -1 1
+11
+try -1 -1
+11
+try 0 3
+10
+try 0 1
+10
+try -1 5
+9
+try -1 1
+9
+try -2 4
+9
+try -2 2
+9
+try 0 -1
+8
+try -1 2
+8
+try -1 0
+8
+try 0 4
+7
+try 0 2
+7
+try 1 4
+8
+try 1 0
+8
+try 2 2
+9
+try 3 4
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 2 3
+12
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 1 -1
+11
+try 4 3
+10
+try 4 1
+10
+try 1 4
+10
+try 1 0
+10
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 3
+12
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 0 3
+12
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 1
+10
+try 2 -2
+9
+try 3 1
+9
+try 3 -1
+9
+try 0 2
+9
+try 0 -2
+9
+try -1 1
+9
+try -1 -1
+9
+try 2 3
+8
+try 2 1
+8
+try 3 3
+9
+try 4 5
+10
+try 4 1
+10
+try 5 4
+10
+try 5 2
+10
+try 2 5
+10
+try 2 1
+10
+try 1 4
+10
+try 1 2
+10
+try 3 -1
+9
+try 4 2
+9
+try 4 0
+9
+try 1 3
+9
+try 1 -1
+9
+try 0 2
+9
+try 0 0
+9
+try 1 2
+10
+try 1 -2
+10
+try 2 1
+10
+try 2 -1
+10
+try -1 2
+10
+try -1 -2
+10
+try -2 1
+10
+try -2 -1
+10
+try -1 4
+8
+try -1 0
+8
+try -2 3
+8
+try -2 1
+8
+try 2 -1
+6
+try 1 2
+6
+try 1 0
+6
+try 2 2
+7
+try 3 4
+8
+try 3 0
+8
+try 4 2
+9
+try 4 -2
+9
+try 5 1
+9
+try 5 -1
+9
+try 2 2
+9
+try 2 -2
+9
+try 1 1
+9
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 0 4
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 3
+12
+try 2 1
+12
+try 3 3
+13
+try 4 5
+14
+try 4 1
+14
+try 5 4
+14
+try 5 2
+14
+try 2 5
+14
+try 2 1
+14
+try 1 4
+14
+try 1 2
+14
+try 3 -1
+13
+try 4 2
+13
+try 4 0
+13
+try 1 3
+13
+try 1 -1
+13
+try 0 2
+13
+try 0 0
+13
+try 1 2
+14
+try 1 -2
+14
+try 2 1
+14
+try 2 -1
+14
+try -1 2
+14
+try -1 -2
+14
+try -2 1
+14
+try -2 -1
+14
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 2 -1
+10
+try 3 2
+10
+try 3 0
+10
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 -1
+10
+try -1 2
+10
+try -1 0
+10
+try 1 -1
+9
+try 4 3
+8
+try 4 1
+8
+try 1 4
+8
+try 1 0
+8
+try 0 3
+8
+try 1 5
+9
+try 1 1
+9
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 0 4
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 3
+12
+try 2 1
+12
+try 3 3
+13
+try 4 5
+14
+try 4 1
+14
+try 5 4
+14
+try 5 2
+14
+try 2 5
+14
+try 2 1
+14
+try 1 4
+14
+try 1 2
+14
+try 3 -1
+13
+try 4 2
+13
+try 4 0
+13
+try 1 3
+13
+try 1 -1
+13
+try 0 2
+13
+try 0 0
+13
+try 1 2
+14
+try 1 -2
+14
+try 2 1
+14
+try 2 -1
+14
+try -1 2
+14
+try -1 -2
+14
+try -2 1
+14
+try -2 -1
+14
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 2 -1
+10
+try 3 2
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 1 -1
+11
+try 0 3
+10
+try 0 -1
+10
+try -1 2
+10
+try -1 0
+10
+try 2 4
+9
+try 2 2
+9
+try -1 5
+9
+try -1 1
+9
+try -2 4
+9
+try -2 2
+9
+try 0 1
+8
+try 2 -2
+7
+try 3 1
+7
+try 3 -1
+7
+try 0 2
+7
+try 1 4
+8
+try 1 0
+8
+try 2 3
+8
+try 3 5
+9
+try 3 1
+9
+try 4 4
+9
+try 4 2
+9
+try 1 5
+9
+try 1 1
+9
+try 2 3
+10
+try 2 -1
+10
+try 3 2
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 3 4
+12
+try 3 0
+12
+try 4 3
+12
+try 4 1
+12
+try 1 4
+12
+try 1 0
+12
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 1
+12
+try 2 -2
+11
+try 1 1
+11
+try 1 -1
+11
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 4
+11
+try 2 2
+11
+try 3 4
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 4 3
+12
+try 4 1
+12
+try 1 4
+12
+try 1 0
+12
+try 0 3
+12
+try 0 1
+12
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 -1
+10
+try -1 2
+10
+try -1 0
+10
+try 0 4
+9
+try 0 2
+9
+try 2 1
+8
+try 3 3
+9
+try 4 5
+10
+try 4 1
+10
+try 5 4
+10
+try 5 2
+10
+try 2 5
+10
+try 2 1
+10
+try 1 4
+10
+try 1 2
+10
+try 3 -1
+9
+try 4 2
+9
+try 4 0
+9
+try 1 3
+9
+try 1 -1
+9
+try 0 2
+9
+try 0 0
+9
+try 1 2
+10
+try 1 -2
+10
+try 2 1
+10
+try 2 -1
+10
+try -1 2
+10
+try -1 -2
+10
+try -2 1
+10
+try -2 -1
+10
+try -1 4
+8
+try -1 0
+8
+try -2 3
+8
+try -2 1
+8
+try 0 -2
+7
+try -1 1
+7
+try -1 -1
+7
+try 0 4
+5
+try 0 0
+5
+try 1 2
+6
+try 1 -2
+6
+try 2 1
+6
+try 3 3
+7
+try 4 5
+8
+try 4 1
+8
+try 5 4
+8
+try 5 2
+8
+try 2 5
+8
+try 2 1
+8
+try 1 4
+8
+try 1 2
+8
+try 3 -1
+7
+try 4 2
+7
+try 4 0
+7
+try 1 3
+7
+try 1 -1
+7
+try 0 2
+7
+try 1 4
+8
+try 1 0
+8
+try 2 2
+9
+try 3 4
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 2 3
+12
+try 3 5
+13
+try 3 1
+13
+try 4 3
+14
+try 4 -1
+14
+try 5 2
+14
+try 5 0
+14
+try 2 3
+14
+try 2 -1
+14
+try 1 2
+14
+try 1 0
+14
+try 4 4
+13
+try 4 2
+13
+try 1 5
+13
+try 1 1
+13
+try 0 4
+13
+try 0 2
+13
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 1 -1
+11
+try 4 3
+10
+try 4 1
+10
+try 1 4
+10
+try 1 0
+10
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 3
+12
+try 3 5
+13
+try 3 1
+13
+try 4 3
+14
+try 4 -1
+14
+try 5 2
+14
+try 5 0
+14
+try 2 3
+14
+try 2 -1
+14
+try 1 2
+14
+try 1 0
+14
+try 4 4
+13
+try 4 2
+13
+try 1 5
+13
+try 1 1
+13
+try 0 4
+13
+try 0 2
+13
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 0 3
+12
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 1
+10
+try 2 -2
+9
+try 3 1
+9
+try 4 3
+10
+try 4 -1
+10
+try 5 2
+10
+try 5 0
+10
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 2 3
+12
+try 2 -1
+12
+try 3 2
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 3 4
+14
+try 3 0
+14
+try 4 3
+14
+try 4 1
+14
+try 1 4
+14
+try 1 0
+14
+try 0 3
+14
+try 1 5
+15
+try 1 1
+15
+try 2 4
+15
+try 2 2
+15
+try -1 5
+15
+try -1 1
+15
+try -2 4
+15
+try -2 2
+15
+try 0 1
+14
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try 3 4
+14
+try 3 0
+14
+try 4 2
+15
+try 4 -2
+15
+try 5 1
+15
+try 5 -1
+15
+try 2 2
+15
+try 2 -2
+15
+try 1 1
+15
+try 1 -1
+15
+try 4 3
+14
+try 4 1
+14
+try 1 4
+14
+try 1 0
+14
+try 0 3
+14
+try 0 1
+14
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 -1
+12
+try -1 2
+12
+try -1 0
+12
+try 0 4
+11
+try 0 2
+11
+try 2 -1
+10
+try 1 2
+10
+try 1 0
+10
+try 3 -1
+9
+try 0 2
+9
+try 0 -2
+9
+try -1 1
+9
+try -1 -1
+9
+try 2 3
+8
+try 3 5
+9
+try 3 1
+9
+try 4 3
+10
+try 4 -1
+10
+try 5 2
+10
+try 5 0
+10
+try 2 3
+10
+try 2 -1
+10
+try 1 2
+10
+try 1 0
+10
+try 2 2
+11
+try 3 4
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 2 3
+14
+try 2 -1
+14
+try 3 2
+14
+try 3 0
+14
+try 0 3
+14
+try 1 5
+15
+try 1 1
+15
+try 2 4
+15
+try 2 2
+15
+try -1 5
+15
+try -1 1
+15
+try -2 4
+15
+try -2 2
+15
+try 0 -1
+14
+try -1 2
+14
+try -1 0
+14
+try 1 -1
+13
+try 4 3
+12
+try 4 1
+12
+try 1 4
+12
+try 1 0
+12
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 3
+14
+try 2 -1
+14
+try 3 2
+14
+try 3 0
+14
+try 4 2
+15
+try 4 -2
+15
+try 5 1
+15
+try 5 -1
+15
+try 2 2
+15
+try 2 -2
+15
+try 1 1
+15
+try 1 -1
+15
+try 0 3
+14
+try 0 -1
+14
+try -1 2
+14
+try -1 0
+14
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 1
+12
+try 2 -2
+11
+try 3 1
+11
+try 3 -1
+11
+try 0 2
+11
+try 0 -2
+11
+try -1 1
+11
+try -1 -1
+11
+try 4 4
+9
+try 4 2
+9
+try 1 5
+9
+try 1 1
+9
+try 2 3
+10
+try 2 -1
+10
+try 3 2
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 3 4
+12
+try 3 0
+12
+try 4 3
+12
+try 4 1
+12
+try 1 4
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 4 3
+14
+try 4 -1
+14
+try 5 2
+14
+try 5 0
+14
+try 2 3
+14
+try 2 -1
+14
+try 1 2
+14
+try 1 0
+14
+try 3 -1
+13
+try 0 2
+13
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 1
+12
+try 2 -2
+11
+try 1 1
+11
+try 1 -1
+11
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 4
+11
+try 2 2
+11
+try 3 4
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 4 3
+12
+try 4 1
+12
+try 1 4
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 4 3
+14
+try 4 -1
+14
+try 5 2
+14
+try 5 0
+14
+try 2 3
+14
+try 2 -1
+14
+try 1 2
+14
+try 1 0
+14
+try 3 -1
+13
+try 0 2
+13
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 0 3
+12
+try 0 1
+12
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 -1
+10
+try -1 2
+10
+try -1 0
+10
+try 0 4
+9
+try 0 2
+9
+try 2 1
+8
+try -1 4
+8
+try -1 0
+8
+try -2 3
+8
+try -2 1
+8
+try 0 0
+7
+try 2 -1
+6
+try -1 2
+6
+try -1 -2
+6
+try -2 1
+6
+try -2 -1
+6
+try -1 3
+5
+try -1 1
+5
+try 1 -2
+4
+try 0 1
+4
+try 0 -1
+4
+try -1 3
+3
+try -1 -1
+3
+try -2 2
+3
+try -2 0
+3
+try -1 4
+2
+try -1 2
+2
+try 1 1
+1
+try 2 3
+2
+try 3 5
+3
+try 3 1
+3
+try 4 3
+4
+try 4 -1
+4
+try 5 2
+4
+try 5 0
+4
+try 2 3
+4
+try 2 -1
+4
+try 1 2
+4
+try 2 4
+5
+try 2 0
+5
+try 3 2
+6
+try 3 -2
+6
+try 4 1
+6
+try 4 -1
+6
+try 1 2
+6
+try 1 -2
+6
+try 0 1
+6
+try 1 3
+7
+try 2 5
+8
+try 2 1
+8
+try 3 3
+9
+try 4 5
+10
+try 4 1
+10
+try 5 4
+10
+try 5 2
+10
+try 2 5
+10
+try 2 1
+10
+try 1 4
+10
+try 1 2
+10
+try 3 -1
+9
+try 4 2
+9
+try 4 0
+9
+try 1 3
+9
+try 1 -1
+9
+try 0 2
+9
+try 1 4
+10
+try 1 0
+10
+try 2 2
+11
+try 3 4
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 4 3
+12
+try 4 1
+12
+try 1 4
+12
+try 1 0
+12
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 1
+12
+try 2 -2
+11
+try 3 1
+11
+try 3 -1
+11
+try 0 2
+11
+try 0 -2
+11
+try -1 1
+11
+try -1 -1
+11
+try 2 3
+10
+try 2 1
+10
+try -1 4
+10
+try -1 0
+10
+try -2 3
+10
+try -2 1
+10
+try 0 0
+9
+try 1 2
+10
+try 1 -2
+10
+try 2 1
+10
+try 2 -1
+10
+try -1 2
+10
+try -1 -2
+10
+try -2 1
+10
+try -2 -1
+10
+try 3 4
+8
+try 3 2
+8
+try 0 5
+8
+try 0 1
+8
+try -1 4
+8
+try -1 2
+8
+try 1 -1
+7
+try 2 2
+7
+try 3 4
+8
+try 3 0
+8
+try 4 2
+9
+try 4 -2
+9
+try 5 1
+9
+try 5 -1
+9
+try 2 2
+9
+try 2 -2
+9
+try 1 1
+9
+try 1 -1
+9
+try 4 3
+8
+try 4 1
+8
+try 1 4
+8
+try 1 0
+8
+try 2 2
+9
+try 2 -2
+9
+try 3 1
+9
+try 3 -1
+9
+try 0 2
+9
+try 1 4
+10
+try 1 0
+10
+try 2 3
+10
+try 2 1
+10
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 -1
+11
+try 4 2
+11
+try 4 0
+11
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 0 2
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try -1 4
+10
+try -1 0
+10
+try -2 3
+10
+try -2 1
+10
+try 0 -2
+9
+try -1 1
+9
+try -1 -1
+9
+try 0 3
+8
+try 1 5
+9
+try 1 1
+9
+try 2 4
+9
+try 2 2
+9
+try -1 5
+9
+try -1 1
+9
+try -2 4
+9
+try -2 2
+9
+try 0 1
+8
+try 2 0
+7
+try -1 3
+7
+try -1 -1
+7
+try -2 2
+7
+try -2 0
+7
+try 0 -1
+6
+try 3 3
+5
+try 4 5
+6
+try 4 1
+6
+try 5 4
+6
+try 5 2
+6
+try 2 5
+6
+try 2 1
+6
+try 3 3
+7
+try 3 -1
+7
+try 4 2
+7
+try 4 0
+7
+try 1 3
+7
+try 2 5
+8
+try 2 1
+8
+try 3 4
+8
+try 3 2
+8
+try 0 5
+8
+try 0 1
+8
+try 1 3
+9
+try 1 -1
+9
+try 2 2
+9
+try 3 4
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 1 -1
+11
+try 4 3
+10
+try 4 1
+10
+try 1 4
+10
+try 1 0
+10
+try 2 2
+11
+try 2 -2
+11
+try 3 1
+11
+try 3 -1
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 3
+12
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 0 -2
+11
+try -1 1
+11
+try -1 -1
+11
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 1
+10
+try 2 0
+9
+try 3 2
+10
+try 3 -2
+10
+try 4 1
+10
+try 4 -1
+10
+try 1 2
+10
+try 1 -2
+10
+try 0 1
+10
+try 0 -1
+10
+try -1 3
+9
+try -1 -1
+9
+try -2 2
+9
+try -2 0
+9
+try -1 4
+8
+try -1 2
+8
+try 1 -1
+7
+try 0 2
+7
+try 1 4
+8
+try 1 0
+8
+try 2 2
+9
+try 3 4
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 1 -1
+11
+try 4 3
+10
+try 4 1
+10
+try 1 4
+10
+try 1 0
+10
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 1
+10
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 2 2
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 1 -2
+12
+try 0 1
+12
+try 0 -1
+12
+try -1 3
+11
+try -1 -1
+11
+try -2 2
+11
+try -2 0
+11
+try 2 -2
+9
+try 3 1
+9
+try 3 -1
+9
+try 0 2
+9
+try 0 -2
+9
+try -1 1
+9
+try -1 -1
+9
+try 2 3
+8
+try 2 1
+8
+try -1 4
+8
+try -1 0
+8
+try -2 3
+8
+try -2 1
+8
+try 0 0
+7
+try 1 2
+8
+try 1 -2
+8
+try 2 1
+8
+try 2 -1
+8
+try -1 2
+8
+try -1 -2
+8
+try -2 1
+8
+try -2 -1
+8
+try 1 4
+6
+try 1 2
+6
+try 3 1
+5
+try 0 4
+5
+try 0 0
+5
+try 1 2
+6
+try 1 -2
+6
+try 2 1
+6
+try 3 3
+7
+try 4 5
+8
+try 4 1
+8
+try 5 4
+8
+try 5 2
+8
+try 2 5
+8
+try 2 1
+8
+try 1 4
+8
+try 1 2
+8
+try 3 -1
+7
+try 4 2
+7
+try 4 0
+7
+try 1 3
+7
+try 2 5
+8
+try 2 1
+8
+try 3 4
+8
+try 3 2
+8
+try 0 5
+8
+try 0 1
+8
+try 1 3
+9
+try 1 -1
+9
+try 2 2
+9
+try 3 4
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 1 -1
+11
+try 4 3
+10
+try 4 1
+10
+try 1 4
+10
+try 1 0
+10
+try 2 2
+11
+try 2 -2
+11
+try 3 1
+11
+try 3 -1
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 3
+12
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 0 -2
+11
+try -1 1
+11
+try -1 -1
+11
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 1
+10
+try 2 0
+9
+try 3 2
+10
+try 3 -2
+10
+try 4 1
+10
+try 4 -1
+10
+try 1 2
+10
+try 1 -2
+10
+try 0 1
+10
+try 0 -1
+10
+try -1 3
+9
+try -1 -1
+9
+try -2 2
+9
+try -2 0
+9
+try -1 4
+8
+try -1 2
+8
+try 1 -1
+7
+try 0 2
+7
+try 1 4
+8
+try 1 0
+8
+try 2 2
+9
+try 3 4
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 1 -1
+11
+try 4 3
+10
+try 4 1
+10
+try 1 4
+10
+try 1 0
+10
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 1
+10
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 2 2
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 1 -2
+12
+try 0 1
+12
+try 0 -1
+12
+try -1 3
+11
+try -1 -1
+11
+try -2 2
+11
+try -2 0
+11
+try 2 -2
+9
+try 3 1
+9
+try 3 -1
+9
+try 0 2
+9
+try 0 -2
+9
+try -1 1
+9
+try -1 -1
+9
+try 2 3
+8
+try 2 1
+8
+try -1 4
+8
+try -1 0
+8
+try -2 3
+8
+try -2 1
+8
+try 0 0
+7
+try 2 -1
+6
+try -1 2
+6
+try -1 -2
+6
+try -2 1
+6
+try -2 -1
+6
+try -1 3
+5
+try -1 1
+5
+try 1 0
+4
+try 2 2
+5
+try 3 4
+6
+try 3 0
+6
+try 4 2
+7
+try 4 -2
+7
+try 5 1
+7
+try 5 -1
+7
+try 2 2
+7
+try 2 -2
+7
+try 1 1
+7
+try 1 -1
+7
+try 4 3
+6
+try 4 1
+6
+try 1 4
+6
+try 1 0
+6
+try 0 3
+6
+try 1 5
+7
+try 1 1
+7
+try 2 4
+7
+try 2 2
+7
+try -1 5
+7
+try -1 1
+7
+try -2 4
+7
+try -2 2
+7
+try 0 1
+6
+try 1 3
+7
+try 2 5
+8
+try 2 1
+8
+try 3 3
+9
+try 4 5
+10
+try 4 1
+10
+try 5 4
+10
+try 5 2
+10
+try 2 5
+10
+try 2 1
+10
+try 1 4
+10
+try 1 2
+10
+try 2 4
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 1 -2
+12
+try 0 1
+12
+try 0 -1
+12
+try 3 3
+11
+try 3 1
+11
+try 0 4
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try -1 3
+11
+try -1 1
+11
+try 3 -1
+9
+try 4 2
+9
+try 4 0
+9
+try 1 3
+9
+try 1 -1
+9
+try 0 2
+9
+try 1 4
+10
+try 1 0
+10
+try 2 3
+10
+try 2 1
+10
+try -1 4
+10
+try -1 0
+10
+try -2 3
+10
+try -2 1
+10
+try 0 0
+9
+try 1 2
+10
+try 2 4
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 1 -2
+12
+try 0 1
+12
+try 0 -1
+12
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 1
+11
+try 0 4
+11
+try 0 0
+11
+try -1 3
+11
+try -1 1
+11
+try 1 -2
+10
+try 2 1
+10
+try 2 -1
+10
+try -1 2
+10
+try -1 -2
+10
+try -2 1
+10
+try -2 -1
+10
+try 3 4
+8
+try 3 2
+8
+try 0 5
+8
+try 0 1
+8
+try -1 4
+8
+try -1 2
+8
+try 1 -1
+7
+try 2 2
+7
+try 2 0
+7
+try 3 2
+8
+try 3 -2
+8
+try 4 1
+8
+try 4 -1
+8
+try 1 2
+8
+try 2 4
+9
+try 2 0
+9
+try 3 3
+9
+try 4 5
+10
+try 4 1
+10
+try 5 4
+10
+try 5 2
+10
+try 2 5
+10
+try 2 1
+10
+try 3 3
+11
+try 3 -1
+11
+try 4 2
+11
+try 4 0
+11
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 3
+12
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try 1 4
+10
+try 1 2
+10
+try 3 1
+9
+try 0 4
+9
+try 0 0
+9
+try 1 2
+10
+try 1 -2
+10
+try 2 1
+10
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 -1
+11
+try 4 2
+11
+try 4 0
+11
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 3
+12
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 0 0
+11
+try 2 -1
+10
+try -1 2
+10
+try -1 -2
+10
+try -2 1
+10
+try -2 -1
+10
+try -1 3
+9
+try -1 1
+9
+try 1 -2
+8
+try 0 1
+8
+try 0 -1
+8
+try -1 3
+7
+try -1 -1
+7
+try -2 2
+7
+try -2 0
+7
+try 2 -2
+5
+try 3 1
+5
+try 3 -1
+5
+try 0 2
+5
+try 1 4
+6
+try 1 0
+6
+try 2 3
+6
+try 2 1
+6
+try 3 3
+7
+try 4 5
+8
+try 4 1
+8
+try 5 4
+8
+try 5 2
+8
+try 2 5
+8
+try 2 1
+8
+try 1 4
+8
+try 1 2
+8
+try 2 4
+9
+try 2 0
+9
+try 3 2
+10
+try 3 -2
+10
+try 4 1
+10
+try 4 -1
+10
+try 1 2
+10
+try 1 -2
+10
+try 0 1
+10
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 2 2
+11
+try 3 4
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 4 3
+12
+try 4 1
+12
+try 1 4
+12
+try 1 0
+12
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 1
+12
+try 2 0
+11
+try -1 3
+11
+try -1 -1
+11
+try -2 2
+11
+try -2 0
+11
+try 0 -1
+10
+try 3 3
+9
+try 3 1
+9
+try 0 4
+9
+try 0 0
+9
+try 1 2
+10
+try 1 -2
+10
+try 2 1
+10
+try 2 -1
+10
+try -1 2
+10
+try -1 -2
+10
+try -2 1
+10
+try -2 -1
+10
+try -1 3
+9
+try -1 1
+9
+try 3 -1
+7
+try 4 2
+7
+try 4 0
+7
+try 1 3
+7
+try 2 5
+8
+try 2 1
+8
+try 3 4
+8
+try 3 2
+8
+try 0 5
+8
+try 0 1
+8
+try 1 3
+9
+try 1 -1
+9
+try 2 2
+9
+try 3 4
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 1 -1
+11
+try 4 3
+10
+try 4 1
+10
+try 1 4
+10
+try 1 0
+10
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 1
+10
+try 2 0
+9
+try 3 2
+10
+try 3 -2
+10
+try 4 1
+10
+try 4 -1
+10
+try 1 2
+10
+try 2 4
+11
+try 2 0
+11
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 1
+11
+try 0 4
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try -1 3
+11
+try -1 1
+11
+try 1 -2
+10
+try 0 1
+10
+try 0 -1
+10
+try -1 3
+9
+try -1 -1
+9
+try -2 2
+9
+try -2 0
+9
+try -1 4
+8
+try -1 2
+8
+try 1 -1
+7
+try 0 2
+7
+try 0 0
+7
+try 1 2
+8
+try 2 4
+9
+try 2 0
+9
+try 3 2
+10
+try 3 -2
+10
+try 4 1
+10
+try 4 -1
+10
+try 1 2
+10
+try 1 -2
+10
+try 0 1
+10
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 2 2
+11
+try 3 4
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 4 3
+12
+try 4 1
+12
+try 1 4
+12
+try 1 0
+12
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 1
+12
+try 2 0
+11
+try -1 3
+11
+try -1 -1
+11
+try -2 2
+11
+try -2 0
+11
+try 0 -1
+10
+try 3 3
+9
+try 4 5
+10
+try 4 1
+10
+try 5 4
+10
+try 5 2
+10
+try 2 5
+10
+try 2 1
+10
+try 1 4
+10
+try 1 2
+10
+try 3 1
+9
+try 0 4
+9
+try 0 0
+9
+try -1 3
+9
+try -1 1
+9
+try 1 -2
+8
+try 2 1
+8
+try 2 -1
+8
+try -1 2
+8
+try -1 -2
+8
+try -2 1
+8
+try -2 -1
+8
+try -1 4
+6
+try -1 0
+6
+try -2 3
+6
+try -2 1
+6
+try 0 -2
+5
+try -1 1
+5
+try -1 -1
+5
+try 4 4
+3
+try 4 2
+3
+try 1 5
+3
+try 1 1
+3
+try 0 4
+3
+try 0 2
+3
+try 1 4
+4
+try 1 0
+4
+try 2 2
+5
+try 3 4
+6
+try 3 0
+6
+try 4 2
+7
+try 4 -2
+7
+try 5 1
+7
+try 5 -1
+7
+try 2 2
+7
+try 2 -2
+7
+try 1 1
+7
+try 1 -1
+7
+try 4 3
+6
+try 4 1
+6
+try 1 4
+6
+try 1 0
+6
+try 0 3
+6
+try 1 5
+7
+try 1 1
+7
+try 2 4
+7
+try 2 2
+7
+try -1 5
+7
+try -1 1
+7
+try -2 4
+7
+try -2 2
+7
+try 0 1
+6
+try 1 3
+7
+try 2 5
+8
+try 2 1
+8
+try 3 3
+9
+try 4 5
+10
+try 4 1
+10
+try 5 4
+10
+try 5 2
+10
+try 2 5
+10
+try 2 1
+10
+try 1 4
+10
+try 1 2
+10
+try 2 4
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 1 -2
+12
+try 0 1
+12
+try 0 -1
+12
+try 3 3
+11
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 0 4
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try -1 3
+11
+try -1 1
+11
+try 3 -1
+9
+try 4 2
+9
+try 4 0
+9
+try 1 3
+9
+try 1 -1
+9
+try 0 2
+9
+try 0 0
+9
+try 1 2
+10
+try 2 4
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 1 -2
+12
+try 0 1
+12
+try 0 -1
+12
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 0 4
+11
+try 0 0
+11
+try -1 3
+11
+try -1 1
+11
+try 1 -2
+10
+try 2 1
+10
+try 2 -1
+10
+try -1 2
+10
+try -1 -2
+10
+try -2 1
+10
+try -2 -1
+10
+try 3 4
+8
+try 3 2
+8
+try 0 5
+8
+try 0 1
+8
+try -1 4
+8
+try -1 2
+8
+try 1 -1
+7
+try 2 2
+7
+try 2 0
+7
+try 3 2
+8
+try 3 -2
+8
+try 4 1
+8
+try 4 -1
+8
+try 1 2
+8
+try 2 4
+9
+try 2 0
+9
+try 3 3
+9
+try 4 5
+10
+try 4 1
+10
+try 5 4
+10
+try 5 2
+10
+try 2 5
+10
+try 2 1
+10
+try 3 3
+11
+try 3 -1
+11
+try 4 2
+11
+try 4 0
+11
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 0 2
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try 1 4
+10
+try 1 2
+10
+try 3 1
+9
+try 4 3
+10
+try 4 -1
+10
+try 5 2
+10
+try 5 0
+10
+try 2 3
+10
+try 2 -1
+10
+try 1 2
+10
+try 1 0
+10
+try 0 4
+9
+try 0 0
+9
+try 1 2
+10
+try 1 -2
+10
+try 2 1
+10
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 -1
+11
+try 4 2
+11
+try 4 0
+11
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 0 2
+11
+try 0 0
+11
+try 2 -1
+10
+try -1 2
+10
+try -1 -2
+10
+try -2 1
+10
+try -2 -1
+10
+try -1 3
+9
+try -1 1
+9
+try 1 -2
+8
+try 0 1
+8
+try 0 -1
+8
+try -1 3
+7
+try -1 -1
+7
+try -2 2
+7
+try -2 0
+7
+try 2 -2
+5
+try 3 1
+5
+try 4 3
+6
+try 4 -1
+6
+try 5 2
+6
+try 5 0
+6
+try 2 3
+6
+try 2 -1
+6
+try 1 2
+6
+try 2 4
+7
+try 2 0
+7
+try 3 2
+8
+try 3 -2
+8
+try 4 1
+8
+try 4 -1
+8
+try 1 2
+8
+try 1 -2
+8
+try 0 1
+8
+try 1 3
+9
+try 2 5
+10
+try 2 1
+10
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 -1
+11
+try 4 2
+11
+try 4 0
+11
+try 1 3
+11
+try 1 -1
+11
+try 0 2
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try 3 4
+10
+try 3 2
+10
+try 0 5
+10
+try 0 1
+10
+try -1 4
+10
+try -1 2
+10
+try 1 -1
+9
+try 2 2
+9
+try 3 4
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 1 -1
+11
+try 4 3
+10
+try 4 1
+10
+try 1 4
+10
+try 1 0
+10
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 1
+10
+try 2 0
+9
+try -1 3
+9
+try -1 -1
+9
+try -2 2
+9
+try -2 0
+9
+try 0 -1
+8
+try 3 3
+7
+try 4 5
+8
+try 4 1
+8
+try 5 4
+8
+try 5 2
+8
+try 2 5
+8
+try 2 1
+8
+try 3 3
+9
+try 3 -1
+9
+try 4 2
+9
+try 4 0
+9
+try 1 3
+9
+try 2 5
+10
+try 2 1
+10
+try 3 4
+10
+try 3 2
+10
+try 0 5
+10
+try 0 1
+10
+try 1 3
+11
+try 1 -1
+11
+try 2 2
+11
+try 3 4
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 4 3
+12
+try 4 1
+12
+try 1 4
+12
+try 1 0
+12
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 1
+12
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 1 -2
+12
+try 0 1
+12
+try 0 -1
+12
+try -1 3
+11
+try -1 -1
+11
+try -2 2
+11
+try -2 0
+11
+try -1 4
+10
+try -1 2
+10
+try 1 -1
+9
+try 0 2
+9
+try 0 0
+9
+try 1 2
+10
+try 1 -2
+10
+try 2 1
+10
+try 2 -1
+10
+try -1 2
+10
+try -1 -2
+10
+try -2 1
+10
+try -2 -1
+10
+try 1 4
+8
+try 1 2
+8
+try 3 1
+7
+try 0 4
+7
+try 0 0
+7
+try 1 2
+8
+try 1 -2
+8
+try 2 1
+8
+try 3 3
+9
+try 4 5
+10
+try 4 1
+10
+try 5 4
+10
+try 5 2
+10
+try 2 5
+10
+try 2 1
+10
+try 1 4
+10
+try 1 2
+10
+try 3 -1
+9
+try 4 2
+9
+try 4 0
+9
+try 1 3
+9
+try 2 5
+10
+try 2 1
+10
+try 3 4
+10
+try 3 2
+10
+try 0 5
+10
+try 0 1
+10
+try 1 3
+11
+try 1 -1
+11
+try 2 2
+11
+try 3 4
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 4 3
+12
+try 4 1
+12
+try 1 4
+12
+try 1 0
+12
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 1
+12
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 1 -2
+12
+try 0 1
+12
+try 0 -1
+12
+try -1 3
+11
+try -1 -1
+11
+try -2 2
+11
+try -2 0
+11
+try -1 4
+10
+try -1 2
+10
+try 1 -1
+9
+try 0 2
+9
+try 0 0
+9
+try 2 -1
+8
+try -1 2
+8
+try -1 -2
+8
+try -2 1
+8
+try -2 -1
+8
+try -1 3
+7
+try -1 1
+7
+try 1 0
+6
+try 3 -1
+5
+try 0 2
+5
+try 0 -2
+5
+try -1 1
+5
+try -1 -1
+5
+try 2 3
+4
+try 2 1
+4
+try 3 3
+5
+try 4 5
+6
+try 4 1
+6
+try 5 4
+6
+try 5 2
+6
+try 2 5
+6
+try 2 1
+6
+try 1 4
+6
+try 1 2
+6
+try 2 4
+7
+try 2 0
+7
+try 3 2
+8
+try 3 -2
+8
+try 4 1
+8
+try 4 -1
+8
+try 1 2
+8
+try 1 -2
+8
+try 0 1
+8
+try 1 3
+9
+try 2 5
+10
+try 2 1
+10
+try 3 4
+10
+try 3 2
+10
+try 0 5
+10
+try 0 1
+10
+try -1 4
+10
+try -1 2
+10
+try 1 -1
+9
+try 2 2
+9
+try 3 4
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 1 -1
+11
+try 4 3
+10
+try 4 1
+10
+try 1 4
+10
+try 1 0
+10
+try 2 2
+11
+try 2 -2
+11
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 3 -1
+11
+try 0 2
+11
+try 0 -2
+11
+try -1 1
+11
+try -1 -1
+11
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 1
+10
+try 2 0
+9
+try -1 3
+9
+try -1 -1
+9
+try -2 2
+9
+try -2 0
+9
+try 0 -1
+8
+try 3 3
+7
+try 3 1
+7
+try 4 3
+8
+try 4 -1
+8
+try 5 2
+8
+try 5 0
+8
+try 2 3
+8
+try 2 -1
+8
+try 1 2
+8
+try 1 0
+8
+try 2 2
+9
+try 3 4
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 1 -1
+11
+try 4 3
+10
+try 4 1
+10
+try 1 4
+10
+try 1 0
+10
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 1
+10
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 2 2
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 1 -2
+12
+try 0 1
+12
+try 0 -1
+12
+try -1 3
+11
+try -1 -1
+11
+try -2 2
+11
+try -2 0
+11
+try 2 -2
+9
+try 3 1
+9
+try 3 -1
+9
+try 0 2
+9
+try 0 -2
+9
+try -1 1
+9
+try -1 -1
+9
+try 0 4
+7
+try 0 0
+7
+try 1 2
+8
+try 1 -2
+8
+try 2 1
+8
+try 2 -1
+8
+try -1 2
+8
+try -1 -2
+8
+try -2 1
+8
+try -2 -1
+8
+try -1 3
+7
+try -1 1
+7
+try 3 -1
+5
+try 4 2
+5
+try 4 0
+5
+try 1 3
+5
+try 2 5
+6
+try 2 1
+6
+try 3 4
+6
+try 3 2
+6
+try 0 5
+6
+try 0 1
+6
+try 1 3
+7
+try 1 -1
+7
+try 2 2
+7
+try 3 4
+8
+try 3 0
+8
+try 4 2
+9
+try 4 -2
+9
+try 5 1
+9
+try 5 -1
+9
+try 2 2
+9
+try 2 -2
+9
+try 1 1
+9
+try 1 -1
+9
+try 4 3
+8
+try 4 1
+8
+try 1 4
+8
+try 1 0
+8
+try 2 2
+9
+try 2 -2
+9
+try 3 1
+9
+try 4 3
+10
+try 4 -1
+10
+try 5 2
+10
+try 5 0
+10
+try 2 3
+10
+try 2 -1
+10
+try 1 2
+10
+try 2 4
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 1 -2
+12
+try 0 1
+12
+try 0 -1
+12
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 1
+11
+try 0 4
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try -1 3
+11
+try -1 1
+11
+try 1 0
+10
+try 3 -1
+9
+try 0 2
+9
+try 0 -2
+9
+try -1 1
+9
+try -1 -1
+9
+try 0 3
+8
+try 1 5
+9
+try 1 1
+9
+try 2 4
+9
+try 2 2
+9
+try -1 5
+9
+try -1 1
+9
+try -2 4
+9
+try -2 2
+9
+try 0 1
+8
+try 2 0
+7
+try 3 2
+8
+try 3 -2
+8
+try 4 1
+8
+try 4 -1
+8
+try 1 2
+8
+try 2 4
+9
+try 2 0
+9
+try 3 3
+9
+try 4 5
+10
+try 4 1
+10
+try 5 4
+10
+try 5 2
+10
+try 2 5
+10
+try 2 1
+10
+try 1 4
+10
+try 1 2
+10
+try 3 1
+9
+try 4 3
+10
+try 4 -1
+10
+try 5 2
+10
+try 5 0
+10
+try 2 3
+10
+try 2 -1
+10
+try 1 2
+10
+try 1 0
+10
+try 2 2
+11
+try 3 4
+12
+try 3 0
+12
+try 4 2
+13
+try 4 -2
+13
+try 5 1
+13
+try 5 -1
+13
+try 2 2
+13
+try 2 -2
+13
+try 1 1
+13
+try 1 -1
+13
+try 4 3
+12
+try 4 1
+12
+try 1 4
+12
+try 1 0
+12
+try 0 3
+12
+try 1 5
+13
+try 1 1
+13
+try 2 4
+13
+try 2 2
+13
+try -1 5
+13
+try -1 1
+13
+try -2 4
+13
+try -2 2
+13
+try 0 1
+12
+try 2 -2
+11
+try 3 1
+11
+try 3 -1
+11
+try 0 2
+11
+try 0 -2
+11
+try -1 1
+11
+try -1 -1
+11
+try 0 4
+9
+try 0 0
+9
+try 1 2
+10
+try 1 -2
+10
+try 2 1
+10
+try 2 -1
+10
+try -1 2
+10
+try -1 -2
+10
+try -2 1
+10
+try -2 -1
+10
+try -1 3
+9
+try -1 1
+9
+try 1 -2
+8
+try 0 1
+8
+try 0 -1
+8
+try -1 3
+7
+try -1 -1
+7
+try -2 2
+7
+try -2 0
+7
+try -1 4
+6
+try -1 2
+6
+try 1 -1
+5
+try 0 2
+5
+try 0 0
+5
+try 1 2
+6
+try 2 4
+7
+try 2 0
+7
+try 3 2
+8
+try 3 -2
+8
+try 4 1
+8
+try 4 -1
+8
+try 1 2
+8
+try 1 -2
+8
+try 0 1
+8
+try 1 3
+9
+try 2 5
+10
+try 2 1
+10
+try 3 4
+10
+try 3 2
+10
+try 0 5
+10
+try 0 1
+10
+try -1 4
+10
+try -1 2
+10
+try 1 -1
+9
+try 2 2
+9
+try 3 4
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 1 -1
+11
+try 4 3
+10
+try 4 1
+10
+try 1 4
+10
+try 1 0
+10
+try 2 2
+11
+try 2 -2
+11
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 3 -1
+11
+try 0 2
+11
+try 0 -2
+11
+try -1 1
+11
+try -1 -1
+11
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 1
+10
+try 2 0
+9
+try -1 3
+9
+try -1 -1
+9
+try -2 2
+9
+try -2 0
+9
+try 0 -1
+8
+try 3 3
+7
+try 4 5
+8
+try 4 1
+8
+try 5 4
+8
+try 5 2
+8
+try 2 5
+8
+try 2 1
+8
+try 1 4
+8
+try 1 2
+8
+try 3 1
+7
+try 4 3
+8
+try 4 -1
+8
+try 5 2
+8
+try 5 0
+8
+try 2 3
+8
+try 2 -1
+8
+try 1 2
+8
+try 1 0
+8
+try 2 2
+9
+try 3 4
+10
+try 3 0
+10
+try 4 2
+11
+try 4 -2
+11
+try 5 1
+11
+try 5 -1
+11
+try 2 2
+11
+try 2 -2
+11
+try 1 1
+11
+try 1 -1
+11
+try 4 3
+10
+try 4 1
+10
+try 1 4
+10
+try 1 0
+10
+try 0 3
+10
+try 1 5
+11
+try 1 1
+11
+try 2 4
+11
+try 2 2
+11
+try -1 5
+11
+try -1 1
+11
+try -2 4
+11
+try -2 2
+11
+try 0 1
+10
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 2 2
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 1 -2
+12
+try 0 1
+12
+try 0 -1
+12
+try -1 3
+11
+try -1 -1
+11
+try -2 2
+11
+try -2 0
+11
+try 2 -2
+9
+try 3 1
+9
+try 3 -1
+9
+try 0 2
+9
+try 0 -2
+9
+try -1 1
+9
+try -1 -1
+9
+try 0 4
+7
+try 0 0
+7
+try -1 3
+7
+try -1 1
+7
+try 1 -2
+6
+try 2 1
+6
+try 2 -1
+6
+try -1 2
+6
+try -1 -2
+6
+try -2 1
+6
+try -2 -1
+6
+try -1 4
+4
+try -1 0
+4
+try -2 3
+4
+try -2 1
+4
+try 2 -1
+2
+try 3 2
+2
+try 3 0
+2
+try 4 2
+3
+try 4 -2
+3
+try 5 1
+3
+try 5 -1
+3
+try 2 2
+3
+try 3 4
+4
+try 3 0
+4
+try 4 3
+4
+try 4 1
+4
+try 1 4
+4
+try 1 0
+4
+try 2 2
+5
+try 2 -2
+5
+try 3 1
+5
+try 4 3
+6
+try 4 -1
+6
+try 5 2
+6
+try 5 0
+6
+try 2 3
+6
+try 3 5
+7
+try 3 1
+7
+try 4 4
+7
+try 4 2
+7
+try 1 5
+7
+try 1 1
+7
+try 0 4
+7
+try 0 2
+7
+try 1 4
+8
+try 1 0
+8
+try 2 3
+8
+try 2 1
+8
+try 3 3
+9
+try 4 5
+10
+try 4 1
+10
+try 5 4
+10
+try 5 2
+10
+try 2 5
+10
+try 2 1
+10
+try 1 4
+10
+try 1 2
+10
+try 2 4
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 1 -2
+12
+try 0 1
+12
+try 1 3
+13
+try 2 5
+14
+try 2 1
+14
+try 3 4
+14
+try 3 2
+14
+try 0 5
+14
+try 0 1
+14
+try -1 4
+14
+try -1 2
+14
+try 1 -1
+13
+try 2 2
+13
+try 2 0
+13
+try -1 3
+13
+try -1 -1
+13
+try -2 2
+13
+try -2 0
+13
+try 0 -1
+12
+try 3 3
+11
+try 3 1
+11
+try 0 4
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try -1 3
+11
+try -1 1
+11
+try 3 -1
+9
+try 4 2
+9
+try 4 0
+9
+try 1 3
+9
+try 2 5
+10
+try 2 1
+10
+try 3 4
+10
+try 3 2
+10
+try 0 5
+10
+try 0 1
+10
+try 1 3
+11
+try 1 -1
+11
+try 2 2
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 2 4
+13
+try 2 0
+13
+try 3 3
+13
+try 4 5
+14
+try 4 1
+14
+try 5 4
+14
+try 5 2
+14
+try 2 5
+14
+try 2 1
+14
+try 1 4
+14
+try 1 2
+14
+try 3 1
+13
+try 0 4
+13
+try 0 0
+13
+try 1 2
+14
+try 1 -2
+14
+try 2 1
+14
+try 2 -1
+14
+try -1 2
+14
+try -1 -2
+14
+try -2 1
+14
+try -2 -1
+14
+try -1 3
+13
+try -1 1
+13
+try 1 -2
+12
+try 0 1
+12
+try 0 -1
+12
+try -1 3
+11
+try -1 -1
+11
+try -2 2
+11
+try -2 0
+11
+try -1 4
+10
+try -1 2
+10
+try 1 -1
+9
+try 0 2
+9
+try 0 0
+9
+try 1 2
+10
+try 2 4
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 1 -2
+12
+try 0 1
+12
+try 1 3
+13
+try 2 5
+14
+try 2 1
+14
+try 3 4
+14
+try 3 2
+14
+try 0 5
+14
+try 0 1
+14
+try -1 4
+14
+try -1 2
+14
+try 1 -1
+13
+try 2 2
+13
+try 2 0
+13
+try -1 3
+13
+try -1 -1
+13
+try -2 2
+13
+try -2 0
+13
+try 0 -1
+12
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 1
+11
+try 0 4
+11
+try 0 0
+11
+try -1 3
+11
+try -1 1
+11
+try 1 -2
+10
+try 2 1
+10
+try 2 -1
+10
+try -1 2
+10
+try -1 -2
+10
+try -2 1
+10
+try -2 -1
+10
+try -1 4
+8
+try -1 0
+8
+try -2 3
+8
+try -2 1
+8
+try 2 -1
+6
+try 1 2
+6
+try 2 4
+7
+try 2 0
+7
+try 3 2
+8
+try 3 -2
+8
+try 4 1
+8
+try 4 -1
+8
+try 1 2
+8
+try 1 -2
+8
+try 0 1
+8
+try 1 3
+9
+try 2 5
+10
+try 2 1
+10
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 -1
+11
+try 4 2
+11
+try 4 0
+11
+try 1 3
+11
+try 1 -1
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 3
+12
+try 3 5
+13
+try 3 1
+13
+try 4 4
+13
+try 4 2
+13
+try 1 5
+13
+try 1 1
+13
+try 0 4
+13
+try 0 2
+13
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try 3 4
+10
+try 3 2
+10
+try 0 5
+10
+try 0 1
+10
+try -1 4
+10
+try -1 2
+10
+try 1 -1
+9
+try 2 2
+9
+try 2 0
+9
+try -1 3
+9
+try -1 -1
+9
+try -2 2
+9
+try -2 0
+9
+try 0 -1
+8
+try 3 3
+7
+try 4 5
+8
+try 4 1
+8
+try 5 4
+8
+try 5 2
+8
+try 2 5
+8
+try 2 1
+8
+try 3 3
+9
+try 3 -1
+9
+try 4 2
+9
+try 4 0
+9
+try 1 3
+9
+try 2 5
+10
+try 2 1
+10
+try 3 4
+10
+try 3 2
+10
+try 0 5
+10
+try 0 1
+10
+try 1 3
+11
+try 1 -1
+11
+try 2 2
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 1 -2
+12
+try 0 1
+12
+try 0 -1
+12
+try -1 3
+11
+try -1 -1
+11
+try -2 2
+11
+try -2 0
+11
+try -1 4
+10
+try -1 2
+10
+try 1 -1
+9
+try 0 2
+9
+try 1 4
+10
+try 1 0
+10
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 0 4
+11
+try 0 2
+11
+try 2 1
+10
+try -1 4
+10
+try -1 0
+10
+try -2 3
+10
+try -2 1
+10
+try 0 0
+9
+try 1 2
+10
+try 1 -2
+10
+try 2 1
+10
+try 2 -1
+10
+try -1 2
+10
+try -1 -2
+10
+try -2 1
+10
+try -2 -1
+10
+try 1 4
+8
+try 1 2
+8
+try 3 1
+7
+try 0 4
+7
+try 0 0
+7
+try 1 2
+8
+try 1 -2
+8
+try 2 1
+8
+try 3 3
+9
+try 4 5
+10
+try 4 1
+10
+try 5 4
+10
+try 5 2
+10
+try 2 5
+10
+try 2 1
+10
+try 1 4
+10
+try 1 2
+10
+try 3 -1
+9
+try 4 2
+9
+try 4 0
+9
+try 1 3
+9
+try 2 5
+10
+try 2 1
+10
+try 3 4
+10
+try 3 2
+10
+try 0 5
+10
+try 0 1
+10
+try 1 3
+11
+try 1 -1
+11
+try 2 2
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 1 -2
+12
+try 0 1
+12
+try 0 -1
+12
+try -1 3
+11
+try -1 -1
+11
+try -2 2
+11
+try -2 0
+11
+try -1 4
+10
+try -1 2
+10
+try 1 -1
+9
+try 0 2
+9
+try 1 4
+10
+try 1 0
+10
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 0 4
+11
+try 0 2
+11
+try 2 1
+10
+try -1 4
+10
+try -1 0
+10
+try -2 3
+10
+try -2 1
+10
+try 0 0
+9
+try 2 -1
+8
+try -1 2
+8
+try -1 -2
+8
+try -2 1
+8
+try -2 -1
+8
+try -1 3
+7
+try -1 1
+7
+try 1 0
+6
+try 3 -1
+5
+try 0 2
+5
+try 1 4
+6
+try 1 0
+6
+try 2 3
+6
+try 3 5
+7
+try 3 1
+7
+try 4 3
+8
+try 4 -1
+8
+try 5 2
+8
+try 5 0
+8
+try 2 3
+8
+try 2 -1
+8
+try 1 2
+8
+try 2 4
+9
+try 2 0
+9
+try 3 2
+10
+try 3 -2
+10
+try 4 1
+10
+try 4 -1
+10
+try 1 2
+10
+try 1 -2
+10
+try 0 1
+10
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 3
+13
+try 4 5
+14
+try 4 1
+14
+try 5 4
+14
+try 5 2
+14
+try 2 5
+14
+try 2 1
+14
+try 1 4
+14
+try 1 2
+14
+try 3 -1
+13
+try 4 2
+13
+try 4 0
+13
+try 1 3
+13
+try 1 -1
+13
+try 0 2
+13
+try 0 0
+13
+try 1 2
+14
+try 1 -2
+14
+try 2 1
+14
+try 2 -1
+14
+try -1 2
+14
+try -1 -2
+14
+try -2 1
+14
+try -2 -1
+14
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 2 2
+11
+try 2 0
+11
+try -1 3
+11
+try -1 -1
+11
+try -2 2
+11
+try -2 0
+11
+try 0 -1
+10
+try 3 3
+9
+try 4 5
+10
+try 4 1
+10
+try 5 4
+10
+try 5 2
+10
+try 2 5
+10
+try 2 1
+10
+try 3 3
+11
+try 3 -1
+11
+try 4 2
+11
+try 4 0
+11
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try 1 3
+13
+try 1 -1
+13
+try 2 2
+13
+try 2 0
+13
+try 3 2
+14
+try 3 -2
+14
+try 4 1
+14
+try 4 -1
+14
+try 1 2
+14
+try 1 -2
+14
+try 0 1
+14
+try 0 -1
+14
+try -1 3
+13
+try -1 -1
+13
+try -2 2
+13
+try -2 0
+13
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 0 2
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try 1 4
+10
+try 1 2
+10
+try 3 1
+9
+try 0 4
+9
+try 0 0
+9
+try 1 2
+10
+try 1 -2
+10
+try 2 1
+10
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 -1
+11
+try 4 2
+11
+try 4 0
+11
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try 1 3
+13
+try 1 -1
+13
+try 2 2
+13
+try 2 0
+13
+try 3 2
+14
+try 3 -2
+14
+try 4 1
+14
+try 4 -1
+14
+try 1 2
+14
+try 1 -2
+14
+try 0 1
+14
+try 0 -1
+14
+try -1 3
+13
+try -1 -1
+13
+try -2 2
+13
+try -2 0
+13
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 0 2
+11
+try 0 0
+11
+try 2 -1
+10
+try -1 2
+10
+try -1 -2
+10
+try -2 1
+10
+try -2 -1
+10
+try -1 3
+9
+try -1 1
+9
+try 1 0
+8
+try 4 4
+7
+try 4 2
+7
+try 1 5
+7
+try 1 1
+7
+try 0 4
+7
+try 0 2
+7
+try 2 1
+6
+try 3 3
+7
+try 4 5
+8
+try 4 1
+8
+try 5 4
+8
+try 5 2
+8
+try 2 5
+8
+try 2 1
+8
+try 1 4
+8
+try 1 2
+8
+try 2 4
+9
+try 2 0
+9
+try 3 2
+10
+try 3 -2
+10
+try 4 1
+10
+try 4 -1
+10
+try 1 2
+10
+try 1 -2
+10
+try 0 1
+10
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 2 2
+11
+try 2 0
+11
+try -1 3
+11
+try -1 -1
+11
+try -2 2
+11
+try -2 0
+11
+try 0 -1
+10
+try 3 3
+9
+try 3 1
+9
+try 4 3
+10
+try 4 -1
+10
+try 5 2
+10
+try 5 0
+10
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 0 4
+11
+try 0 2
+11
+try 2 -1
+10
+try 1 2
+10
+try 1 0
+10
+try 0 4
+9
+try 0 0
+9
+try 1 2
+10
+try 1 -2
+10
+try 2 1
+10
+try 2 -1
+10
+try -1 2
+10
+try -1 -2
+10
+try -2 1
+10
+try -2 -1
+10
+try -1 3
+9
+try -1 1
+9
+try 3 -1
+7
+try 4 2
+7
+try 4 0
+7
+try 1 3
+7
+try 2 5
+8
+try 2 1
+8
+try 3 4
+8
+try 3 2
+8
+try 0 5
+8
+try 0 1
+8
+try 1 3
+9
+try 1 -1
+9
+try 2 2
+9
+try 2 0
+9
+try 3 2
+10
+try 3 -2
+10
+try 4 1
+10
+try 4 -1
+10
+try 1 2
+10
+try 2 4
+11
+try 2 0
+11
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 3 5
+13
+try 3 1
+13
+try 4 4
+13
+try 4 2
+13
+try 1 5
+13
+try 1 1
+13
+try 0 4
+13
+try 0 2
+13
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 0 4
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try -1 3
+11
+try -1 1
+11
+try 1 -2
+10
+try 0 1
+10
+try 0 -1
+10
+try -1 3
+9
+try -1 -1
+9
+try -2 2
+9
+try -2 0
+9
+try -1 4
+8
+try -1 2
+8
+try 1 -1
+7
+try 0 2
+7
+try 0 0
+7
+try 1 2
+8
+try 2 4
+9
+try 2 0
+9
+try 3 2
+10
+try 3 -2
+10
+try 4 1
+10
+try 4 -1
+10
+try 1 2
+10
+try 1 -2
+10
+try 0 1
+10
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 2 2
+11
+try 2 0
+11
+try -1 3
+11
+try -1 -1
+11
+try -2 2
+11
+try -2 0
+11
+try 0 -1
+10
+try 3 3
+9
+try 4 5
+10
+try 4 1
+10
+try 5 4
+10
+try 5 2
+10
+try 2 5
+10
+try 2 1
+10
+try 1 4
+10
+try 1 2
+10
+try 3 1
+9
+try 4 3
+10
+try 4 -1
+10
+try 5 2
+10
+try 5 0
+10
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 0 4
+11
+try 0 2
+11
+try 2 -1
+10
+try 1 2
+10
+try 1 0
+10
+try 0 4
+9
+try 0 0
+9
+try -1 3
+9
+try -1 1
+9
+try 1 -2
+8
+try 2 1
+8
+try 2 -1
+8
+try -1 2
+8
+try -1 -2
+8
+try -2 1
+8
+try -2 -1
+8
+try -1 4
+6
+try -1 0
+6
+try -2 3
+6
+try -2 1
+6
+try 0 -2
+5
+try -1 1
+5
+try -1 -1
+5
+try 0 3
+4
+try 1 5
+5
+try 1 1
+5
+try 2 4
+5
+try 2 2
+5
+try -1 5
+5
+try -1 1
+5
+try -2 4
+5
+try -2 2
+5
+try 0 1
+4
+try 1 3
+5
+try 2 5
+6
+try 2 1
+6
+try 3 3
+7
+try 4 5
+8
+try 4 1
+8
+try 5 4
+8
+try 5 2
+8
+try 2 5
+8
+try 2 1
+8
+try 1 4
+8
+try 1 2
+8
+try 2 4
+9
+try 2 0
+9
+try 3 2
+10
+try 3 -2
+10
+try 4 1
+10
+try 4 -1
+10
+try 1 2
+10
+try 1 -2
+10
+try 0 1
+10
+try 0 -1
+10
+try 3 3
+9
+try 3 1
+9
+try 4 3
+10
+try 4 -1
+10
+try 5 2
+10
+try 5 0
+10
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 0 4
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 3 -1
+13
+try 0 2
+13
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 2 3
+12
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 2 -1
+10
+try 1 2
+10
+try 1 0
+10
+try 2 2
+11
+try 2 -2
+11
+try 3 1
+11
+try 3 -1
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 3
+12
+try 3 5
+13
+try 3 1
+13
+try 4 4
+13
+try 4 2
+13
+try 1 5
+13
+try 1 1
+13
+try 0 4
+13
+try 0 2
+13
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 0 -2
+11
+try -1 1
+11
+try -1 -1
+11
+try 0 4
+9
+try 0 0
+9
+try 1 2
+10
+try 1 -2
+10
+try 2 1
+10
+try 2 -1
+10
+try -1 2
+10
+try -1 -2
+10
+try -2 1
+10
+try -2 -1
+10
+try -1 3
+9
+try -1 1
+9
+try 3 -1
+7
+try 4 2
+7
+try 4 0
+7
+try 1 3
+7
+try 1 -1
+7
+try 0 2
+7
+try 1 4
+8
+try 1 0
+8
+try 2 2
+9
+try 2 -2
+9
+try 3 1
+9
+try 4 3
+10
+try 4 -1
+10
+try 5 2
+10
+try 5 0
+10
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 0 4
+11
+try 0 2
+11
+try 2 -1
+10
+try 1 2
+10
+try 2 4
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 1 -2
+12
+try 0 1
+12
+try 0 -1
+12
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 1
+11
+try 0 4
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try -1 3
+11
+try -1 1
+11
+try 1 0
+10
+try 3 -1
+9
+try 0 2
+9
+try 0 -2
+9
+try -1 1
+9
+try -1 -1
+9
+try 2 3
+8
+try 3 5
+9
+try 3 1
+9
+try 4 3
+10
+try 4 -1
+10
+try 5 2
+10
+try 5 0
+10
+try 2 3
+10
+try 2 -1
+10
+try 1 2
+10
+try 2 4
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 1 -2
+12
+try 0 1
+12
+try 0 -1
+12
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 1
+11
+try 0 4
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try -1 3
+11
+try -1 1
+11
+try 1 0
+10
+try 2 2
+11
+try 2 -2
+11
+try 3 1
+11
+try 3 -1
+11
+try 0 2
+11
+try 0 -2
+11
+try -1 1
+11
+try -1 -1
+11
+try 4 4
+9
+try 4 2
+9
+try 1 5
+9
+try 1 1
+9
+try 0 4
+9
+try 0 2
+9
+try 2 1
+8
+try -1 4
+8
+try -1 0
+8
+try -2 3
+8
+try -2 1
+8
+try 0 0
+7
+try 1 2
+8
+try 2 4
+9
+try 2 0
+9
+try 3 2
+10
+try 3 -2
+10
+try 4 1
+10
+try 4 -1
+10
+try 1 2
+10
+try 1 -2
+10
+try 0 1
+10
+try 0 -1
+10
+try 3 3
+9
+try 4 5
+10
+try 4 1
+10
+try 5 4
+10
+try 5 2
+10
+try 2 5
+10
+try 2 1
+10
+try 1 4
+10
+try 1 2
+10
+try 3 1
+9
+try 4 3
+10
+try 4 -1
+10
+try 5 2
+10
+try 5 0
+10
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 0 4
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 3 -1
+13
+try 0 2
+13
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 2 3
+12
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 2 -1
+10
+try 1 2
+10
+try 1 0
+10
+try 2 2
+11
+try 2 -2
+11
+try 3 1
+11
+try 3 -1
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 3
+12
+try 3 5
+13
+try 3 1
+13
+try 4 4
+13
+try 4 2
+13
+try 1 5
+13
+try 1 1
+13
+try 0 4
+13
+try 0 2
+13
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 0 -2
+11
+try -1 1
+11
+try -1 -1
+11
+try 0 4
+9
+try 0 0
+9
+try -1 3
+9
+try -1 1
+9
+try 1 -2
+8
+try 2 1
+8
+try 2 -1
+8
+try -1 2
+8
+try -1 -2
+8
+try -2 1
+8
+try -2 -1
+8
+try 3 4
+6
+try 3 2
+6
+try 0 5
+6
+try 0 1
+6
+try -1 4
+6
+try -1 2
+6
+try 1 -1
+5
+try 2 2
+5
+try 2 0
+5
+try 3 2
+6
+try 3 -2
+6
+try 4 1
+6
+try 4 -1
+6
+try 1 2
+6
+try 2 4
+7
+try 2 0
+7
+try 3 3
+7
+try 4 5
+8
+try 4 1
+8
+try 5 4
+8
+try 5 2
+8
+try 2 5
+8
+try 2 1
+8
+try 3 3
+9
+try 3 -1
+9
+try 4 2
+9
+try 4 0
+9
+try 1 3
+9
+try 2 5
+10
+try 2 1
+10
+try 3 4
+10
+try 3 2
+10
+try 0 5
+10
+try 0 1
+10
+try -1 4
+10
+try -1 2
+10
+try 1 -1
+9
+try 0 2
+9
+try 1 4
+10
+try 1 0
+10
+try 2 2
+11
+try 2 -2
+11
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 3 5
+13
+try 3 1
+13
+try 4 4
+13
+try 4 2
+13
+try 1 5
+13
+try 1 1
+13
+try 0 4
+13
+try 0 2
+13
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 3 -1
+11
+try 0 2
+11
+try 0 -2
+11
+try -1 1
+11
+try -1 -1
+11
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 3 -1
+13
+try 0 2
+13
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 0 4
+11
+try 0 2
+11
+try 2 1
+10
+try -1 4
+10
+try -1 0
+10
+try -2 3
+10
+try -2 1
+10
+try 0 0
+9
+try 1 2
+10
+try 1 -2
+10
+try 2 1
+10
+try 2 -1
+10
+try -1 2
+10
+try -1 -2
+10
+try -2 1
+10
+try -2 -1
+10
+try 1 4
+8
+try 1 2
+8
+try 3 1
+7
+try 4 3
+8
+try 4 -1
+8
+try 5 2
+8
+try 5 0
+8
+try 2 3
+8
+try 3 5
+9
+try 3 1
+9
+try 4 4
+9
+try 4 2
+9
+try 1 5
+9
+try 1 1
+9
+try 0 4
+9
+try 0 2
+9
+try 1 4
+10
+try 1 0
+10
+try 2 2
+11
+try 2 -2
+11
+try 3 1
+11
+try 3 -1
+11
+try 0 2
+11
+try 0 -2
+11
+try -1 1
+11
+try -1 -1
+11
+try 2 3
+10
+try 2 1
+10
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 -1
+11
+try 4 2
+11
+try 4 0
+11
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 0 2
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try -1 4
+10
+try -1 0
+10
+try -2 3
+10
+try -2 1
+10
+try 2 -1
+8
+try 1 2
+8
+try 1 0
+8
+try 2 2
+9
+try 2 -2
+9
+try 3 1
+9
+try 3 -1
+9
+try 0 2
+9
+try 1 4
+10
+try 1 0
+10
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 0 4
+11
+try 0 2
+11
+try 2 1
+10
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 -1
+11
+try 4 2
+11
+try 4 0
+11
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 0 2
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try -1 4
+10
+try -1 0
+10
+try -2 3
+10
+try -2 1
+10
+try 0 -2
+9
+try -1 1
+9
+try -1 -1
+9
+try 0 4
+7
+try 0 0
+7
+try 1 2
+8
+try 1 -2
+8
+try 2 1
+8
+try 3 3
+9
+try 4 5
+10
+try 4 1
+10
+try 5 4
+10
+try 5 2
+10
+try 2 5
+10
+try 2 1
+10
+try 1 4
+10
+try 1 2
+10
+try 3 -1
+9
+try 4 2
+9
+try 4 0
+9
+try 1 3
+9
+try 2 5
+10
+try 2 1
+10
+try 3 4
+10
+try 3 2
+10
+try 0 5
+10
+try 0 1
+10
+try -1 4
+10
+try -1 2
+10
+try 1 -1
+9
+try 0 2
+9
+try 1 4
+10
+try 1 0
+10
+try 2 2
+11
+try 2 -2
+11
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 3 5
+13
+try 3 1
+13
+try 4 4
+13
+try 4 2
+13
+try 1 5
+13
+try 1 1
+13
+try 0 4
+13
+try 0 2
+13
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 3 -1
+11
+try 0 2
+11
+try 0 -2
+11
+try -1 1
+11
+try -1 -1
+11
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 3 -1
+13
+try 0 2
+13
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 0 4
+11
+try 0 2
+11
+try 2 1
+10
+try -1 4
+10
+try -1 0
+10
+try -2 3
+10
+try -2 1
+10
+try 0 0
+9
+try 2 -1
+8
+try -1 2
+8
+try -1 -2
+8
+try -2 1
+8
+try -2 -1
+8
+try -1 3
+7
+try -1 1
+7
+try 1 -2
+6
+try 0 1
+6
+try 0 -1
+6
+try -1 3
+5
+try -1 -1
+5
+try -2 2
+5
+try -2 0
+5
+try 2 -2
+3
+try 1 1
+3
+try 1 -1
+3
+try 0 3
+2
+try 1 5
+3
+try 1 1
+3
+try 2 4
+3
+try 2 2
+3
+try 3 4
+4
+try 3 0
+4
+try 4 2
+5
+try 4 -2
+5
+try 5 1
+5
+try 5 -1
+5
+try 2 2
+5
+try 2 -2
+5
+try 1 1
+5
+try 1 -1
+5
+try 4 3
+4
+try 4 1
+4
+try 1 4
+4
+try 1 0
+4
+try 2 2
+5
+try 2 -2
+5
+try 3 1
+5
+try 4 3
+6
+try 4 -1
+6
+try 5 2
+6
+try 5 0
+6
+try 2 3
+6
+try 3 5
+7
+try 3 1
+7
+try 4 4
+7
+try 4 2
+7
+try 1 5
+7
+try 1 1
+7
+try 0 4
+7
+try 0 2
+7
+try 1 4
+8
+try 1 0
+8
+try 2 3
+8
+try 2 1
+8
+try 3 3
+9
+try 4 5
+10
+try 4 1
+10
+try 5 4
+10
+try 5 2
+10
+try 2 5
+10
+try 2 1
+10
+try 1 4
+10
+try 1 2
+10
+try 2 4
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 1 -2
+12
+try 0 1
+12
+try 1 3
+13
+try 2 5
+14
+try 2 1
+14
+try 3 4
+14
+try 3 2
+14
+try 0 5
+14
+try 0 1
+14
+try -1 4
+14
+try -1 2
+14
+try 1 -1
+13
+try 2 2
+13
+try 2 0
+13
+try -1 3
+13
+try -1 -1
+13
+try -2 2
+13
+try -2 0
+13
+try 0 -1
+12
+try 3 3
+11
+try 3 1
+11
+try 0 4
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try -1 3
+11
+try -1 1
+11
+try 3 -1
+9
+try 4 2
+9
+try 4 0
+9
+try 1 3
+9
+try 2 5
+10
+try 2 1
+10
+try 3 4
+10
+try 3 2
+10
+try 0 5
+10
+try 0 1
+10
+try 1 3
+11
+try 1 -1
+11
+try 2 2
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 2 4
+13
+try 2 0
+13
+try 3 3
+13
+try 4 5
+14
+try 4 1
+14
+try 5 4
+14
+try 5 2
+14
+try 2 5
+14
+try 2 1
+14
+try 1 4
+14
+try 1 2
+14
+try 3 1
+13
+try 0 4
+13
+try 0 0
+13
+try 1 2
+14
+try 1 -2
+14
+try 2 1
+14
+try 2 -1
+14
+try -1 2
+14
+try -1 -2
+14
+try -2 1
+14
+try -2 -1
+14
+try -1 3
+13
+try -1 1
+13
+try 1 -2
+12
+try 0 1
+12
+try 0 -1
+12
+try -1 3
+11
+try -1 -1
+11
+try -2 2
+11
+try -2 0
+11
+try -1 4
+10
+try -1 2
+10
+try 1 -1
+9
+try 0 2
+9
+try 0 0
+9
+try 1 2
+10
+try 2 4
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 1 -2
+12
+try 0 1
+12
+try 1 3
+13
+try 2 5
+14
+try 2 1
+14
+try 3 4
+14
+try 3 2
+14
+try 0 5
+14
+try 0 1
+14
+try -1 4
+14
+try -1 2
+14
+try 1 -1
+13
+try 2 2
+13
+try 2 0
+13
+try -1 3
+13
+try -1 -1
+13
+try -2 2
+13
+try -2 0
+13
+try 0 -1
+12
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 1
+11
+try 0 4
+11
+try 0 0
+11
+try -1 3
+11
+try -1 1
+11
+try 1 -2
+10
+try 2 1
+10
+try 2 -1
+10
+try -1 2
+10
+try -1 -2
+10
+try -2 1
+10
+try -2 -1
+10
+try -1 4
+8
+try -1 0
+8
+try -2 3
+8
+try -2 1
+8
+try 2 -1
+6
+try 1 2
+6
+try 2 4
+7
+try 2 0
+7
+try 3 2
+8
+try 3 -2
+8
+try 4 1
+8
+try 4 -1
+8
+try 1 2
+8
+try 1 -2
+8
+try 0 1
+8
+try 1 3
+9
+try 2 5
+10
+try 2 1
+10
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 -1
+11
+try 4 2
+11
+try 4 0
+11
+try 1 3
+11
+try 1 -1
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 3
+12
+try 3 5
+13
+try 3 1
+13
+try 4 4
+13
+try 4 2
+13
+try 1 5
+13
+try 1 1
+13
+try 0 4
+13
+try 0 2
+13
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try 3 4
+10
+try 3 2
+10
+try 0 5
+10
+try 0 1
+10
+try -1 4
+10
+try -1 2
+10
+try 1 -1
+9
+try 2 2
+9
+try 2 0
+9
+try -1 3
+9
+try -1 -1
+9
+try -2 2
+9
+try -2 0
+9
+try 0 -1
+8
+try 3 3
+7
+try 4 5
+8
+try 4 1
+8
+try 5 4
+8
+try 5 2
+8
+try 2 5
+8
+try 2 1
+8
+try 3 3
+9
+try 3 -1
+9
+try 4 2
+9
+try 4 0
+9
+try 1 3
+9
+try 2 5
+10
+try 2 1
+10
+try 3 4
+10
+try 3 2
+10
+try 0 5
+10
+try 0 1
+10
+try 1 3
+11
+try 1 -1
+11
+try 2 2
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 1 -2
+12
+try 0 1
+12
+try 0 -1
+12
+try -1 3
+11
+try -1 -1
+11
+try -2 2
+11
+try -2 0
+11
+try -1 4
+10
+try -1 2
+10
+try 1 -1
+9
+try 0 2
+9
+try 1 4
+10
+try 1 0
+10
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 0 4
+11
+try 0 2
+11
+try 2 1
+10
+try -1 4
+10
+try -1 0
+10
+try -2 3
+10
+try -2 1
+10
+try 0 0
+9
+try 1 2
+10
+try 1 -2
+10
+try 2 1
+10
+try 2 -1
+10
+try -1 2
+10
+try -1 -2
+10
+try -2 1
+10
+try -2 -1
+10
+try 1 4
+8
+try 1 2
+8
+try 3 1
+7
+try 0 4
+7
+try 0 0
+7
+try 1 2
+8
+try 1 -2
+8
+try 2 1
+8
+try 3 3
+9
+try 4 5
+10
+try 4 1
+10
+try 5 4
+10
+try 5 2
+10
+try 2 5
+10
+try 2 1
+10
+try 1 4
+10
+try 1 2
+10
+try 3 -1
+9
+try 4 2
+9
+try 4 0
+9
+try 1 3
+9
+try 2 5
+10
+try 2 1
+10
+try 3 4
+10
+try 3 2
+10
+try 0 5
+10
+try 0 1
+10
+try 1 3
+11
+try 1 -1
+11
+try 2 2
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 1 -2
+12
+try 0 1
+12
+try 0 -1
+12
+try -1 3
+11
+try -1 -1
+11
+try -2 2
+11
+try -2 0
+11
+try -1 4
+10
+try -1 2
+10
+try 1 -1
+9
+try 0 2
+9
+try 1 4
+10
+try 1 0
+10
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 0 4
+11
+try 0 2
+11
+try 2 1
+10
+try -1 4
+10
+try -1 0
+10
+try -2 3
+10
+try -2 1
+10
+try 0 0
+9
+try 2 -1
+8
+try -1 2
+8
+try -1 -2
+8
+try -2 1
+8
+try -2 -1
+8
+try -1 3
+7
+try -1 1
+7
+try 1 0
+6
+try 3 -1
+5
+try 0 2
+5
+try 1 4
+6
+try 1 0
+6
+try 2 3
+6
+try 3 5
+7
+try 3 1
+7
+try 4 3
+8
+try 4 -1
+8
+try 5 2
+8
+try 5 0
+8
+try 2 3
+8
+try 2 -1
+8
+try 1 2
+8
+try 2 4
+9
+try 2 0
+9
+try 3 2
+10
+try 3 -2
+10
+try 4 1
+10
+try 4 -1
+10
+try 1 2
+10
+try 1 -2
+10
+try 0 1
+10
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 3
+13
+try 4 5
+14
+try 4 1
+14
+try 5 4
+14
+try 5 2
+14
+try 2 5
+14
+try 2 1
+14
+try 1 4
+14
+try 1 2
+14
+try 3 -1
+13
+try 4 2
+13
+try 4 0
+13
+try 1 3
+13
+try 1 -1
+13
+try 0 2
+13
+try 0 0
+13
+try 1 2
+14
+try 1 -2
+14
+try 2 1
+14
+try 2 -1
+14
+try -1 2
+14
+try -1 -2
+14
+try -2 1
+14
+try -2 -1
+14
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 2 2
+11
+try 2 0
+11
+try -1 3
+11
+try -1 -1
+11
+try -2 2
+11
+try -2 0
+11
+try 0 -1
+10
+try 3 3
+9
+try 4 5
+10
+try 4 1
+10
+try 5 4
+10
+try 5 2
+10
+try 2 5
+10
+try 2 1
+10
+try 3 3
+11
+try 3 -1
+11
+try 4 2
+11
+try 4 0
+11
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try 1 3
+13
+try 1 -1
+13
+try 2 2
+13
+try 2 0
+13
+try 3 2
+14
+try 3 -2
+14
+try 4 1
+14
+try 4 -1
+14
+try 1 2
+14
+try 1 -2
+14
+try 0 1
+14
+try 0 -1
+14
+try -1 3
+13
+try -1 -1
+13
+try -2 2
+13
+try -2 0
+13
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 0 2
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try 1 4
+10
+try 1 2
+10
+try 3 1
+9
+try 0 4
+9
+try 0 0
+9
+try 1 2
+10
+try 1 -2
+10
+try 2 1
+10
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 -1
+11
+try 4 2
+11
+try 4 0
+11
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try 1 3
+13
+try 1 -1
+13
+try 2 2
+13
+try 2 0
+13
+try 3 2
+14
+try 3 -2
+14
+try 4 1
+14
+try 4 -1
+14
+try 1 2
+14
+try 1 -2
+14
+try 0 1
+14
+try 0 -1
+14
+try -1 3
+13
+try -1 -1
+13
+try -2 2
+13
+try -2 0
+13
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 0 2
+11
+try 0 0
+11
+try 2 -1
+10
+try -1 2
+10
+try -1 -2
+10
+try -2 1
+10
+try -2 -1
+10
+try -1 3
+9
+try -1 1
+9
+try 1 0
+8
+try 4 4
+7
+try 4 2
+7
+try 1 5
+7
+try 1 1
+7
+try 0 4
+7
+try 0 2
+7
+try 2 1
+6
+try 3 3
+7
+try 4 5
+8
+try 4 1
+8
+try 5 4
+8
+try 5 2
+8
+try 2 5
+8
+try 2 1
+8
+try 1 4
+8
+try 1 2
+8
+try 2 4
+9
+try 2 0
+9
+try 3 2
+10
+try 3 -2
+10
+try 4 1
+10
+try 4 -1
+10
+try 1 2
+10
+try 1 -2
+10
+try 0 1
+10
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 2 2
+11
+try 2 0
+11
+try -1 3
+11
+try -1 -1
+11
+try -2 2
+11
+try -2 0
+11
+try 0 -1
+10
+try 3 3
+9
+try 3 1
+9
+try 4 3
+10
+try 4 -1
+10
+try 5 2
+10
+try 5 0
+10
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 0 4
+11
+try 0 2
+11
+try 2 -1
+10
+try 1 2
+10
+try 1 0
+10
+try 0 4
+9
+try 0 0
+9
+try 1 2
+10
+try 1 -2
+10
+try 2 1
+10
+try 2 -1
+10
+try -1 2
+10
+try -1 -2
+10
+try -2 1
+10
+try -2 -1
+10
+try -1 3
+9
+try -1 1
+9
+try 3 -1
+7
+try 4 2
+7
+try 4 0
+7
+try 1 3
+7
+try 2 5
+8
+try 2 1
+8
+try 3 4
+8
+try 3 2
+8
+try 0 5
+8
+try 0 1
+8
+try 1 3
+9
+try 1 -1
+9
+try 2 2
+9
+try 2 0
+9
+try 3 2
+10
+try 3 -2
+10
+try 4 1
+10
+try 4 -1
+10
+try 1 2
+10
+try 2 4
+11
+try 2 0
+11
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 3 5
+13
+try 3 1
+13
+try 4 4
+13
+try 4 2
+13
+try 1 5
+13
+try 1 1
+13
+try 0 4
+13
+try 0 2
+13
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 0 4
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try -1 3
+11
+try -1 1
+11
+try 1 -2
+10
+try 0 1
+10
+try 0 -1
+10
+try -1 3
+9
+try -1 -1
+9
+try -2 2
+9
+try -2 0
+9
+try -1 4
+8
+try -1 2
+8
+try 1 -1
+7
+try 0 2
+7
+try 0 0
+7
+try 1 2
+8
+try 2 4
+9
+try 2 0
+9
+try 3 2
+10
+try 3 -2
+10
+try 4 1
+10
+try 4 -1
+10
+try 1 2
+10
+try 1 -2
+10
+try 0 1
+10
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 2 2
+11
+try 2 0
+11
+try -1 3
+11
+try -1 -1
+11
+try -2 2
+11
+try -2 0
+11
+try 0 -1
+10
+try 3 3
+9
+try 4 5
+10
+try 4 1
+10
+try 5 4
+10
+try 5 2
+10
+try 2 5
+10
+try 2 1
+10
+try 1 4
+10
+try 1 2
+10
+try 3 1
+9
+try 4 3
+10
+try 4 -1
+10
+try 5 2
+10
+try 5 0
+10
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 0 4
+11
+try 0 2
+11
+try 2 -1
+10
+try 1 2
+10
+try 1 0
+10
+try 0 4
+9
+try 0 0
+9
+try -1 3
+9
+try -1 1
+9
+try 1 -2
+8
+try 2 1
+8
+try 2 -1
+8
+try -1 2
+8
+try -1 -2
+8
+try -2 1
+8
+try -2 -1
+8
+try -1 4
+6
+try -1 0
+6
+try -2 3
+6
+try -2 1
+6
+try 0 -2
+5
+try -1 1
+5
+try -1 -1
+5
+try 0 3
+4
+try 0 1
+4
+try 1 3
+5
+try 2 5
+6
+try 2 1
+6
+try 3 3
+7
+try 4 5
+8
+try 4 1
+8
+try 5 4
+8
+try 5 2
+8
+try 2 5
+8
+try 2 1
+8
+try 1 4
+8
+try 1 2
+8
+try 2 4
+9
+try 2 0
+9
+try 3 2
+10
+try 3 -2
+10
+try 4 1
+10
+try 4 -1
+10
+try 1 2
+10
+try 1 -2
+10
+try 0 1
+10
+try 0 -1
+10
+try 3 3
+9
+try 3 1
+9
+try 4 3
+10
+try 4 -1
+10
+try 5 2
+10
+try 5 0
+10
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 0 4
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 3 -1
+13
+try 0 2
+13
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 2 3
+12
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 2 -1
+10
+try 1 2
+10
+try 1 0
+10
+try 2 2
+11
+try 2 -2
+11
+try 3 1
+11
+try 3 -1
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 3
+12
+try 3 5
+13
+try 3 1
+13
+try 4 4
+13
+try 4 2
+13
+try 1 5
+13
+try 1 1
+13
+try 0 4
+13
+try 0 2
+13
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 0 -2
+11
+try -1 1
+11
+try -1 -1
+11
+try 0 4
+9
+try 0 0
+9
+try 1 2
+10
+try 1 -2
+10
+try 2 1
+10
+try 2 -1
+10
+try -1 2
+10
+try -1 -2
+10
+try -2 1
+10
+try -2 -1
+10
+try -1 3
+9
+try -1 1
+9
+try 3 -1
+7
+try 4 2
+7
+try 4 0
+7
+try 1 3
+7
+try 1 -1
+7
+try 0 2
+7
+try 1 4
+8
+try 1 0
+8
+try 2 2
+9
+try 2 -2
+9
+try 3 1
+9
+try 4 3
+10
+try 4 -1
+10
+try 5 2
+10
+try 5 0
+10
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 0 4
+11
+try 0 2
+11
+try 2 -1
+10
+try 1 2
+10
+try 2 4
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 1 -2
+12
+try 0 1
+12
+try 0 -1
+12
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 1
+11
+try 0 4
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try -1 3
+11
+try -1 1
+11
+try 1 0
+10
+try 3 -1
+9
+try 0 2
+9
+try 0 -2
+9
+try -1 1
+9
+try -1 -1
+9
+try 2 3
+8
+try 3 5
+9
+try 3 1
+9
+try 4 3
+10
+try 4 -1
+10
+try 5 2
+10
+try 5 0
+10
+try 2 3
+10
+try 2 -1
+10
+try 1 2
+10
+try 2 4
+11
+try 2 0
+11
+try 3 2
+12
+try 3 -2
+12
+try 4 1
+12
+try 4 -1
+12
+try 1 2
+12
+try 1 -2
+12
+try 0 1
+12
+try 0 -1
+12
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 1
+11
+try 0 4
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try -1 3
+11
+try -1 1
+11
+try 1 0
+10
+try 2 2
+11
+try 2 -2
+11
+try 3 1
+11
+try 3 -1
+11
+try 0 2
+11
+try 0 -2
+11
+try -1 1
+11
+try -1 -1
+11
+try 4 4
+9
+try 4 2
+9
+try 1 5
+9
+try 1 1
+9
+try 0 4
+9
+try 0 2
+9
+try 2 1
+8
+try -1 4
+8
+try -1 0
+8
+try -2 3
+8
+try -2 1
+8
+try 0 0
+7
+try 1 2
+8
+try 2 4
+9
+try 2 0
+9
+try 3 2
+10
+try 3 -2
+10
+try 4 1
+10
+try 4 -1
+10
+try 1 2
+10
+try 1 -2
+10
+try 0 1
+10
+try 0 -1
+10
+try 3 3
+9
+try 4 5
+10
+try 4 1
+10
+try 5 4
+10
+try 5 2
+10
+try 2 5
+10
+try 2 1
+10
+try 1 4
+10
+try 1 2
+10
+try 3 1
+9
+try 4 3
+10
+try 4 -1
+10
+try 5 2
+10
+try 5 0
+10
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 0 4
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 3 -1
+13
+try 0 2
+13
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 2 3
+12
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 2 -1
+10
+try 1 2
+10
+try 1 0
+10
+try 2 2
+11
+try 2 -2
+11
+try 3 1
+11
+try 3 -1
+11
+try 0 2
+11
+try 1 4
+12
+try 1 0
+12
+try 2 3
+12
+try 3 5
+13
+try 3 1
+13
+try 4 4
+13
+try 4 2
+13
+try 1 5
+13
+try 1 1
+13
+try 0 4
+13
+try 0 2
+13
+try 2 1
+12
+try -1 4
+12
+try -1 0
+12
+try -2 3
+12
+try -2 1
+12
+try 0 -2
+11
+try -1 1
+11
+try -1 -1
+11
+try 0 4
+9
+try 0 0
+9
+try -1 3
+9
+try -1 1
+9
+try 1 -2
+8
+try 2 1
+8
+try 2 -1
+8
+try -1 2
+8
+try -1 -2
+8
+try -2 1
+8
+try -2 -1
+8
+try 3 4
+6
+try 3 2
+6
+try 0 5
+6
+try 0 1
+6
+try -1 4
+6
+try -1 2
+6
+try 1 -1
+5
+try 2 2
+5
+try 2 0
+5
+try 3 2
+6
+try 3 -2
+6
+try 4 1
+6
+try 4 -1
+6
+try 1 2
+6
+try 2 4
+7
+try 2 0
+7
+try 3 3
+7
+try 4 5
+8
+try 4 1
+8
+try 5 4
+8
+try 5 2
+8
+try 2 5
+8
+try 2 1
+8
+try 3 3
+9
+try 3 -1
+9
+try 4 2
+9
+try 4 0
+9
+try 1 3
+9
+try 2 5
+10
+try 2 1
+10
+try 3 4
+10
+try 3 2
+10
+try 0 5
+10
+try 0 1
+10
+try -1 4
+10
+try -1 2
+10
+try 1 -1
+9
+try 0 2
+9
+try 1 4
+10
+try 1 0
+10
+try 2 2
+11
+try 2 -2
+11
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 3 5
+13
+try 3 1
+13
+try 4 4
+13
+try 4 2
+13
+try 1 5
+13
+try 1 1
+13
+try 0 4
+13
+try 0 2
+13
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 3 -1
+11
+try 0 2
+11
+try 0 -2
+11
+try -1 1
+11
+try -1 -1
+11
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 3 -1
+13
+try 0 2
+13
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 0 4
+11
+try 0 2
+11
+try 2 1
+10
+try -1 4
+10
+try -1 0
+10
+try -2 3
+10
+try -2 1
+10
+try 0 0
+9
+try 1 2
+10
+try 1 -2
+10
+try 2 1
+10
+try 2 -1
+10
+try -1 2
+10
+try -1 -2
+10
+try -2 1
+10
+try -2 -1
+10
+try 1 4
+8
+try 1 2
+8
+try 3 1
+7
+try 4 3
+8
+try 4 -1
+8
+try 5 2
+8
+try 5 0
+8
+try 2 3
+8
+try 3 5
+9
+try 3 1
+9
+try 4 4
+9
+try 4 2
+9
+try 1 5
+9
+try 1 1
+9
+try 0 4
+9
+try 0 2
+9
+try 1 4
+10
+try 1 0
+10
+try 2 2
+11
+try 2 -2
+11
+try 3 1
+11
+try 3 -1
+11
+try 0 2
+11
+try 0 -2
+11
+try -1 1
+11
+try -1 -1
+11
+try 2 3
+10
+try 2 1
+10
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 -1
+11
+try 4 2
+11
+try 4 0
+11
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 0 2
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try -1 4
+10
+try -1 0
+10
+try -2 3
+10
+try -2 1
+10
+try 2 -1
+8
+try 1 2
+8
+try 1 0
+8
+try 2 2
+9
+try 2 -2
+9
+try 3 1
+9
+try 3 -1
+9
+try 0 2
+9
+try 1 4
+10
+try 1 0
+10
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 0 4
+11
+try 0 2
+11
+try 2 1
+10
+try 3 3
+11
+try 4 5
+12
+try 4 1
+12
+try 5 4
+12
+try 5 2
+12
+try 2 5
+12
+try 2 1
+12
+try 1 4
+12
+try 1 2
+12
+try 3 -1
+11
+try 4 2
+11
+try 4 0
+11
+try 1 3
+11
+try 2 5
+12
+try 2 1
+12
+try 3 4
+12
+try 3 2
+12
+try 0 5
+12
+try 0 1
+12
+try -1 4
+12
+try -1 2
+12
+try 1 -1
+11
+try 0 2
+11
+try 0 0
+11
+try 1 2
+12
+try 1 -2
+12
+try 2 1
+12
+try 2 -1
+12
+try -1 2
+12
+try -1 -2
+12
+try -2 1
+12
+try -2 -1
+12
+try -1 4
+10
+try -1 0
+10
+try -2 3
+10
+try -2 1
+10
+try 0 -2
+9
+try -1 1
+9
+try -1 -1
+9
+try 0 4
+7
+try 0 0
+7
+try 1 2
+8
+try 1 -2
+8
+try 2 1
+8
+try 3 3
+9
+try 4 5
+10
+try 4 1
+10
+try 5 4
+10
+try 5 2
+10
+try 2 5
+10
+try 2 1
+10
+try 1 4
+10
+try 1 2
+10
+try 3 -1
+9
+try 4 2
+9
+try 4 0
+9
+try 1 3
+9
+try 2 5
+10
+try 2 1
+10
+try 3 4
+10
+try 3 2
+10
+try 0 5
+10
+try 0 1
+10
+try -1 4
+10
+try -1 2
+10
+try 1 -1
+9
+try 0 2
+9
+try 1 4
+10
+try 1 0
+10
+try 2 2
+11
+try 2 -2
+11
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 3 5
+13
+try 3 1
+13
+try 4 4
+13
+try 4 2
+13
+try 1 5
+13
+try 1 1
+13
+try 0 4
+13
+try 0 2
+13
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 3 -1
+11
+try 0 2
+11
+try 0 -2
+11
+try -1 1
+11
+try -1 -1
+11
+try 2 3
+10
+try 3 5
+11
+try 3 1
+11
+try 4 3
+12
+try 4 -1
+12
+try 5 2
+12
+try 5 0
+12
+try 2 3
+12
+try 2 -1
+12
+try 1 2
+12
+try 1 0
+12
+try 2 2
+13
+try 2 -2
+13
+try 3 1
+13
+try 3 -1
+13
+try 0 2
+13
+try 0 -2
+13
+try -1 1
+13
+try -1 -1
+13
+try 4 4
+11
+try 4 2
+11
+try 1 5
+11
+try 1 1
+11
+try 0 4
+11
+try 0 2
+11
+try 2 1
+10
+try -1 4
+10
+try -1 0
+10
+try -2 3
+10
+try -2 1
+10
+try 0 0
+9
+try 2 -1
+8
+try -1 2
+8
+try -1 -2
+8
+try -2 1
+8
+try -2 -1
+8
+try -1 3
+7
+try -1 1
+7
+try 1 -2
+6
+try 0 1
+6
+try 0 -1
+6
+try -1 3
+5
+try -1 -1
+5
+try -2 2
+5
+try -2 0
+5
+try -1 5
+3
+try -1 1
+3
+try -2 4
+3
+try -2 2
+3
+try 0 -1
+2
+try -1 2
+2
+try -1 0
+2
+???
