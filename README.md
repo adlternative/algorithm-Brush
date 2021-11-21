@@ -44,3 +44,7 @@
 
 `leetcode 17.24`
 1. 从一维怎么求最大区间去思考。二维需要先固定上边，再固定左边，然后移动下边和右边，动态规划更新最值。
+
+`leetcode 887` 扔鸡蛋
+1. 巧妙解法 抽象出 `鸡蛋数，机会数量` 两个因子计算可以求解的楼层数，而不是死纠 `鸡蛋数, 楼层数` 算最大机会次数。
+2. [我不会，蛋我大受震撼](https://leetcode-cn.com/problems/super-egg-drop/solution/ji-dan-diao-luo-by-leetcode-solution-2/)
