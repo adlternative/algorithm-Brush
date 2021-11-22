@@ -48,3 +48,8 @@
 `leetcode 887` 扔鸡蛋
 1. 巧妙解法 抽象出 `鸡蛋数，机会数量` 两个因子计算可以求解的楼层数，而不是死纠 `鸡蛋数, 楼层数` 算最大机会次数。
 2. [我不会，蛋我大受震撼](https://leetcode-cn.com/problems/super-egg-drop/solution/ji-dan-diao-luo-by-leetcode-solution-2/)
+
+`leetcode 10`
+1. 正则表达式，如果当前匹配到 `*` 向左看前一个字符串是否匹配，若匹配，状态如何转移，若不匹配，状态如何转移。（将 `x*`看成一个整体）
+`leetcode 44`
+1. 和上题类似。匹配到 `*` 等价于 使用 `*` 和不使用 `*` 的两种情况。
