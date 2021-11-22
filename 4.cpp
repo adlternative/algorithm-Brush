@@ -1,38 +1,73 @@
+#include <bits/stdc++.h>
+#include <gtest/gtest.h>
 
-// #include <bits/stdc++.h>
-// #include <errno.h>
-// #include <fcntl.h>
-// #include <sys/types.h>
-// #include <unistd.h>
+using namespace std;
+/* g++ x.cpp -lgtest -lgtest_main */
 
-// using namespace std;
-// class Solution {
-// public:
-//   double findMedianSortedArrays(vector<int> &nums1, vector<int> &nums2) {
-//     // nums1.size(); 5
-//     // nums2.size(); 5
-//     // 1 3 5 7 9 | 2 4 6 8 10 重叠
-//     //  寻找中位数
-//     // 1 2 3 4 5 6 7 8 9 10  5,6 ->5.5
-//     //策略 n%2=0 那么就是n/2 -1 n/2之间 n%2=1 那么就是 s[n/2]
-//     //如果合并直接找 O(N)
-//     // n/2 估算在哪里出现...如果小于 size1 那么就在左边找 否则在右边
-//     // 然后如果n/2大于size1/2...继续缩放
-//     int midValue = 0;
-//     auto size1 = nums1.size();
-//     auto size2 = nums2.size();
-//     auto allLen = size1 + size2;
-//     bool onlyOne = allLen % 2;
-//     int target = onlyOne ? allLen / 2 : allLen / 2 - 1;
+class Solution {
+public:
+  double findMedianSortedArrays(vector<int> &nums1, vector<int> &nums2) {
+    int len1 = nums1.size();
+    int len2 = nums2.size();
+    int lens = len1 + len2;
+    if (lens % 2)
+      return getKth(nums1, nums2, (lens + 1) / 2);
+    else
+      return (double)(getKth(nums1, nums2, lens / 2) +
+                      getKth(nums1, nums2, lens / 2 + 1)) /
+             2.0;
+  }
 
-//     return midValue;
-//   }
-// };
-// int main(int argc, char const *argv[]) {
-//   Solution s;
-//   vector<int> v1{1, 3, 5, 7, 9};
-//   vector<int> v2{2, 4, 6, 8, 10};
-//   int value = s.findMedianSortedArrays(v1, v2);
-//   std::cout << value << std::endl;
-//   return 0;
-// }
+  int getKth(vector<int> &nums1, vector<int> &nums2, int k) {
+    int len1 = nums1.size();
+    int len2 = nums2.size();
+    // int lens = len1 + len2;
+    int k0 = k;
+    int cur1 = 0, cur2 = 0;
+    int v1, v2;
+    while (1) {
+      /* 第一个数组遍历完了，从另一个数组取 */
+      if (cur1 == len1) {
+        return nums2[cur2 + k0 - 1];
+      }
+      if (cur2 == len2) {
+        return nums1[cur1 + k0 - 1];
+      }
+      /* 如果只有最后一个，直接从两个数组当前位置取最小的那个数字
+      （注意我们之前更新 cur 可能更新到数组的末尾，所以必须放在 上面俩判断下面）
+    */
+      if (k0 == 1) {
+        return min(nums1[cur1], nums2[cur2]);
+      }
+      /* 取到 cur + k/2 -1 进行比较 （除非到了末尾）*/
+      int next1 = min(cur1 + k0 / 2 - 1, len1 - 1);
+      int next2 = min(cur2 + k0 / 2 - 1, len2 - 1);
+      v1 = nums1[next1];
+      v2 = nums2[next2];
+      /* 排除更小的那段 */
+      if (v1 <= v2) {
+        k0 -= next1 - cur1 + 1;
+        cur1 = next1 + 1;
+      } else {
+        k0 -= next2 - cur2 + 1;
+        cur2 = next2 + 1;
+      }
+    }
+  }
+};
+
+TEST(Solution, isMatch) {
+  Solution s;
+  vector<int> v1{1, 2};
+  vector<int> v2{3, 4};
+  EXPECT_EQ(s.findMedianSortedArrays(v1, v2), 2.5);
+  // v1 = {1, 2, 3, 4};
+  // v2 = {1, 2, 3, 4};
+  // EXPECT_EQ(s.findMedianSortedArrays(v1, v2), 2.5);
+  // v1 = {1, 3, 5, 6, 10, 12};
+  // v2 = {7, 8, 10, 13, 15}; // 11 /2 =5
+  // EXPECT_EQ(s.findMedianSortedArrays(v1, v2), 8);
+  v1 = {1};
+  v2 = {7, 8, 10, 13, 15}; // 11 /2 =5
+  EXPECT_EQ(s.findMedianSortedArrays(v1, v2), 9);
+}
