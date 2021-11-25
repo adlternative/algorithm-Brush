@@ -55,6 +55,8 @@
 `leetcode 275`
 1. 找 `max(len - x >= f(x) ? f(x) : len -x > f(x-1) ? len - x : none)`
 
+`leetcode 240`
+1. 横坐标和纵坐标分别二分排除非目标区域。 (利用 `upper_bound`)
 
 ### 动态规划
 
