@@ -98,6 +98,7 @@ TEST(Solution, lower_bound) {
   EXPECT_EQ(s.lower_bound(v, 7), 5);
 
   v = {1, 1, 4, 5, 6, 6};
+  EXPECT_EQ(s.lower_bound(v, 0), 0);
   EXPECT_EQ(s.lower_bound(v, 1), 0);
   EXPECT_EQ(s.lower_bound(v, 2), 2);
   EXPECT_EQ(s.lower_bound(v, 4), 2);
