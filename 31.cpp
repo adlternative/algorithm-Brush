@@ -1,53 +1,51 @@
-//
-// Created by adl on 2　2　/11/1　.
-//
-
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
+#include <gtest/gtest.h>
 
 using namespace std;
-
+/* g++ x.cpp -lgtest -lgtest_main */
 class Solution {
 public:
-    void nextPermutation(vector<int> &nums) {
-        /*
-        124563 ->124536
-        35421 ->  4 1235
-        35412 ->  3 5 4 21
-        142 ->214
-        54321 ->sort
-        123465 ->123456
-         */
-
-        int size = nums.size();//5
-        int i = size - 1;
-        for (; i != 0; --i) {
-            if (nums[i] > nums[i - 1]) {
-                break;
-            }
-        }
-        if (i != 0) {
-            int min = nums[i];
-            int key = i;
-
-            for (int j = i; j != size; j++) {
-                if (nums[j] < min && nums[j] > nums[i - 1]) {
-                    min = nums[j];
-                    key = j;
-                }
-            }
-            swap(nums[i - 1], nums[key]);
-        }
-        sort(nums.begin() + i, nums.end());
+  void nextPermutation(vector<int> &nums) {
+    /* 1. 从右向左寻找乱序数 */
+    int lens = nums.size();
+    int cur = lens - 1;
+    while (cur && nums[cur] <= nums[cur - 1]) {
+      --cur;
     }
+    if (!cur) {
+      reverse(nums.begin(), nums.end());
+      return;
+    }
+    --cur;
+    /* 在 cur + 1 ~ end 之间寻找最右边第一个大于
+      nums[cur] 的数字进行交换 */
+    int l = cur + 1, r = lens - 1;
+    while (l <= r) {
+      int mid = (l + r) >> 1;
+      if (nums[mid] > nums[cur]) {
+        l++;
+      } else {
+        r--;
+      }
+    }
+    swap(nums[r], nums[cur]);
+    sort(nums.begin() + cur + 1, nums.end());
+  }
 };
 
-int main(int argc, char *argv[]) {
-    Solution s;
-    vector<int> v{2,3,1};
-    s.nextPermutation(v);
-
-    for (const auto &item:v) {
-        std::cout << item << std::endl;
-    }
-    return 0;
+TEST(Solution, isMatch) {
+  Solution s;
+  vector v{1, 2, 3};
+  vector expect{1, 3, 2};
+  s.nextPermutation(v);
+  int lens = v.size();
+  for (int i = 0; i < lens; i++) {
+    EXPECT_EQ(v[i], expect[i]);
+  }
+  v = {3, 2, 1};
+  expect = {1, 2, 3};
+  s.nextPermutation(v);
+  for (int i = 0; i < lens; i++) {
+    EXPECT_EQ(v[i], expect[i]);
+  }
 }
