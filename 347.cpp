@@ -1,39 +1,60 @@
 #include <bits/stdc++.h>
-#include <errno.h>
-#include <fcntl.h>
-#include <sys/stat.h>
-#include <sys/types.h>
-#include <sys/wait.h>
-#include <unistd.h>
+#include <gtest/gtest.h>
 
 using namespace std;
+/* g++ x.cpp -lgtest -lgtest_main */
+
+class Heap {};
+
 class Solution {
 public:
-  map<int, int> ntof;
+  void make_heap(vector<pair<int, int>> &nums, int beg, int end) {
+    while (1) {
+      int son = beg * 2 + 1;
+      if (son > end)
+        break;
+
+      if (son + 1 <= end && nums[son + 1].first > nums[son].first)
+        son++;
+
+      if (nums[beg].first >= nums[son].first)
+        break;
+
+      swap(nums[beg], nums[son]);
+      beg = son;
+    }
+  }
+
   vector<int> topKFrequent(vector<int> &nums, int k) {
+    unordered_map<int, int> num2cnt;
     vector<int> ret;
-    for (auto &&i : nums) {
-      ntof[i]++;
+    vector<pair<int, int>> cnt2num;
+
+    int len1 = nums.size();
+    for (int i = 0; i < len1; ++i) {
+      num2cnt[nums[i]]++;
     }
-    priority_queue<pair<int, int>> pq;
-    for (auto &&i : ntof) {
-      pq.push({i.second, i.first});
-    }
-    for (size_t i = 0; i < k; i++) {
-      ret.push_back(pq.top().second);
-      pq.pop();
+    for (auto &[num, cnt] : num2cnt)
+      cnt2num.emplace_back(cnt, num);
+
+    int lens = cnt2num.size();
+    for (int i = lens / 2 + 1; i >= 0; --i)
+      make_heap(cnt2num, i, lens - 1);
+    for (int i = 0; i < k; i++) {
+      swap(cnt2num[0], cnt2num[lens - i - 1]);
+      ret.push_back(cnt2num[lens - i - 1].second);
+      make_heap(cnt2num, 0, lens - i - 2);
     }
     return ret;
   }
 };
 
-int main(int argc, char const *argv[]) {
-  vector<int> v{1, 1, 1, 2, 2, 3};
+TEST(Solution, isMatch) {
   Solution s;
-  auto vv = s.topKFrequent(v, 2);
-  for (auto &&i : vv) {
+
+  vector<int> nums{1, 2};
+  vector<int> v = s.topKFrequent(nums, 2);
+  for (auto i : v) {
     std::cout << i << std::endl;
   }
-
-  return 0;
 }
